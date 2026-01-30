@@ -1,0 +1,2402 @@
+2022	07	100000000	TOTAL ACTIVOS
+2022	07	105000000	EFECTIVO Y DEPÓSITOS EN BANCOS
+2022	07	105000100	Efectivo
+2022	07	105000101	Efectivo en oficinas
+2022	07	105000102	Efectivo en empresas transportadoras de valores
+2022	07	105000103	Efectivo en custodia en otras entidades financieras
+2022	07	105000200	Depósitos en el Banco Central de Chile
+2022	07	105000201	Depósitos en cuenta corriente
+2022	07	105000202	Depósitos overnight
+2022	07	105000209	Otros depósitos disponibles
+2022	07	105000300	Depósitos en Bancos Centrales del exterior
+2022	07	105000301	Depósitos en cuenta corriente
+2022	07	105000302	Depósitos overnight
+2022	07	105000309	Otros depósitos disponibles
+2022	07	105000400	Depósitos en bancos del país
+2022	07	105000500	Depósitos en bancos del exterior
+2022	07	107000000	OPERACIONES CON LIQUIDACION EN CURSO
+2022	07	107000100	Documentos a cargo de otros bancos (canje)
+2022	07	107000101	Canje no deducible
+2022	07	107000102	Canje de la plaza
+2022	07	107000103	Canje de otras plazas
+2022	07	107000200	Transferencias de fondos en curso con una contraparte central
+2022	07	107000201	Fondos pendientes de transferencia por operaciones en la cámara de swaps
+2022	07	107000202	Fondos pendientes de transferencia por operaciones en la cámara de forwards
+2022	07	107000300	Transferencias de fondos en curso a través de una cámara de compensación de alto valor
+2022	07	107000400	Otras transferencias de fondos en curso con Bancos u Otros
+2022	07	107000401	Pagos de contrapartes por liquidar - Bancos
+2022	07	107000409	Divisas pendientes de transferencia - Bancos
+2022	07	107000411	Pagos de contrapartes por liquidar - Otros
+2022	07	107000419	Divisas pendientes de transferencia - Otros
+2022	07	110000000	ACTIVOS FINANCIEROS PARA NEGOCIAR A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	111000100	Contratos de derivados financieros
+2022	07	111000101	Forwards
+2022	07	111000102	Swaps
+2022	07	111000103	Opciones Call
+2022	07	111000104	Opciones Put
+2022	07	111000105	Futuros
+2022	07	111000109	Otros
+2022	07	112000000	Instrumentos financieros de deuda
+2022	07	112000100	Del Estado y Banco Central de Chile
+2022	07	112000101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	112000102	Bonos y pagarés de la Tesorería General de la República
+2022	07	112000109	Otros instrumentos financieros de deuda fiscales
+2022	07	112000200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	112000201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	112000202	Bonos y efectos de comercio de empresas del país
+2022	07	112000209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	112000300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	112000301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	112000302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	112000303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	112000304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	112000309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	113000000	Otros instrumentos financieros
+2022	07	113000100	Inversiones en Fondos Mutuos
+2022	07	113000101	Fondos mutuos administrados por sociedades relacionadas
+2022	07	113000102	Fondos mutuos administrados por terceros
+2022	07	113000200	Instrumentos de patrimonio
+2022	07	113000201	Instrumentos de patrimonio en el país
+2022	07	113000202	Instrumentos de patrimonio en el exterior
+2022	07	113000300	Créditos originados y adquiridos por la entidad
+2022	07	113000301	Adeudado por bancos
+2022	07	113000302	Colocaciones comerciales
+2022	07	113000303	Colocaciones para vivienda
+2022	07	113000304	Colocaciones de consumo
+2022	07	113000400	Otros
+2022	07	115000000	ACTIVOS FINANCIEROS NO DESTINADOS A NEGOCIACIÓN VALORADOS OBLIGATORIAMENTE A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	115250000	Instrumentos financieros de deuda
+2022	07	115250100	Del Estado y Banco Central de Chile
+2022	07	115250101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	115250102	Bonos y pagarés de la Tesorería General de la República
+2022	07	115250109	Otros instrumentos financieros de deuda fiscales
+2022	07	115250200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	115250201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	115250202	Bonos y efectos de comercio de empresas del país
+2022	07	115250209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	115250300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	115250301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	115250302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	115250303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	115250304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	115250309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	115500000	Otros instrumentos financieros
+2022	07	115500100	Inversiones en Fondos Mutuos
+2022	07	115500101	Fondos mutuos administrados por sociedades relacionadas
+2022	07	115500102	Fondos mutuos administrados por terceros
+2022	07	115500300	Créditos originados y adquiridos por la entidad
+2022	07	115500301	Adeudado por bancos
+2022	07	115500302	Colocaciones comerciales
+2022	07	115500303	Colocaciones para vivienda
+2022	07	115500304	Colocaciones de consumo
+2022	07	115500400	Otros
+2022	07	118000000	ACTIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	118250000	Instrumentos financieros de deuda
+2022	07	118250100	Del Estado y Banco Central de Chile
+2022	07	118250101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	118250102	Bonos y pagarés de la Tesorería General de la República
+2022	07	118250109	Otros instrumentos financieros de deuda fiscales
+2022	07	118250200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	118250201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	118250202	Bonos y efectos de comercio de empresas del país
+2022	07	118250209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	118250300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	118250301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	118250302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	118250303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	118250304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	118250309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	118500000	Otros instrumentos financieros
+2022	07	118500300	Créditos originados y adquiridos por la entidad
+2022	07	118500301	Adeudado por bancos
+2022	07	118500302	Colocaciones comerciales
+2022	07	118500303	Colocaciones para vivienda
+2022	07	118500304	Colocaciones de consumo
+2022	07	118500400	Otros
+2022	07	120000000	ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	122000000	Instrumentos financieros de deuda
+2022	07	122000100	Del Estado y Banco Central de Chile
+2022	07	122000101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	122000102	Bonos y pagarés de la Tesorería General de la República
+2022	07	122000109	Otros instrumentos financieros de deuda fiscales
+2022	07	122000200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	122000201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	122000202	Bonos y efectos de comercio de empresas del país
+2022	07	122000209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	122000300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	122000301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	122000302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	122000303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	122000304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	122000309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	123000000	Otros instrumentos financieros
+2022	07	123000300	Créditos originados y adquiridos por la entidad
+2022	07	123000301	Adeudado por bancos
+2022	07	123000302	Colocaciones comerciales
+2022	07	123000303	Colocaciones para vivienda
+2022	07	123000304	Colocaciones de consumo
+2022	07	123000400	Otros
+2022	07	130000000	CONTRATOS DE DERIVADOS FINANCIEROS PARA COBERTURA CONTABLE
+2022	07	130000100	Contratos de derivados financieros para cobertura contable
+2022	07	130000101	Forwards
+2022	07	130000102	Swaps
+2022	07	130000103	Opciones Call
+2022	07	130000104	Opciones Put
+2022	07	130000105	Futuros
+2022	07	130000190	Otros
+2022	07	140000000	ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	141000000	Derechos por pactos de retroventa y prestamos de valores
+2022	07	141000100	Operaciones con bancos del país
+2022	07	141000101	Contratos de retroventa con otros bancos
+2022	07	141000102	Contratos de retroventa con Banco Central de Chile
+2022	07	141000103	Derechos por préstamos de valores
+2022	07	141000200	Operaciones con bancos del exterior
+2022	07	141000201	Contratos de retroventa con otros bancos
+2022	07	141000202	Contratos de retroventa con Bancos Centrales del exterior
+2022	07	141000203	Derechos por préstamos de valores
+2022	07	141000300	Operaciones con otras entidades en el país
+2022	07	141000301	Contratos de retroventa
+2022	07	141000302	Derechos por préstamos de valores
+2022	07	141000400	Operaciones con otras entidades en el exterior
+2022	07	141000401	Contratos de retroventa
+2022	07	141000402	Derechos por préstamos de valores
+2022	07	141000900	Deterioro de valor acumulado de activos financieros a costo amortizado - Derechos por pactos de retroventa y prestamos de valores
+2022	07	141000901	Activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+2022	07	141000902	Activos financieros con un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+2022	07	141000903	Activos financieros con deterioro crediticio (fase 3)
+2022	07	141500000	Instrumentos financieros de deuda
+2022	07	141500100	Del Estado y Banco Central de Chile
+2022	07	141500101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	141500102	Bonos y pagarés de la Tesorería General de la República
+2022	07	141500109	Otros instrumentos financieros de deuda fiscales
+2022	07	141500200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	141500201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	141500202	Bonos y efectos de comercio de empresas del país
+2022	07	141500209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	141500300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	141500301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	141500302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	141500303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	141500304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	141500309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	141500900	Deterioro de valor acumulado de activos financieros a costo amortizado - Instrumentos financieros de deuda
+2022	07	141500901	Activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+2022	07	141500902	Activos financieros con un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+2022	07	141500903	Activos financieros con deterioro crediticio (fase 3)
+2022	07	143000000	Adeudado por bancos
+2022	07	143100100	Banco del país
+2022	07	143100100	Banco del país
+2022	07	143100101	Préstamos interbancarios de liquidez
+2022	07	143100102	Préstamos interbancarios comerciales
+2022	07	143100103	Sobregiros en cuentas corrientes
+2022	07	143100104	Créditos comercio exterior exportaciones chilenas
+2022	07	143100105	Créditos comercio exterior importaciones chilenas
+2022	07	143100106	Créditos comercio exterior entre terceros países
+2022	07	143100107	Depósitos no transferibles en bancos del país
+2022	07	143100190	Otras acreencias con bancos del país
+2022	07	143150100	Provisiones para créditos con bancos del país
+2022	07	143150101	Provisiones evaluación individual - cartera normal
+2022	07	143150102	Provisiones evaluación individual - cartera subestándar
+2022	07	143150103	Provisiones evaluación individual - cartera en incumplimiento
+2022	07	143200100	Bancos del exterior
+2022	07	143200100	Bancos del exterior
+2022	07	143200101	Préstamos interbancarios de liquidez
+2022	07	143200102	Préstamos interbancarios comerciales
+2022	07	143200103	Sobregiros en cuentas corrientes
+2022	07	143200104	Créditos comercio exterior exportaciones chilenas
+2022	07	143200105	Créditos comercio exterior importaciones chilenas
+2022	07	143200106	Créditos comercio exterior entre terceros países
+2022	07	143200107	Depósitos en cuenta corriente en bancos del exterior por operaciones de derivados
+2022	07	143200108	Otros depósitos no transferibles en bancos del exterior
+2022	07	143200190	Otras acreencias con bancos del exterior
+2022	07	143250100	Provisiones para créditos con bancos del exterior
+2022	07	143250101	Provisiones evaluación individual - cartera normal
+2022	07	143250102	Provisiones evaluación individual - cartera subestándar
+2022	07	143250103	Provisiones evaluación individual - cartera en incumplimiento
+2022	07	143300100	Banco Central de Chile
+2022	07	143300101	Depósitos en cuenta corriente del Banco Central de Chile por operaciones de derivados con una contraparte central
+2022	07	143300102	Otros depósitos en el Banco Central de Chile no disponibles
+2022	07	143300103	Otras acreencias con el Banco Central de Chile
+2022	07	143400100	Bancos Centrales del exterior
+2022	07	143400101	Depósitos en cuenta corriente de Bancos Centrales del exterior por operaciones de derivados
+2022	07	143400102	Otros depósitos en Bancos Centrales del exterior no disponibles
+2022	07	143400103	Otras acreencias con Bancos Centrales del exterior
+2022	07	144000000	Créditos y cuentas por cobrar a clientes
+2022	07	145000000	Colocaciones comerciales
+2022	07	145000000	Colocaciones comerciales
+2022	07	145400100	Préstamos comerciales
+2022	07	145400101	Préstamos en el país
+2022	07	145400102	Préstamos en el exterior
+2022	07	145400103	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	145400104	Préstamos con letras de crédito para fines generales
+2022	07	145400105	Préstamos con mutuos hipotecarios endosables para fines generales
+2022	07	145400106	Préstamos con mutuos hipotecarios no endosables para fines generales
+2022	07	145400200	Créditos de comercio exterior
+2022	07	145400201	Acreditivos negociados a plazo de exportaciones chilenas
+2022	07	145400202	Otros créditos para exportaciones chilenas
+2022	07	145400203	Acreditivos negociados a plazo de importaciones chilenas
+2022	07	145400204	Otros créditos para importaciones chilenas
+2022	07	145400205	Acreditivos negociados a plazo de operaciones entre terceros países
+2022	07	145400290	Otros créditos para operaciones entre terceros países
+2022	07	145400300	Deudores en cuentas corrientes
+2022	07	145400400	Deudores por tarjetas de crédito
+2022	07	145400401	Créditos por tarjetas de crédito
+2022	07	145400402	Utilizaciones de tarjetas de crédito por cobrar
+2022	07	145400500	Operaciones de factoraje
+2022	07	145400501	Factoring con responsabilidad
+2022	07	145400502	Factoring sin responsabilidad
+2022	07	145400600	Operaciones de leasing financiero comerciales
+2022	07	145400601	Leasing por bienes inmobiliarios
+2022	07	145400602	Leasing por bienes no inmobiliarios
+2022	07	145400700	Préstamos estudiantiles
+2022	07	145400701	Créditos para estudios superiores Ley N° 20.027 (CAE)
+2022	07	145400702	Créditos con garantía CORFO
+2022	07	145400703	Otros créditos para estudios superiores
+2022	07	145400900	Otros créditos y cuentas por cobrar
+2022	07	145400901	Deudores por pago de obligaciones avaladas
+2022	07	145400902	Deudores por boletas de garantía pagadas
+2022	07	145400990	Otras cuentas por cobrar
+2022	07	146000000	Colocaciones para vivienda
+2022	07	146000000	Colocaciones para vivienda
+2022	07	146000100	Préstamos con letras de crédito para vivienda
+2022	07	146000200	Préstamos con mutuos hipotecarios endosable
+2022	07	146000300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	146000400	Otros créditos con mutuos para vivienda
+2022	07	146000401	Otros créditos con mutuos no endosables para vivienda
+2022	07	146000402	Otros créditos con mutuos para vivienda
+2022	07	146000500	Operaciones de leasing financiero para vivienda
+2022	07	146000900	Otros créditos y cuentas por cobrar
+2022	07	146000901	Créditos complementarios a los mutuos
+2022	07	146000902	Créditos de enlace
+2022	07	146000903	Créditos provenientes de la ANAP
+2022	07	146000909	Cuentas por cobrar a deudores para vivienda
+2022	07	148000000	Colocaciones de consumo
+2022	07	148000000	Colocaciones de consumo
+2022	07	148000100	Créditos de consumo en cuotas
+2022	07	148000200	Deudores en cuentas corrientes
+2022	07	148000300	Deudores por tarjetas de crédito
+2022	07	148000301	Créditos por tarjetas de crédito
+2022	07	148000302	Utilizaciones de tarjetas de crédito por cobrar
+2022	07	148000400	Operaciones de leasing financiero de consumo
+2022	07	148000900	Otros créditos y cuentas por cobrar
+2022	07	148000901	Créditos de consumo rotativos
+2022	07	148000902	Cuentas por cobrar a deudores de consumo
+2022	07	149000000	Provisiones constituidas por riesgo de crédito
+2022	07	149500100	Provisiones de colocaciones comerciales
+2022	07	149500101	Provisiones evaluación individual - cartera normal
+2022	07	149500102	Provisiones evaluación individual - cartera subestándar
+2022	07	149500103	Provisiones evaluación individual - cartera en incumplimiento
+2022	07	149500104	Provisiones evaluación grupal - cartera normal
+2022	07	149500105	Provisiones evaluación grupal - cartera en incumplimiento
+2022	07	149500109	Provisiones por deducible de garantías de FOGAPE Covid-19
+2022	07	149600100	Provisiones de colocaciones para vivienda
+2022	07	149600101	Provisiones evaluación grupal - cartera normal
+2022	07	149600102	Provisiones evaluación grupal - cartera en incumplimiento
+2022	07	149700100	Provisiones de colocaciones de consumo
+2022	07	149700101	Provisiones evaluación grupal - cartera normal
+2022	07	149700102	Provisiones evaluación grupal - cartera en incumplimiento
+2022	07	150000000	INVERSIONES EN SOCIEDADES
+2022	07	150000100	Sociedades controladas en el país
+2022	07	150000200	Sociedades controladas en el exterior
+2022	07	150000201	Sucursales controladas en el exterior
+2022	07	150000202	Otras sociedades controladas en el exterior
+2022	07	150000300	Sociedades con influencia significativa en el país
+2022	07	150000400	Sociedades con influencia significativa en el exterior
+2022	07	150000500	Inversiones en sociedades como un negocio conjunto en el país
+2022	07	150000600	Inversiones en sociedades como un negocio conjunto en el exterior
+2022	07	150000700	Inversiones minoritarias en otras sociedades en el país
+2022	07	150000800	Inversiones minoritarias en otras sociedades en el exterior
+2022	07	160000000	ACTIVOS INTANGIBLES
+2022	07	160000100	Goodwill por combinaciones de negocio
+2022	07	160000200	Otros intangibles originados en combinaciones de negocios
+2022	07	160000201	Relación con clientes
+2022	07	160000202	Contrato de exclusividad
+2022	07	160000203	Depósitos estables ("core deposit")
+2022	07	160000204	Derecho a usar marcas
+2022	07	160000205	Derecho a usar canales
+2022	07	160000206	Contrato para recaudación de servicios
+2022	07	160000207	Software o programas computacionales
+2022	07	160000208	Derechos de servicios de créditos hipotecarios ("mortgage servicing rights")
+2022	07	160000209	Otros intangibles
+2022	07	160000219	Amortizaciones acumuladas
+2022	07	160000300	Otros activos intangibles originados en forma independiente
+2022	07	160000301	Software o programas computacionales adquiridos en forma independiente
+2022	07	160000302	Software o programas computacionales generados internamente
+2022	07	160000303	Derechos de servicios de créditos hipotecarios ("mortgage servicing rights")
+2022	07	160000309	Otros intangibles
+2022	07	160000319	Amortizaciones acumuladas
+2022	07	170000000	ACTIVOS FIJOS
+2022	07	170000100	Edificios y terrenos
+2022	07	170000101	Edificios
+2022	07	170000102	Terrenos
+2022	07	170000119	Depreciaciones acumuladas
+2022	07	170000200	Otros activos fijos
+2022	07	170000201	Equipos
+2022	07	170000209	Otros activos fijos
+2022	07	170000219	Depreciaciones acumuladas
+2022	07	175000000	ACTIVOS POR DERECHO A USAR BIENES EN ARRENDAMIENTO
+2022	07	175000100	Edificios y terrenos
+2022	07	175000101	Edificios
+2022	07	175000102	Terrenos
+2022	07	175000119	Depreciaciones acumuladas
+2022	07	175000200	Mejoras en inmuebles arrendados
+2022	07	175000201	Mejoras en inmuebles arrendados
+2022	07	175000219	Depreciaciones acumuladas
+2022	07	175000300	Otros activos fijos
+2022	07	175000301	Equipos
+2022	07	175000309	Otros activos fijos
+2022	07	175000319	Depreciaciones acumuladas
+2022	07	175000400	Otros activos intangibles
+2022	07	175000401	Programas computacionales
+2022	07	175000409	Otros intangibles
+2022	07	175000419	Amortizaciones acumuladas
+2022	07	180000000	IMPUESTOS CORRIENTES
+2022	07	185000000	IMPUESTOS DIFERIDOS
+2022	07	190000000	OTROS ACTIVOS
+2022	07	190000100	Activos para ceder en leasing financiero como arrendador
+2022	07	190000101	Cartera comercial
+2022	07	190000102	Cartera vivienda
+2022	07	190000103	Cartera consumo
+2022	07	190000200	Garantías en efectivo entregadas por operaciones financieras de derivados
+2022	07	190000201	Garantías en efectivo entregadas por operaciones financieras de derivados con una entidad de contraparte central en el país
+2022	07	190000202	Garantías en efectivo entregadas por operaciones financieras de derivados con una entidad de contraparte central en el exterior
+2022	07	190000203	Garantías en efectivo entregadas por operaciones financieras de derivados con otras contrapartes en el país
+2022	07	190000204	Garantías en efectivo entregadas por operaciones financieras de derivados con otras contrapartes en el exterior
+2022	07	190000300	Deudores por intermediación de instrumentos financieros
+2022	07	190000301	Deudores por intermediación de operaciones a término
+2022	07	190000302	Deudores por intermediación de operaciones a plazo (simultaneas)
+2022	07	190000303	Otras cuentas por cobrar por intermediación de instrumentos financieros
+2022	07	190000400	Cuentas por cobrar por uso de tarjetas de pago con provisión de fondos
+2022	07	190000401	Comisiones por cobrar a titulares o portadores de tarjetas de pago con provisión de fondos de tarjetas nominativas
+2022	07	190000402	Comisiones por cobrar a titulares o portadores de tarjetas de pago con provisión de fondos de tarjetas innominadas
+2022	07	190000500	Cuentas por cobrar a terceros
+2022	07	190000501	Cuentas por cobrar a sociedades con influencia significativa o negocio conjunto por servicios prestados
+2022	07	190000502	Cuentas por cobrar a otras sociedades con participación minoritaria por servicios prestados
+2022	07	190000503	Cuentas por cobrar a la Tesorería General de la República y otros organismos fiscales
+2022	07	190000504	Cuentas por cobrar relacionado con préstamos estudiantiles
+2022	07	190000505	Cuentas por cobrar relacionado con operaciones de leasing financiero
+2022	07	190000509	Otras cuentas y documentos por cobrar a terceros
+2022	07	190000600	Cuentas por cobrar a filiales del banco por servicios prestados (aplica solo a nivel individual del banco)
+2022	07	190000700	Propiedades de inversión
+2022	07	190000701	Propiedades de inversión
+2022	07	190000702	Depreciaciones acumuladas
+2022	07	190000800	IVA crédito fiscal por cobrar
+2022	07	190000900	Gastos pagados por anticipado
+2022	07	190001000	Ajustes de valorización por macro coberturas
+2022	07	190001100	Activos para respaldar obligaciones por planes post-empleo de beneficios definidos
+2022	07	190001200	Activo por ingresos de actividades habituales procedentes de contratos con clientes
+2022	07	190001300	Inversiones en oro
+2022	07	190001400	Otras garantías en efectivo entregadas
+2022	07	190001500	Operaciones pendientes
+2022	07	190002900	Otros activos
+2022	07	192500100	Deterioro de valor acumulado respecto de otros activos por cobrar
+2022	07	192500101	Otros activos sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+2022	07	192500102	Otros activos con un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+2022	07	192500103	Otros activos con deterioro crediticio (fase 3)
+2022	07	195000000	ACTIVOS NO CORRIENTES Y GRUPOS ENAJENABLES PARA LA VENTA
+2022	07	195000100	Bienes recibidos en pago o adjudicados en remate judicial
+2022	07	195000101	Bienes recibidos en pago
+2022	07	195000102	Bienes adjudicados en remate judicial
+2022	07	195000103	Provisiones por bienes recibidos en pago o adjudicados en remate judicial
+2022	07	195000200	Activos no corrientes para la venta
+2022	07	195000201	Inversiones en sociedades
+2022	07	195000202	Activos intangibles
+2022	07	195000203	Activos fijos
+2022	07	195000204	Activos por recuperación de bienes cedidos en operaciones de leasing financiero
+2022	07	195000219	Otros activos
+2022	07	195000300	Grupos enajenables para la venta
+2022	07	200000000	TOTAL PASIVOS
+2022	07	207000000	OPERACIONES CON LIQUIDACION EN CURSO
+2022	07	207000100	Transferencias de fondos en curso con una contraparte central
+2022	07	207000101	Fondos pendientes de transferencia por operaciones en la cámara de swaps
+2022	07	207000102	Fondos pendientes de transferencia por operaciones en la cámara de forwards
+2022	07	207000200	Transferencias de fondos en curso a través de una cámara de compensación de alto valor
+2022	07	207000300	Otras transferencias de fondos en curso con Bancos u Otros
+2022	07	207000301	Pagos de contrapartes por liquidar - Bancos
+2022	07	207000309	Divisas pendientes de transferencia - Bancos
+2022	07	207000311	Pagos de contrapartes por liquidar - Otros
+2022	07	207000319	Divisas pendientes de transferencia - Otros
+2022	07	210000000	PASIVOS FINANCIEROS PARA NEGOCIAR A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	211000100	Contratos de derivados financieros
+2022	07	211000101	Forwards
+2022	07	211000102	Swaps
+2022	07	211000103	Opciones Call
+2022	07	211000104	Opciones Put
+2022	07	211000105	Futuros
+2022	07	211000190	Otros
+2022	07	213000100	Otros instrumentos financieros
+2022	07	213000101	Depósitos y otras obligaciones a la vista
+2022	07	213000102	Depósitos y otras captaciones a plazo
+2022	07	213000103	Instrumentos de deuda emitidos
+2022	07	213000109	Otros
+2022	07	218000000	PASIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	218000001	Depósitos y otras obligaciones a la vista
+2022	07	218000002	Depósitos y otras captaciones a plazo
+2022	07	218000003	Instrumentos de deuda emitidos
+2022	07	218000009	Otros
+2022	07	230000000	CONTRATOS DE DERIVADOS FINANCIEROS PARA COBERTURA CONTABLE
+2022	07	230000100	Contratos de derivados financieros para cobertura contable
+2022	07	230000101	Forwards
+2022	07	230000102	Swaps
+2022	07	230000103	Opciones Call
+2022	07	230000104	Opciones Put
+2022	07	230000105	Futuros
+2022	07	230000190	Otros
+2022	07	240000000	PASIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	241000000	Depósitos y otras obligaciones a la vista
+2022	07	241000100	Cuentas corrientes
+2022	07	241000101	Cuentas corrientes de bancos del país
+2022	07	241000102	Cuentas corrientes de bancos del exterior
+2022	07	241000103	Cuentas corrientes de otras personas jurídicas
+2022	07	241000104	Cuentas corrientes de personas naturales
+2022	07	241000200	Cuentas de depósito a la vista
+2022	07	241000201	Cuentas de ahorro a la vista
+2022	07	241000202	Cuentas a la vista
+2022	07	241000300	Otros depósitos a la vista
+2022	07	241000301	Vales a la vista
+2022	07	241000400	Obligaciones por cuentas de provisión de fondos para tarjetas de pago
+2022	07	241000401	Cuentas de pago con provisión de fondos asociadas a tarjetas nominativas
+2022	07	241000402	Cuentas de pago con provisión de fondos asociadas a tarjetas innominadas
+2022	07	241000500	Otras obligaciones a la vista
+2022	07	241000501	Préstamos otorgados para financiamiento de estudios superiores por enterar a los establecimientos educacionales.
+2022	07	241000502	Obligaciones por créditos hipotecarios otorgados por enterar a otros bancos y/o inmobiliarias
+2022	07	241000503	Obligaciones por otros créditos otorgados por enterar a otros bancos y/o al beneficiario del préstamo.
+2022	07	241000504	Depósitos por consignaciones judiciales
+2022	07	241000505	Boletas de garantías pagaderas a la vista
+2022	07	241000506	Recaudaciones y cobranzas efectuadas por enterar
+2022	07	241000507	Órdenes de pago pendientes
+2022	07	241000508	Retenciones judiciales sobre obligaciones a la vista
+2022	07	241000509	Pagos recibidos a cuenta de créditos por liquidar
+2022	07	241000510	Saldos inmovilizados artículo 156 LGB
+2022	07	241000511	Depósitos a plazo vencidos
+2022	07	241000512	Acreencias vencidas por cuentas de provisión de fondos para tarjetas de pago innominadas
+2022	07	241000513	Acreencias sin movimiento por cuentas de provisión de fondos para tarjetas de pago nominativas
+2022	07	241000590	Otras obligaciones a la vista
+2022	07	242000000	Depósitos y otras captaciones a plazo
+2022	07	242000100	Depósitos a plazo
+2022	07	242000200	Cuentas de ahorro a plazo
+2022	07	242000201	Cuentas de ahorro a plazo con giro diferido
+2022	07	242000202	Cuentas de ahorro a plazo con giro incondicional
+2022	07	242000300	Otros saldos acreedores a plazo
+2022	07	242000301	Boletas de garantías pagaderas con 30 días de aviso
+2022	07	242000302	Depósitos en cuentas "overnight"
+2022	07	242000390	Otros
+2022	07	243000000	Obligaciones por pactos de retrocompra y préstamos de valores
+2022	07	243000100	Operaciones con bancos del país
+2022	07	243000101	Contratos de retrocompra con otros bancos
+2022	07	243000102	Contratos de retrocompra con Banco Central de Chile
+2022	07	243000103	Obligaciones por préstamos de valores
+2022	07	243000200	Operaciones con bancos del exterior
+2022	07	243000201	Contratos de retrocompra con otros bancos
+2022	07	243000202	Contratos de retrocompra con Bancos Centrales del exterior
+2022	07	243000203	Obligaciones por préstamos de valores
+2022	07	243000300	Operaciones con otras entidades en el país
+2022	07	243000301	Contratos de retrocompra
+2022	07	243000302	Obligaciones por préstamos de valores
+2022	07	243000400	Operaciones con otras entidades en el exterior
+2022	07	243000401	Contratos de retrocompra
+2022	07	243000402	Obligaciones por préstamos de valores
+2022	07	244000000	Obligaciones con bancos
+2022	07	244250000	Bancos del país
+2022	07	244250100	Financiamientos de comercio exterior
+2022	07	244250101	Financiamientos para exportaciones chilenas
+2022	07	244250102	Financiamientos para importaciones chilenas
+2022	07	244250103	Obligaciones por operaciones entre terceros países
+2022	07	244250200	Préstamos y otras obligaciones
+2022	07	244250201	Préstamos interbancarios de liquidez
+2022	07	244250202	Préstamos interbancarios comerciales
+2022	07	244250203	Sobregiros en cuentas corrientes
+2022	07	244250204	Depósitos a plazo no transferibles
+2022	07	244250209	Otras obligaciones
+2022	07	244500000	Bancos del exterior
+2022	07	244500100	Financiamientos de comercio exterior
+2022	07	244500101	Financiamientos para exportaciones chilenas
+2022	07	244500102	Financiamientos para importaciones chilenas
+2022	07	244500103	Obligaciones por operaciones entre terceros países
+2022	07	244500200	Préstamos y otras obligaciones
+2022	07	244500201	Préstamos interbancarios de liquidez
+2022	07	244500202	Préstamos interbancarios comerciales
+2022	07	244500203	Sobregiros en cuentas corrientes
+2022	07	244500204	Depósitos a plazo no transferibles
+2022	07	244500209	Otras obligaciones
+2022	07	244700000	Banco Central de Chile
+2022	07	244700100	Préstamos y otras obligaciones
+2022	07	244700200	Líneas de crédito por reprogramación de deudas
+2022	07	244900000	Bancos Centrales del exterior
+2022	07	244900100	Préstamos y otras obligaciones
+2022	07	244900200	Líneas de crédito por reprogramación de deudas
+2022	07	245000000	Instrumentos financieros de deuda emitidos
+2022	07	245000100	Letras de Créditos
+2022	07	245000101	Letras de crédito para vivienda
+2022	07	245000102	Letras de crédito para fines generales
+2022	07	245000200	Bonos
+2022	07	245000201	Bonos corrientes
+2022	07	245000203	Bonos hipotecarios
+2022	07	246000000	Otras obligaciones financieras
+2022	07	246000100	Otras obligaciones financieras con el sector público
+2022	07	246000101	Financiamientos de CORFO
+2022	07	246000102	Obligaciones con otros organismos gubernamentales
+2022	07	246000200	Otras obligaciones financieras en el país
+2022	07	246000201	Adeudado a establecimientos afiliados por el uso de tarjetas de crédito
+2022	07	246000202	Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos de tarjetas nominativas
+2022	07	246000203	Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos de tarjetas innominadas
+2022	07	246000204	Adeudado a operadoras por servicios de operación de tarjetas de débito y crédito
+2022	07	246000205	Adeudado a operadoras por servicios de operación de tarjetas de pago con provisión de fondos nominativas
+2022	07	246000206	Adeudado a operadoras por servicios de operación de tarjetas de pago con provisión de fondos innominadas
+2022	07	246000207	Adeudado al licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	246000208	Obligaciones a favor de exportadores chilenos
+2022	07	246000290	Otros créditos obtenidos en el país
+2022	07	246000300	Otras obligaciones financieras con el exterior
+2022	07	246000301	Adeudado a establecimientos afiliados por el uso de tarjetas
+2022	07	246000302	Adeudado a operadores por servicios de operación de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	246000303	Adeudado al licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	246000304	Obligaciones a favor de exportadores extranjeros
+2022	07	246000305	Adeudado a organismos internacionales
+2022	07	246000390	Otros créditos obtenidos en el exterior
+2022	07	250000000	OBLIGACIONES POR CONTRATOS DE ARRENDAMIENTO
+2022	07	255000000	INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+2022	07	255000100	Bonos subordinados
+2022	07	255000101	Bonos subordinados con reconocimiento transitorio
+2022	07	255000102	Bonos subordinados
+2022	07	255000200	Bonos sin plazo fijo de vencimiento
+2022	07	255000300	Acciones preferentes
+2022	07	260000000	PROVISIONES POR CONTINGENCIAS
+2022	07	260000100	Provisiones por obligaciones de beneficios a empleados
+2022	07	260000101	Provisión beneficios a empleados de corto plazo
+2022	07	260000102	Provisión beneficios a empleados post-empleo
+2022	07	260000103	Provisión beneficios a empleados de largo plazo
+2022	07	260000104	Provisión beneficios a empleados por término de contrato laboral
+2022	07	260000105	Provisión pagos a empleados basados en acciones o instrumentos de patrimonio
+2022	07	260000106	Provisión obligaciones por planes post-empleo de contribución definida
+2022	07	260000107	Provisión obligaciones por planes post-empleo de beneficios definidos
+2022	07	260000109	Provisión de otras obligaciones del personal
+2022	07	260000200	Provisiones de una sucursal bancaria extranjera para remesas de utilidades a su casa matriz
+2022	07	260000300	Provisiones por planes de reestructuración
+2022	07	260000400	Provisiones por juicios y litigios
+2022	07	260000500	Provisiones por obligaciones de programas de fidelización y méritos para clientes
+2022	07	260000600	Provisiones por riesgo operacional
+2022	07	260000900	Otras provisiones por otras contingencias
+2022	07	265000000	PROVISIONES PARA DIVIDENDOS, PAGO DE INTERESES Y REAPRECIACIÓN DE INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+2022	07	265000100	Provisiones para dividendos
+2022	07	265000101	Provisión para pago de dividendos de acciones comunes
+2022	07	265000102	Provisión para pago de dividendos de acciones preferentes
+2022	07	265000200	Provisión para pago de intereses de bonos sin plazo fijo de vencimiento
+2022	07	265000300	Provisión para reapreciación de bonos sin plazo fijo de vencimiento
+2022	07	270000000	PROVISIONES ESPECIALES POR RIESGO DE CRÉDITO
+2022	07	271000000	Provisiones por riesgo de crédito para créditos contingentes
+2022	07	271000100	Avales y fianzas
+2022	07	271000200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	271000400	Transacciones relacionadas con eventos contingentes
+2022	07	271000500	Líneas de crédito de libre disposición
+2022	07	271000501	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera comercial
+2022	07	271000502	Saldo disponible de línea de crédito en tarjeta de crédito - cartera comercial
+2022	07	271000503	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera consumo
+2022	07	271000504	Saldo disponible de línea de crédito en tarjeta de crédito - cartera consumo
+2022	07	271000505	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera adeudado por bancos
+2022	07	271000600	Otros compromisos de crédito
+2022	07	271000601	Créditos para estudios superiores ley N° 20.027 (CAE)
+2022	07	271000602	Otros compromisos de crédito irrevocables
+2022	07	271000700	Líneas de crédito de libre disposición de cancelación inmediata
+2022	07	271000701	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera comercial
+2022	07	271000702	Saldo disponible de línea de crédito en tarjeta de crédito - cartera comercial
+2022	07	271000703	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera consumo
+2022	07	271000704	Saldo disponible de línea de crédito en tarjeta de crédito - cartera consumo
+2022	07	271000705	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera adeudado por bancos
+2022	07	271000800	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	271000900	Otros créditos contingentes
+2022	07	272000000	Provisiones por riesgo país para operaciones con deudores domiciliados en el exterior
+2022	07	273000000	Provisiones especiales para créditos al exterior
+2022	07	274000000	Provisiones adicionales para colocaciones
+2022	07	274000100	Provisiones adicionales colocaciones comerciales
+2022	07	274000200	Provisiones adicionales colocaciones para vivienda
+2022	07	274000300	Provisiones adicionales colocaciones de consumo
+2022	07	275000000	Provisiones por ajustes a provisión mínima exigida para cartera normal con evaluación individual
+2022	07	275000100	Ajuste a provisión mínima adeudado por bancos en el país
+2022	07	275000200	Ajuste a provisión mínima colocaciones comerciales en el país
+2022	07	275000300	Ajuste a provisión mínima créditos contingentes en el país
+2022	07	275000400	Ajuste a provisión mínima adeudado por bancos en el exterior
+2022	07	275000500	Ajuste a provisión mínima colocaciones comerciales en el exterior
+2022	07	275000600	Ajuste a provisión mínima créditos contingentes en el exterior
+2022	07	279000000	Provisiones constituidas por riesgo de crédito a raíz de exigencias prudenciales complementarias
+2022	07	279000100	Provisiones colocaciones comerciales
+2022	07	279000200	Provisiones colocaciones para vivienda
+2022	07	279000300	Provisiones colocaciones de consumo
+2022	07	280000000	IMPUESTOS CORRIENTES
+2022	07	285000000	IMPUESTOS DIFERIDOS
+2022	07	290000000	OTROS PASIVOS
+2022	07	290000100	Garantías en efectivo recibidas por operaciones financieras de derivados
+2022	07	290000101	Garantías en efectivo recibidas por operaciones financieras de derivados con una entidad de contraparte central en el país
+2022	07	290000102	Garantías en efectivo recibidas por operaciones financieras de derivados con una entidad de contraparte central en el exterior
+2022	07	290000103	Garantías en efectivo recibidas por operaciones financieras de derivados con otras contrapartes en el país
+2022	07	290000104	Garantías en efectivo recibidas por operaciones financieras de derivados con otras contrapartes en el exterior
+2022	07	290000200	Acreedores por intermediación de instrumentos financieros
+2022	07	290000201	Acreedores por intermediación de operaciones a término
+2022	07	290000202	Acreedores por intermediación de operaciones a plazo (simultaneas)
+2022	07	290000203	Otras cuentas por pagar por intermediación de instrumentos financieros
+2022	07	290000300	Cuentas por pagar a terceros
+2022	07	290000301	Cuentas por pagar por obligaciones de beneficios a empleados
+2022	07	290000302	Cuentas por pagar por cotizaciones previsionales e impuestos de los empleados.
+2022	07	290000303	Cuentas por pagar a sociedades con influencia significativa o negocio conjunto por servicios recibidos
+2022	07	290000304	Cuentas por pagar a otras sociedades con participación minoritaria por servicios recibidos
+2022	07	290000305	Cuentas por pagar a Tesorería General de la República y otros organismos fiscales
+2022	07	290000306	Cuentas por pagar relacionado con préstamos estudiantiles
+2022	07	290000307	Cuentas por pagar relacionado con préstamos de leasing financiero
+2022	07	290000308	Provisiones para gastos pendientes de pago
+2022	07	290000309	Saldo de precio y otras obligaciones por pagar respecto de adquisición de bienes para ceder en leasing financiero como arrendador
+2022	07	290000390	Otras cuentas y documentos por pagar a terceros
+2022	07	290000400	Cuentas por pagar por parte de filiales bancarias (aplica solo a nivel individual de la filial bancaria)
+2022	07	290000500	Dividendos acordados por pagar
+2022	07	290000501	Dividendos acordados por pagar de acciones comunes
+2022	07	290000502	Dividendos acordados por pagar de acciones preferentes
+2022	07	290000700	Ajustes de valorización por macrocoberturas
+2022	07	290000800	Pasivo por ingresos de actividades habituales procedentes de contratos con clientes
+2022	07	290000801	Ingresos diferidos por programas de fidelización y méritos para clientes
+2022	07	290000802	Ingresos diferidos por comisiones de intermediación de seguros no devengadas
+2022	07	290000803	Ingresos diferidos por comisiones de recaudación de primas de seguros no devengadas
+2022	07	290000809	Otros ingresos diferidos por percibidos de adelantado
+2022	07	290000900	IVA débito fiscal por pagar
+2022	07	290001000	Otras garantías en efectivo recibidas
+2022	07	290001100	Operaciones pendientes
+2022	07	290001200	Otros Pasivos
+2022	07	295000000	PASIVOS INCLUIDOS EN GRUPOS ENAJENABLES PARA LA VENTA
+2022	07	300000000	PATRIMONIO
+2022	07	310000000	CAPITAL
+2022	07	311000000	Capital pagado
+2022	07	311000100	Acciones comunes suscritas y pagadas
+2022	07	311000200	Acciones comunes emitidas con liberación de pago por capitalización
+2022	07	311000300	Acciones comunes por conversión de bonos subordinados
+2022	07	311000400	Acciones comunes por conversión de bonos sin plazo fijo de vencimiento
+2022	07	311000500	Acciones comunes por conversión de acciones preferentes
+2022	07	311000600	Adiciones del capital pagado por capitalización sin emisión de acciones comunes liberadas de pago
+2022	07	312000000	Sobreprecio pagado por acciones
+2022	07	313000000	Adquisición de acciones de propia emisión
+2022	07	320000000	RESERVAS
+2022	07	320000100	Reservas no provenientes de utilidades
+2022	07	320000200	Reservas provenientes de utilidades
+2022	07	320000300	Reservas por depreciación de bonos sin plazo fijo de vencimiento
+2022	07	320000400	Reservas por caducidad de bonos sin plazo fijo de vencimiento
+2022	07	330000000	OTRO RESULTADO INTEGRAL ACUMULADO
+2022	07	331000000	Elementos que no se reclasificarán en resultados
+2022	07	331000100	Nuevas mediciones del pasivo (activo) por beneficios definidos neto
+2022	07	331000200	Cambios netos del valor razonable de instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral
+2022	07	331000201	Cambios acumulados del valor razonable de instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral
+2022	07	331000202	Resultado por venta de participaciones en instrumentos de patrimonio (acciones) por inversiones minoritarias en sociedades en el país.
+2022	07	331000203	Resultado por venta de participaciones en instrumentos de patrimonio (acciones) por inversiones minoritarias en sociedades en el exterior.
+2022	07	331000209	Otros
+2022	07	331000300	Cambios del valor razonable de pasivos financieros designados a valor razonable con cambios en resultados atribuibles a cambios en el riesgo de crédito del pasivo financiero
+2022	07	331000400	Participación en otro resultado integral de entidades registradas según el método de participación
+2022	07	331000500	Activos no corrientes y grupos enajenables para la venta
+2022	07	331000900	Otros
+2022	07	332000000	Elementos que pueden reclasificarse en resultados
+2022	07	332000100	Cambios del valor razonable de activos financieros a valor razonable con cambios en otro resultado integral
+2022	07	332000200	Diferencias de conversión por entidades en el exterior
+2022	07	332000300	Cobertura contable de inversiones netas en entidades en el exterior
+2022	07	332000400	Cobertura contable de flujo de efectivo
+2022	07	332000500	Elementos no designados de instrumentos de cobertura contable
+2022	07	332000600	Participación en otro resultado integral de entidades registradas según el método de participación
+2022	07	332000700	Activos no corrientes y grupos enajenables para la venta
+2022	07	332000900	Otros
+2022	07	340000000	UTILIDADES (PÉRDIDAS) ACUMULADAS DE EJERCICIOS ANTERIORES
+2022	07	340000100	Utilidades (pérdidas) acumuladas de ejercicios anteriores
+2022	07	340000200	Utilidad del ejercicio anterior por asignar
+2022	07	350000000	UTILIDAD (PÉRDIDA) DEL EJERCICIO
+2022	07	360000000	PROVISIONES PARA DIVIDENDOS, PAGO DE INTERESES Y REAPRECIACIÓN DE INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+2022	07	360000100	Provisiones para dividendos
+2022	07	360000101	Provisión para pago de dividendos de acciones comunes
+2022	07	360000102	Provisión para pago de dividendos de acciones preferentes
+2022	07	360000200	Provisión para pago de intereses de bonos sin plazo fijo de vencimiento
+2022	07	360000300	Provisión para reapreciación de bonos sin plazo fijo de vencimiento
+2022	07	365000000	PROVISIONES DE UNA SUCURSAL BANCARIA EXTRANJERA PARA REMESAS DE UTILIDADES A SU CASA MATRIZ
+2022	07	380000000	PATRIMONIO DE LOS PROPIETARIOS
+2022	07	390000000	DEL INTERES NO CONTROLADOR
+2022	07	411000000	INGRESOS POR INTERESES
+2022	07	411100000	ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	411150000	Derechos por pactos de retroventa y prestamos de valores
+2022	07	411150100	Operaciones con bancos del país
+2022	07	411150101	Contratos de retroventa con otros bancos
+2022	07	411150102	Contratos de retroventa con Banco Central de Chile
+2022	07	411150103	Derechos por préstamos de valores
+2022	07	411150200	Operaciones con bancos del exterior
+2022	07	411150201	Contratos de retroventa con otros bancos
+2022	07	411150202	Contratos de retroventa con Bancos Centrales del exterior
+2022	07	411150203	Derechos por préstamos de valores
+2022	07	411150300	Operaciones con otras entidades en el país
+2022	07	411150301	Contratos de retroventa
+2022	07	411150302	Derechos por préstamos de valores
+2022	07	411150400	Operaciones con otras entidades en el exterior
+2022	07	411150401	Contratos de retroventa
+2022	07	411150402	Derechos por préstamos de valores
+2022	07	411200000	Instrumentos financieros de deuda
+2022	07	411200100	Del Estado y Banco Central de Chile
+2022	07	411200101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	411200102	Bonos y pagarés de la Tesorería General de la República
+2022	07	411200109	Otros instrumentos financieros de deuda fiscales
+2022	07	411200200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	411200201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	411200202	Bonos y efectos de comercio de empresas del país
+2022	07	411200209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	411200300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	411200301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	411200302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	411200303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	411200304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	411200309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	411250000	Adeudado por bancos
+2022	07	411250100	Bancos del país
+2022	07	411250101	Préstamos interbancarios de liquidez
+2022	07	411250102	Préstamos interbancarios comerciales
+2022	07	411250103	Sobregiros en cuentas corrientes
+2022	07	411250104	Créditos comercio exterior exportaciones chilenas
+2022	07	411250105	Créditos comercio exterior importaciones chilenas
+2022	07	411250106	Créditos comercio exterior entre terceros países
+2022	07	411250107	Depósitos no transferibles en bancos del país
+2022	07	411250190	Otras acreencias con bancos del país
+2022	07	411250200	Bancos del exterior
+2022	07	411250201	Préstamos interbancarios de liquidez
+2022	07	411250202	Préstamos interbancarios comerciales
+2022	07	411250203	Sobregiros en cuentas corrientes
+2022	07	411250204	Créditos comercio exterior exportaciones chilenas
+2022	07	411250205	Créditos comercio exterior importaciones chilenas
+2022	07	411250206	Créditos comercio exterior entre terceros países
+2022	07	411250207	Depósitos en cuenta corriente en bancos del exterior por operaciones de derivados
+2022	07	411250208	Otros depósitos no transferibles en bancos del exterior
+2022	07	411250290	Otras acreencias con bancos del exterior
+2022	07	411250300	Banco Central de Chile
+2022	07	411250301	Depósitos en cuenta corriente del Banco Central de Chile por operaciones de derivados con COMDER
+2022	07	411250302	Otros depósitos en el Banco Central de Chile no disponibles
+2022	07	411250309	Otras acreencias con el Banco Central de Chile
+2022	07	411250400	Bancos Centrales del exterior
+2022	07	411250401	Depósitos en cuenta corriente de Bancos Centrales del exterior por operaciones de derivados
+2022	07	411250402	Otros depósitos en Bancos Centrales del exterior no disponibles
+2022	07	411250409	Otras acreencias con Bancos Centrales del exterior
+2022	07	411280000	Colocaciones comerciales
+2022	07	411280100	Préstamos comerciales
+2022	07	411280101	Préstamos en el país
+2022	07	411280102	Préstamos en el exterior
+2022	07	411280103	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	411280104	Préstamos con letras de crédito para fines generales
+2022	07	411280105	Préstamos con mutuos hipotecarios endosables para fines generales
+2022	07	411280106	Préstamos con mutuos hipotecarios no endosables para fines generales
+2022	07	411280200	Créditos de comercio exterior
+2022	07	411280201	Acreditivos negociados a plazo de exportaciones chilenas
+2022	07	411280202	Otros créditos para exportaciones chilenas
+2022	07	411280203	Acreditivos negociados a plazo de importaciones chilenas
+2022	07	411280204	Otros créditos para importaciones chilenas
+2022	07	411280205	Acreditivos negociados a plazo de operaciones entre terceros países
+2022	07	411280209	Otros créditos para operaciones entre terceros países
+2022	07	411280300	Deudores en cuentas corrientes
+2022	07	411280400	Deudores por tarjetas de crédito
+2022	07	411280500	Operaciones de factoraje
+2022	07	411280501	Factoring con responsabilidad
+2022	07	411280502	Factoring sin responsabilidad
+2022	07	411280600	Operaciones de leasing financiero comercial
+2022	07	411280601	Leasing por bienes inmobiliarios
+2022	07	411280602	Leasing por bienes no inmobiliarios
+2022	07	411280700	Préstamos estudiantiles
+2022	07	411280701	Créditos para estudios superiores Ley N° 20.027
+2022	07	411280702	Créditos con garantía CORFO
+2022	07	411280709	Otros créditos para estudios superiores
+2022	07	411280900	Otros créditos y cuentas por cobrar
+2022	07	411280901	Deudores por pago de obligaciones avaladas
+2022	07	411280902	Deudores por boletas de garantía pagadas
+2022	07	411280990	Otras cuentas por cobrar
+2022	07	411350000	Colocaciones para vivienda
+2022	07	411350100	Préstamos con letras de crédito para vivienda
+2022	07	411350200	Préstamos con mutuos hipotecarios endosable
+2022	07	411350300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	411350400	Otros créditos con mutuos para vivienda
+2022	07	411350401	Otros créditos con mutuos no endosables para vivienda
+2022	07	411350402	Otros créditos con mutuos para vivienda
+2022	07	411350500	Operaciones de leasing financiero para vivienda
+2022	07	411350900	Otros créditos y cuentas por cobrar
+2022	07	411350901	Créditos complementarios a los mutuos
+2022	07	411350902	Créditos de enlace
+2022	07	411350903	Créditos provenientes de la ANAP
+2022	07	411350990	Cuentas por cobrar a deudores para vivienda
+2022	07	411380000	Colocaciones de consumo
+2022	07	411380100	Créditos de consumo en cuotas
+2022	07	411380200	Deudores en cuentas corrientes
+2022	07	411380300	Deudores por tarjetas de crédito
+2022	07	411380400	Operaciones de leasing financiero de consumo
+2022	07	411380900	Otros créditos y cuentas por cobrar
+2022	07	411380901	Créditos de consumo rotativos
+2022	07	411380990	Cuentas por cobrar a deudores de consumo
+2022	07	411450000	Otros instrumentos financieros
+2022	07	411450100	Depósitos en el Banco Central de Chile
+2022	07	411450101	Depósitos en cuenta corriente
+2022	07	411450102	Depósitos overnight
+2022	07	411450109	Otros depósitos disponibles
+2022	07	411450200	Depósitos en Bancos Centrales del exterior
+2022	07	411450201	Depósitos en cuenta corriente
+2022	07	411450202	Depósitos overnight
+2022	07	411450209	Otros depósitos disponibles
+2022	07	411450300	Depósitos en bancos del país
+2022	07	411450400	Depósitos en bancos del exterior
+2022	07	411450900	Otros intereses ganados
+2022	07	411700000	ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	411720000	Instrumentos financieros de deuda
+2022	07	411720100	Del Estado y Banco Central de Chile
+2022	07	411720101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	411720102	Bonos y pagarés de la Tesorería General de la República
+2022	07	411720109	Otros instrumentos financieros de deuda fiscales
+2022	07	411720200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	411720201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	411720202	Bonos y efectos de comercio de empresas del país
+2022	07	411720209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	411720300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	411720301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	411720302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	411720303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	411720304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	411720309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	411740000	Otros instrumentos financieros
+2022	07	411740100	Créditos originados y adquiridos por la entidad
+2022	07	411740101	Adeudado por bancos
+2022	07	411740102	Colocaciones comerciales
+2022	07	411740103	Colocaciones para vivienda
+2022	07	411740104	Colocaciones de consumo
+2022	07	411740200	Otros
+2022	07	411800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO DE TASAS DE INTERÉS
+2022	07	411800100	Utilidad por contratos de derivados financieros para cobertura contable
+2022	07	411800200	Pérdida por contratos de derivados financieros para cobertura contable
+2022	07	411800300	Resultados por ajuste de activos financieros cubiertos
+2022	07	412000000	GASTOS POR INTERESES
+2022	07	412100000	PASIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	412150000	Depósitos y otras obligaciones a la vista
+2022	07	412150100	Cuentas corrientes
+2022	07	412150101	Cuentas corrientes de bancos del país
+2022	07	412150102	Cuentas corrientes de bancos del exterior
+2022	07	412150103	Cuentas corrientes de otras personas jurídicas
+2022	07	412150104	Cuentas corrientes de personas naturales
+2022	07	412150200	Cuentas de depósito a la vista
+2022	07	412150201	Cuentas de ahorro a la vista
+2022	07	412150202	Cuentas a la vista
+2022	07	412150300	Otros depósitos a la vista
+2022	07	412150500	Otras obligaciones a la vista
+2022	07	412180000	Depósitos y otras captaciones a plazo
+2022	07	412180100	Depósitos a plazo
+2022	07	412180200	Cuentas de ahorro a plazo
+2022	07	412180201	Cuentas de ahorro a plazo con giro diferido
+2022	07	412180202	Cuentas de ahorro a plazo con giro incondicional
+2022	07	412180300	Otros saldos acreedores a plazo
+2022	07	412180301	Boletas de garantías pagaderas con 30 días de aviso
+2022	07	412180302	Depósitos en cuentas "overnight"
+2022	07	412180390	Otros
+2022	07	412250000	Obligaciones por pactos de retrocompra y préstamos de valores
+2022	07	412250100	Operaciones con bancos del país
+2022	07	412250101	Contratos de retrocompra con otros bancos
+2022	07	412250102	Contratos de retrocompra con Banco Central de Chile
+2022	07	412250103	Obligaciones por préstamos de valores
+2022	07	412250200	Operaciones con bancos del exterior
+2022	07	412250201	Contratos de retrocompra con otros bancos
+2022	07	412250202	Contratos de retrocompra con Bancos Centrales del exterior
+2022	07	412250203	Obligaciones por préstamos de valores
+2022	07	412250300	Operaciones con otras entidades en el país
+2022	07	412250301	Contratos de retrocompra
+2022	07	412250302	Obligaciones por préstamos de valores
+2022	07	412250400	Operaciones con otras entidades en el exterior
+2022	07	412250401	Contratos de retrocompra
+2022	07	412250402	Obligaciones por préstamos de valores
+2022	07	412280000	Obligaciones con bancos
+2022	07	412280100	Bancos del país
+2022	07	412280110	Financiamientos de comercio exterior
+2022	07	412280111	Financiamientos para exportaciones chilenas
+2022	07	412280112	Financiamientos para importaciones chilenas
+2022	07	412280113	Obligaciones por operaciones entre terceros países
+2022	07	412280120	Préstamos y otras obligaciones
+2022	07	412280121	Préstamos interbancarios de liquidez
+2022	07	412280122	Préstamos interbancarios comerciales
+2022	07	412280123	Sobregiros en cuentas corrientes
+2022	07	412280124	Depósitos a plazo no transferibles
+2022	07	412280129	Otras obligaciones
+2022	07	412280200	Bancos del exterior
+2022	07	412280210	Financiamientos de comercio exterior
+2022	07	412280211	Financiamientos para exportaciones chilenas
+2022	07	412280212	Financiamientos para importaciones chilenas
+2022	07	412280213	Obligaciones por operaciones entre terceros países
+2022	07	412280220	Préstamos y otras obligaciones
+2022	07	412280221	Préstamos interbancarios de liquidez
+2022	07	412280222	Préstamos interbancarios comerciales
+2022	07	412280223	Sobregiros en cuentas corrientes
+2022	07	412280224	Depósitos a plazo no transferibles
+2022	07	412280229	Otras obligaciones
+2022	07	412280300	Banco Central de Chile
+2022	07	412280301	Préstamos y otras obligaciones
+2022	07	412280302	Líneas de crédito por reprogramación de deudas
+2022	07	412280400	Bancos Centrales del exterior
+2022	07	412280401	Préstamos y otras obligaciones
+2022	07	412280402	Líneas de crédito por reprogramación de deudas
+2022	07	412350000	Instrumentos financieros de deuda emitidos
+2022	07	412350100	Letras de Créditos
+2022	07	412350101	Letras de crédito para vivienda
+2022	07	412350102	Letras de crédito para fines generales
+2022	07	412350200	Bonos
+2022	07	412350201	Bonos corrientes
+2022	07	412350203	Bonos hipotecarios
+2022	07	412380000	Otras obligaciones financieras
+2022	07	412380100	Obligaciones con el sector público
+2022	07	412380101	Financiamientos de CORFO
+2022	07	412380102	Obligaciones con otros organismos gubernamentales
+2022	07	412380200	Otras obligaciones en el país
+2022	07	412380201	Adeudado a establecimientos afiliados por el uso de tarjetas de crédito
+2022	07	412380202	Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos tarjetas nominativas
+2022	07	412380203	Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos tarjetas innominadas
+2022	07	412380204	Adeudado a operadores por servicios de operación de tarjetas de crédito
+2022	07	412380205	Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos nominativas
+2022	07	412380206	Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos innominadas
+2022	07	412380207	Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	412380208	Obligaciones a favor de exportadores chilenos
+2022	07	412380290	Otros créditos obtenidos en el país
+2022	07	412380300	Obligaciones con el exterior
+2022	07	412380301	Adeudado a establecimientos afiliados por el uso de tarjetas
+2022	07	412380302	Adeudado a operadores por servicios de operación de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	412380303	Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	412380304	Obligaciones a favor de exportadores extranjeros
+2022	07	412380305	Adeudado a organismos internacionales
+2022	07	412380306	Otros créditos obtenidos en el exterior
+2022	07	412450000	OBLIGACIONES POR CONTRATOS DE ARRENDAMIENTO
+2022	07	412500000	INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+2022	07	412500100	Bonos subordinados
+2022	07	412800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO DE TASAS DE INTERÉS
+2022	07	412800100	Utilidad por contratos de derivados financieros para cobertura contable
+2022	07	412800200	Pérdida por contratos de derivados financieros para cobertura contable
+2022	07	412800300	Resultados por ajuste de pasivos financieros cubiertos
+2022	07	415000000	INGRESOS POR REAJUSTES DE LA U.F., IVP, IPC
+2022	07	415100000	ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	415150000	Derechos por pactos de retroventa y prestamos de valores
+2022	07	415150100	Operaciones con bancos del país
+2022	07	415150101	Contratos de retroventa con otros bancos
+2022	07	415150102	Contratos de retroventa con Banco Central de Chile
+2022	07	415150103	Derechos por préstamos de valores
+2022	07	415150200	Operaciones con bancos del exterior
+2022	07	415150201	Contratos de retroventa con otros bancos
+2022	07	415150202	Contratos de retroventa con Bancos Centrales del exterior
+2022	07	415150203	Derechos por préstamos de valores
+2022	07	415150300	Operaciones con otras entidades en el país
+2022	07	415150301	Contratos de retroventa
+2022	07	415150302	Derechos por préstamos de valores
+2022	07	415150400	Operaciones con otras entidades en el exterior
+2022	07	415150401	Contratos de retroventa
+2022	07	415150402	Derechos por préstamos de valores
+2022	07	415200000	Instrumentos financieros de deuda
+2022	07	415200100	Del Estado y Banco Central de Chile
+2022	07	415200101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	415200102	Bonos y pagarés de la Tesorería General de la República
+2022	07	415200109	Otros instrumentos financieros de deuda fiscales
+2022	07	415200200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	415200201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	415200202	Bonos y efectos de comercio de empresas del país
+2022	07	415200209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	415200300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	415200301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	415200302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	415200303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	415200304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	415200309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	415250000	Adeudado por bancos
+2022	07	415250100	Bancos del país
+2022	07	415250101	Préstamos interbancarios de liquidez
+2022	07	415250102	Préstamos interbancarios comerciales
+2022	07	415250103	Sobregiros en cuentas corrientes
+2022	07	415250104	Créditos comercio exterior exportaciones chilenas
+2022	07	415250105	Créditos comercio exterior importaciones chilenas
+2022	07	415250106	Créditos comercio exterior entre terceros países
+2022	07	415250107	Depósitos no transferibles en bancos del país
+2022	07	415250190	Otras acreencias con bancos del país
+2022	07	415250200	Bancos del exterior
+2022	07	415250201	Préstamos interbancarios de liquidez
+2022	07	415250202	Préstamos interbancarios comerciales
+2022	07	415250203	Sobregiros en cuentas corrientes
+2022	07	415250204	Créditos comercio exterior exportaciones chilenas
+2022	07	415250205	Créditos comercio exterior importaciones chilenas
+2022	07	415250206	Créditos comercio exterior entre terceros países
+2022	07	415250207	Depósitos en cuenta corriente en bancos del exterior por operaciones de derivados
+2022	07	415250208	Otros depósitos no transferibles en bancos del exterior
+2022	07	415250290	Otras acreencias con bancos del exterior
+2022	07	415250300	Banco Central de Chile
+2022	07	415250301	Depósitos en cuenta corriente del Banco Central de Chile por operaciones de derivados con COMDER
+2022	07	415250302	Otros depósitos en el Banco Central de Chile no disponibles
+2022	07	415250390	Otras acreencias con el Banco Central de Chile
+2022	07	415250400	Bancos Centrales del exterior
+2022	07	415250401	Depósitos en cuenta corriente de Bancos Centrales del exterior por operaciones de derivados
+2022	07	415250402	Otros depósitos en Bancos Centrales del exterior no disponibles
+2022	07	415250403	Otras acreencias con Bancos Centrales del exterior
+2022	07	415280000	Colocaciones comerciales
+2022	07	415280100	Préstamos comerciales
+2022	07	415280101	Préstamos en el país
+2022	07	415280102	Préstamos en el exterior
+2022	07	415280103	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	415280104	Préstamos con letras de crédito para fines generales
+2022	07	415280105	Préstamos con mutuos hipotecarios endosables para fines generales
+2022	07	415280106	Préstamos con mutuos hipotecarios no endosables para fines generales
+2022	07	415280200	Créditos de comercio exterior
+2022	07	415280201	Acreditivos negociados a plazo de exportaciones chilenas
+2022	07	415280209	Otros créditos para exportaciones chilenas
+2022	07	415280221	Acreditivos negociados a plazo de importaciones chilenas
+2022	07	415280229	Otros créditos para importaciones chilenas
+2022	07	415280231	Acreditivos negociados a plazo de operaciones entre terceros países
+2022	07	415280239	Otros créditos para operaciones entre terceros países
+2022	07	415280300	Deudores en cuentas corrientes
+2022	07	415280400	Deudores por tarjetas de crédito
+2022	07	415280500	Operaciones de factoraje
+2022	07	415280501	Factoring con responsabilidad
+2022	07	415280502	Factoring sin responsabilidad
+2022	07	415280600	Operaciones de leasing financiero comercial
+2022	07	415280601	Leasing por bienes inmobiliarios
+2022	07	415280602	Leasing por bienes no inmobiliarios
+2022	07	415280700	Préstamos estudiantiles
+2022	07	415280701	Créditos para estudios superiores Ley N° 20.027
+2022	07	415280702	Créditos con garantía CORFO
+2022	07	415280709	Otros créditos para estudios superiores
+2022	07	415280900	Otros créditos y cuentas por cobrar
+2022	07	415280901	Deudores por pago de obligaciones avaladas
+2022	07	415280902	Deudores por boletas de garantía pagadas
+2022	07	415280990	Otras cuentas por cobrar
+2022	07	415350000	Colocaciones para vivienda
+2022	07	415350100	Préstamos con letras de crédito para vivienda
+2022	07	415350200	Préstamos con mutuos hipotecarios endosable
+2022	07	415350300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	415350400	Otros créditos con mutuos para vivienda
+2022	07	415350401	Otros créditos con mutuos no endosables para vivienda
+2022	07	415350402	Otros créditos con mutuos para vivienda
+2022	07	415350500	Operaciones de leasing financiero para vivienda
+2022	07	415350900	Otros créditos y cuentas por cobrar
+2022	07	415350901	Créditos complementarios a los mutuos
+2022	07	415350902	Créditos de enlace
+2022	07	415350903	Créditos provenientes de la ANAP
+2022	07	415350990	Cuentas por cobrar a deudores para vivienda
+2022	07	415380000	Colocaciones de consumo
+2022	07	415380100	Créditos de consumo en cuotas
+2022	07	415380200	Deudores en cuentas corrientes
+2022	07	415380300	Deudores por tarjetas de crédito
+2022	07	415380400	Operaciones de leasing financiero de consumo
+2022	07	415380900	Otros créditos y cuentas por cobrar
+2022	07	415380901	Créditos de consumo rotativos
+2022	07	415380990	Cuentas por cobrar a deudores de consumo
+2022	07	415450000	Otros instrumentos financieros
+2022	07	415450100	Depósitos en el Banco Central de Chile
+2022	07	415450101	Depósitos en cuenta corriente
+2022	07	415450102	Depósitos overnight
+2022	07	415450109	Otros depósitos disponibles
+2022	07	415450300	Depósitos en bancos del país
+2022	07	415450900	Otros ingresos por reajustes de la U.F., IVP, IPC ganados
+2022	07	415600000	ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	415620000	Instrumentos financieros de deuda
+2022	07	415620100	Del Estado y Banco Central de Chile
+2022	07	415620101	Instrumentos financieros de deuda del Banco Central de Chile
+2022	07	415620102	Bonos y pagarés de la Tesorería General de la República
+2022	07	415620109	Otros instrumentos financieros de deuda fiscales
+2022	07	415620200	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	415620201	Instrumentos financieros de deuda de otros bancos del país
+2022	07	415620202	Bonos y efectos de comercio de empresas del país
+2022	07	415620209	Otros instrumentos financieros de deuda emitidos en el país
+2022	07	415620300	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	415620301	Instrumentos financieros de deuda de Bancos Centrales en el exterior
+2022	07	415620302	Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+2022	07	415620303	Instrumentos financieros de deuda de otros bancos en el exterior
+2022	07	415620304	Bonos y efectos de comercio de empresas en el exterior
+2022	07	415620309	Otros instrumentos financieros de deuda emitidos en el exterior
+2022	07	415640000	Otros instrumentos financieros
+2022	07	415640100	Créditos originados y adquiridos por la entidad
+2022	07	415640101	Adeudado por bancos
+2022	07	415640102	Colocaciones comerciales
+2022	07	415640103	Colocaciones para vivienda
+2022	07	415640104	Colocaciones de consumo
+2022	07	415640200	Otros
+2022	07	415800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO POR REAJUSTES DE LA U.F., IVP, IPC
+2022	07	415800100	Utilidad por contratos de derivados financieros para cobertura contable
+2022	07	415800200	Pérdida por contratos de derivados financieros para cobertura contable
+2022	07	415800300	Resultados por ajuste de activos financieros cubiertos
+2022	07	416000000	GASTOS POR REAJUSTES DE LA U.F., IVP, IPC
+2022	07	416100100	PASIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	416150000	Depósitos y otras obligaciones a la vista
+2022	07	416150100	Cuentas corrientes
+2022	07	416150101	Cuentas corrientes de bancos del país
+2022	07	416150102	Cuentas corrientes de bancos del exterior
+2022	07	416150103	Cuentas corrientes de otras personas jurídicas
+2022	07	416150104	Cuentas corrientes de personas naturales
+2022	07	416150200	Cuentas de depósito a la vista
+2022	07	416150201	Cuentas de ahorro a la vista
+2022	07	416150202	Cuentas a la vista
+2022	07	416150300	Otros depósitos a la vista
+2022	07	416150500	Otras obligaciones a la vista
+2022	07	416180000	Depósitos y otras captaciones a plazo
+2022	07	416180100	Depósitos a plazo
+2022	07	416180200	Cuentas de ahorro a plazo
+2022	07	416180201	Cuentas de ahorro a plazo con giro diferido
+2022	07	416180202	Cuentas de ahorro a plazo con giro incondicional
+2022	07	416180300	Otros saldos acreedores a plazo
+2022	07	416180301	Boletas de garantías pagaderas con 30 días de aviso
+2022	07	416180302	Depósitos en cuentas "overnight"
+2022	07	416180390	Otros
+2022	07	416250000	Obligaciones por pactos de retrocompra y prestamos de valores
+2022	07	416250100	Operaciones con bancos del país
+2022	07	416250101	Contratos de retrocompra con otros bancos
+2022	07	416250102	Contratos de retrocompra con Banco Central de Chile
+2022	07	416250103	Obligaciones por préstamos de valores
+2022	07	416250200	Operaciones con bancos del exterior
+2022	07	416250201	Contratos de retrocompra con otros bancos
+2022	07	416250202	Contratos de retrocompra con Bancos Centrales del exterior
+2022	07	416250203	Obligaciones por préstamos de valores
+2022	07	416250300	Operaciones con otras entidades en el país
+2022	07	416250301	Contratos de retrocompra
+2022	07	416250302	Obligaciones por préstamos de valores
+2022	07	416250400	Operaciones con otras entidades en el exterior
+2022	07	416250401	Contratos de retrocompra
+2022	07	416250402	Obligaciones por préstamos de valores
+2022	07	416280000	Obligaciones con bancos
+2022	07	416280100	Bancos del país
+2022	07	416280110	Financiamientos de comercio exterior
+2022	07	416280111	Financiamientos para exportaciones chilenas
+2022	07	416280112	Financiamientos para importaciones chilenas
+2022	07	416280113	Obligaciones por operaciones entre terceros países
+2022	07	416280120	Préstamos y otras obligaciones
+2022	07	416280121	Préstamos interbancarios de liquidez
+2022	07	416280122	Préstamos interbancarios comerciales
+2022	07	416280123	Sobregiros en cuentas corrientes
+2022	07	416280124	Depósitos a plazo no transferibles
+2022	07	416280129	Otras obligaciones
+2022	07	416280200	Bancos del exterior
+2022	07	416280210	Financiamientos de comercio exterior
+2022	07	416280211	Financiamientos para exportaciones chilenas
+2022	07	416280212	Financiamientos para importaciones chilenas
+2022	07	416280213	Obligaciones por operaciones entre terceros países
+2022	07	416280220	Préstamos y otras obligaciones
+2022	07	416280221	Préstamos interbancarios de liquidez
+2022	07	416280222	Préstamos interbancarios comerciales
+2022	07	416280223	Sobregiros en cuentas corrientes
+2022	07	416280224	Depósitos a plazo no transferibles
+2022	07	416280229	Otras obligaciones
+2022	07	416280300	Banco Central de Chile
+2022	07	416280301	Préstamos y otras obligaciones
+2022	07	416280302	Líneas de crédito por reprogramación de deudas
+2022	07	416280400	Banco Central del Exterior
+2022	07	416280401	Préstamos y otras obligaciones
+2022	07	416280402	Líneas de crédito por reprogramación de deudas
+2022	07	416350000	Instrumentos financieros de deuda emitidos
+2022	07	416350100	Letras de Créditos
+2022	07	416350101	Letras de crédito para vivienda
+2022	07	416350102	Letras de crédito para fines generales
+2022	07	416350200	Bonos
+2022	07	416350201	Bonos corrientes
+2022	07	416350203	Bonos hipotecarios
+2022	07	416380000	Otras obligaciones financieras
+2022	07	416380100	Obligaciones con el sector público
+2022	07	416380101	Financiamientos de CORFO
+2022	07	416380102	Obligaciones con otros organismos gubernamentales
+2022	07	416380200	Otras obligaciones en el país
+2022	07	416380201	Adeudado a establecimientos afiliados por el uso de tarjetas de crédito
+2022	07	416380202	Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos de tarjetas nominativas
+2022	07	416380203	Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos de tarjetas innominadas
+2022	07	416380204	Adeudado a operadores por servicios de operación de tarjetas de crédito
+2022	07	416380205	Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos nominativas
+2022	07	416380206	Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos innominadas
+2022	07	416380207	Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	416380208	Obligaciones a favor de exportadores chilenos
+2022	07	416380290	Otros créditos obtenidos en el país
+2022	07	416380300	Obligaciones con el exterior
+2022	07	416380301	Adeudado a establecimientos afiliados por el uso de tarjetas
+2022	07	416380302	Adeudado a operadores por servicios de operación de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	416380303	Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+2022	07	416380304	Obligaciones a favor de exportadores extranjeros
+2022	07	416380305	Adeudado a organismos internacionales
+2022	07	416380306	Otros créditos obtenidos en el exterior
+2022	07	416500000	INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+2022	07	416500100	Bonos subordinados
+2022	07	416500200	Bonos sin plazo fijo de vencimiento
+2022	07	416800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO POR REAJUSTES DE LA U.F., IVP, IPC
+2022	07	416800100	Utilidad por contratos de derivados financieros para cobertura contable
+2022	07	416800200	Pérdida por contratos de derivados financieros para cobertura contable
+2022	07	416800300	Resultados por ajuste de pasivos financieros cubiertos
+2022	07	420000000	INGRESOS POR COMISIONES Y SERVICIOS PRESTADOS
+2022	07	422150100	Comisiones por prepago de créditos
+2022	07	422150101	Créditos otorgados a bancos
+2022	07	422150102	Créditos comerciales
+2022	07	422150103	Créditos para vivienda
+2022	07	422150104	Créditos de consumo
+2022	07	422180100	Comisiones de préstamos con letras de crédito
+2022	07	422180101	Comisiones de préstamos con letras de crédito para vivienda
+2022	07	422180102	Comisiones de préstamos con letras de crédito para fines generales
+2022	07	422250100	Comisiones por líneas de crédito y sobregiros en cuenta corriente
+2022	07	422250101	Líneas de crédito
+2022	07	422250102	Sobregiros pactados
+2022	07	422280100	Comisiones por avales y cartas de crédito
+2022	07	422280101	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	422280102	Avales y fianzas
+2022	07	422280103	Cartas de crédito stand-by
+2022	07	422280104	Boletas de garantía enteradas con pagaré u otro título de crédito a favor del banco
+2022	07	422280105	Boletas de garantía enteradas con depósito en dinero
+2022	07	422280190	Otros
+2022	07	422350100	Comisiones por servicios de tarjetas
+2022	07	422350101	Tarjetas de cajeros automáticos
+2022	07	422350102	Tarjetas de crédito - comisiones de titulares
+2022	07	422350103	Tarjetas de crédito - comisiones de establecimientos
+2022	07	422350104	Tarjetas de débito - comisiones de titulares
+2022	07	422350105	Tarjetas de débito - comisiones de establecimientos
+2022	07	422350106	Tarjetas de pago con provisión de fondos para tarjetas nominativas - comisiones de titulares
+2022	07	422350107	Tarjetas de pago con provisión de fondos para tarjetas innominadas - comisiones de titulares
+2022	07	422350108	Tarjetas de pago con provisión de fondos para tarjetas nominativas - comisiones de establecimientos
+2022	07	422350109	Tarjetas de pago con provisión de fondos para tarjetas innominadas - comisiones de establecimientos
+2022	07	422350190	Otras tarjetas
+2022	07	422380100	Comisiones por administración de cuentas
+2022	07	422380101	Cuentas corrientes a personas naturales
+2022	07	422380102	Cuentas corrientes a personas jurídicas
+2022	07	422380103	Cuentas de ahorro a la vista
+2022	07	422380104	Cuentas a la vista
+2022	07	422380105	Cuentas de tarjetas de pago con provisión de fondos - tarjetas nominativas
+2022	07	422380106	Cuentas de tarjetas de pago con provisión de fondos - tarjetas innominadas
+2022	07	422380107	Cuentas de ahorro a plazo (con giro diferido e incondicional)
+2022	07	422380190	Otras cuentas
+2022	07	422450100	Comisiones por cobranzas, recaudaciones y pagos
+2022	07	422450101	Cobranza de títulos de crédito de clientes
+2022	07	422450102	Cobranzas por cuenta de bancos extranjeros
+2022	07	422450103	Transferencias, giros y otras órdenes de pago
+2022	07	422450104	Convenios de pago de remuneraciones
+2022	07	422450105	Convenios de pago a proveedores
+2022	07	422450106	Recaudaciones de impuestos
+2022	07	422450107	Cobranza o recaudación de primas de seguros
+2022	07	422450108	Recaudaciones de pagos de servicios
+2022	07	422450190	Otros
+2022	07	422480100	Comisiones por intermediación y manejo de valores (Corredores de Bolsa y/o Agencia de Valores)
+2022	07	422480101	Intermediación de valores
+2022	07	422480102	Administración de carteras de clientes
+2022	07	422480103	Custodia de valores
+2022	07	422480190	Otras comisiones por servicios de valores
+2022	07	422550100	Remuneraciones por administración de fondos mutuos, fondos de inversión u otros
+2022	07	422550101	Personas naturales por APV, APVC.
+2022	07	422550102	Personas naturales por otros productos
+2022	07	422550103	Personas jurídicas por inversionistas calificados
+2022	07	422550104	Personas jurídicas por otro tipo de inversionistas
+2022	07	422580000	Remuneraciones por intermediación y asesoría de seguros
+2022	07	422580100	Seguros relacionados con otorgamiento de créditos a personas naturales
+2022	07	422580101	Seguros asociados a colocaciones de consumo
+2022	07	422580102	Seguros asociados a colocaciones para vivienda
+2022	07	422580200	Seguros no relacionados con otorgamiento de créditos a personas naturales
+2022	07	422580300	Seguros relacionados con otorgamiento de créditos a personas jurídicas
+2022	07	422580400	Seguros no relacionados con otorgamiento de créditos a personas jurídicas
+2022	07	422650100	Comisiones por servicios de operaciones de factoraje
+2022	07	422680100	Comisiones por servicios de operaciones de leasing financiero
+2022	07	422750100	Comisiones por securitizaciones
+2022	07	422780100	Comisiones por asesorías financieras
+2022	07	422780101	Emisión y colocación de instrumentos financieros (acciones, bonos, cuotas de Fondos Mutuos, cuotas de Fondos de Inversión, otros)
+2022	07	422780102	Reestructuración y financiamiento de pasivos financieros
+2022	07	422780103	Compra y venta de empresas
+2022	07	422780190	Otros servicios de asesoría financiera
+2022	07	422850100	Otras comisiones ganadas
+2022	07	422850101	Cambio de moneda extranjera
+2022	07	422850102	Emisión de vales vista
+2022	07	422850103	Emisión de boletas de garantía
+2022	07	422850104	Comisiones de confianza
+2022	07	422850105	Operaciones de comercio exterior
+2022	07	422850106	Administración de créditos estudiantiles
+2022	07	422850190	Otras remuneraciones por servicios prestados
+2022	07	425000000	GASTOS POR COMISIONES Y SERVICIOS RECIBIDOS
+2022	07	425150100	Comisiones por operación de tarjetas
+2022	07	425150101	Tarjetas de cajeros automáticos
+2022	07	425150102	Tarjetas de crédito
+2022	07	425150103	Tarjetas de débito
+2022	07	425150104	Tarjetas de pago con provisión de fondos - tarjetas nominativas
+2022	07	425150105	Tarjetas de pago con provisión de fondos - tarjetas innominadas
+2022	07	425150190	Otras tarjetas
+2022	07	425180100	Comisiones por licencia de uso de marcas de tarjetas
+2022	07	425180101	Tarjetas de crédito
+2022	07	425180102	Tarjetas de débito
+2022	07	425180103	Tarjetas de pago con provisión de fondos - tarjetas nominativas
+2022	07	425180104	Tarjetas de pago con provisión de fondos - tarjetas innominadas
+2022	07	425180190	Otras tarjetas
+2022	07	425250100	Otras comisiones por servicios vinculados al sistema de tarjetas de crédito y tarjetas de pago con provisión de fondos como medio de pago
+2022	07	425280100	Gastos por obligaciones de programas de fidelización y méritos para clientes por tarjetas
+2022	07	425280101	Tarjetas de cajeros automáticos
+2022	07	425280102	Tarjetas de crédito
+2022	07	425280103	Tarjetas de débito
+2022	07	425280104	Tarjetas de pago con provisión de fondos - tarjetas nominativas
+2022	07	425280105	Tarjetas de pago con provisión de fondos - tarjetas innominadas
+2022	07	425280109	Otras tarjetas
+2022	07	425280190	Otros canales o productos
+2022	07	425350100	Comisiones por operación con valores
+2022	07	425350101	Comisiones por depósito y custodia de valores
+2022	07	425350102	Comisiones por corretajes de valores
+2022	07	425350103	Comisiones por inversiones en fondos mutuos
+2022	07	425350104	Comisiones a bolsas de valores
+2022	07	425350105	Comisiones por una contraparte central
+2022	07	425350106	Comisiones por servicios de Infraestructura de Mercado OTC
+2022	07	425350190	Otras
+2022	07	425380100	Otras comisiones por servicios recibidos
+2022	07	425380101	Comisiones por garantías y avales de obligaciones del banco
+2022	07	425380102	Comisiones por operaciones de comercio exterior
+2022	07	425380103	Comisiones por bancos corresponsales del país y del exterior
+2022	07	425380104	Comisiones por cajeros automáticos
+2022	07	425380105	Comisiones por servicios de transferencias electrónicas de fondos
+2022	07	425380106	Comisiones por compensación de pagos de alto valor
+2022	07	425380190	Otras
+2022	07	431000000	RESULTADO POR ACTIVOS FINANCIEROS PARA NEGOCIAR A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	431150100	Contratos de derivados financieros
+2022	07	431150101	Utilidad por valorización
+2022	07	431150102	Pérdida por valorización
+2022	07	431180100	Instrumentos financieros de deuda
+2022	07	431180101	Utilidad por valorización
+2022	07	431180102	Pérdida por valorización
+2022	07	431180103	Utilidad por venta
+2022	07	431180104	Pérdida por venta
+2022	07	431180105	Ingresos por intereses
+2022	07	431180106	Ingresos por reajustes
+2022	07	431250000	Otros instrumentos financieros
+2022	07	431250100	Inversiones en Fondos Mutuos
+2022	07	431250101	Utilidad por valorización
+2022	07	431250102	Pérdida por valorización
+2022	07	431250103	Utilidad por venta
+2022	07	431250104	Pérdida por venta
+2022	07	431250200	Instrumentos de patrimonio
+2022	07	431250201	Utilidad por valorización
+2022	07	431250202	Pérdida por valorización
+2022	07	431250203	Utilidad por venta
+2022	07	431250204	Pérdida por venta
+2022	07	431250205	Ingresos por dividendos
+2022	07	431250300	Créditos originados y adquiridos por la entidad (Adeudado por bancos, Colocaciones comerciales, Colocaciones para vivienda y Colocaciones de consumo)
+2022	07	431250301	Utilidad por valorización
+2022	07	431250302	Pérdida por valorización
+2022	07	431250303	Utilidad por venta
+2022	07	431250304	Pérdida por venta
+2022	07	431250305	Ingresos por intereses
+2022	07	431250306	Ingresos por reajustes
+2022	07	431250900	Otros
+2022	07	431250901	Utilidad por valorización
+2022	07	431250902	Pérdida por valorización
+2022	07	431250903	Utilidad por venta
+2022	07	431250904	Pérdida por venta
+2022	07	431250905	Ingresos por intereses
+2022	07	431250906	Ingresos por reajustes
+2022	07	431500000	RESULTADO FINANCIERO POR PASIVOS FINANCIEROS PARA NEGOCIAR A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	431650100	Contratos de derivados financieros
+2022	07	431650101	Utilidad por valorización
+2022	07	431650102	Pérdida por valorización
+2022	07	431750100	Otros instrumentos financieros
+2022	07	431750101	Utilidad por valorización
+2022	07	431750102	Pérdida por valorización
+2022	07	431750103	Utilidad por venta
+2022	07	431750104	Pérdida por venta
+2022	07	431750105	Gastos por intereses
+2022	07	431750106	Gastos por reajustes
+2022	07	431800000	RESULTADO FINANCIERO POR ACTIVOS FINANCIEROS NO DESTINADOS A NEGOCIACIÓN VALORADOS OBLIGATORIAMENTE A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	431800100	Instrumentos financieros de deuda
+2022	07	431800101	Utilidad por valorización
+2022	07	431800102	Pérdida por valorización
+2022	07	431800103	Utilidad por venta
+2022	07	431800104	Pérdida por venta
+2022	07	431800105	Ingresos por intereses
+2022	07	431800106	Ingresos por reajustes
+2022	07	431800900	Otros
+2022	07	431800901	Utilidad por valorización
+2022	07	431800902	Pérdida por valorización
+2022	07	431800903	Utilidad por venta
+2022	07	431800904	Pérdida por venta
+2022	07	431800905	Ingresos por intereses
+2022	07	431800906	Ingresos por reajustes
+2022	07	431850000	RESULTADO FINANCIERO POR ACTIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	431850100	Instrumentos financieros de deuda
+2022	07	431850101	Utilidad por valorización
+2022	07	431850102	Pérdida por valorización
+2022	07	431850103	Utilidad por venta
+2022	07	431850104	Pérdida por venta
+2022	07	431850105	Ingresos por intereses
+2022	07	431850106	Ingresos por reajustes
+2022	07	431850200	Otros instrumentos financieros
+2022	07	431850210	Créditos originados y adquiridos por la entidad (Adeudado por bancos, Colocaciones comerciales, Colocaciones para vivienda y Colocaciones de consumo)
+2022	07	431850211	Utilidad por valorización
+2022	07	431850212	Pérdida por valorización
+2022	07	431850213	Utilidad por venta
+2022	07	431850214	Pérdida por venta
+2022	07	431850215	Ingresos por intereses
+2022	07	431850216	Ingresos por reajustes
+2022	07	431850220	Otros
+2022	07	431850221	Utilidad por valorización
+2022	07	431850222	Pérdida por valorización
+2022	07	431850223	Utilidad por venta
+2022	07	431850224	Pérdida por venta
+2022	07	431850225	Ingresos por intereses
+2022	07	431850226	Ingresos por reajustes
+2022	07	431900000	RESULTADO FINANCIERO POR PASIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	431900100	Depósitos, otras obligaciones a la vista y Depósitos y otras captaciones a plazo
+2022	07	431900101	Utilidad por valorización
+2022	07	431900102	Pérdida por valorización
+2022	07	431900103	Utilidad por venta
+2022	07	431900104	Pérdida por venta
+2022	07	431900105	Gastos por intereses
+2022	07	431900106	Gastos por reajustes
+2022	07	431900200	Instrumentos de deuda emitidos
+2022	07	431900201	Utilidad por valorización
+2022	07	431900202	Pérdida por valorización
+2022	07	431900203	Utilidad por venta
+2022	07	431900204	Pérdida por venta
+2022	07	431900205	Gastos por intereses
+2022	07	431900206	Gastos por reajustes
+2022	07	431900300	Otros
+2022	07	431900301	Utilidad por valorización
+2022	07	431900302	Pérdida por valorización
+2022	07	431900303	Utilidad por venta
+2022	07	431900304	Pérdida por venta
+2022	07	431900305	Gastos por intereses
+2022	07	431900306	Gastos por reajustes
+2022	07	432000000	RESULTADO FINANCIERO POR DAR DE BAJA ACTIVOS Y PASIVOS FINANCIEROS  A COSTO AMORTIZADO Y ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	432200000	Activos financieros a costo amortizado
+2022	07	432200100	Derechos por pactos de retroventa y préstamos de valores
+2022	07	432200200	Instrumentos financieros de deuda
+2022	07	432200300	Adeudado por bancos
+2022	07	432200400	Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+2022	07	432200500	Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+2022	07	432200600	Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+2022	07	432300700	Otros instrumentos financieros
+2022	07	432400000	Activos financieros a valor razonable con cambios en otro resultado integral
+2022	07	432400100	Derechos por pactos de retroventa y préstamos de valores
+2022	07	432400200	Instrumentos financieros de deuda
+2022	07	432400300	Adeudado por bancos
+2022	07	432400400	Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+2022	07	432400500	Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+2022	07	432400600	Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+2022	07	432400700	Otros instrumentos financieros
+2022	07	432600000	Pasivos financieros a costo amortizado
+2022	07	432600100	Depósitos y otras obligaciones a la vista
+2022	07	432600200	Depósitos y otras captaciones a plazo
+2022	07	432600300	Obligaciones por pactos de retrocompra y préstamos de valores
+2022	07	432600400	Obligaciones con bancos
+2022	07	432600500	Instrumentos de deuda emitidos - Letras de créditos
+2022	07	432600600	Instrumentos de deuda emitidos - Bonos corrientes
+2022	07	432600800	Instrumentos de deuda emitidos - Bonos hipotecarios
+2022	07	432600900	Otras obligaciones financieras
+2022	07	432700000	Instrumentos financieros de capital regulatrio emitidos
+2022	07	432700100	Bonos sin plazo fijo de vencimiento
+2022	07	432700200	Acciones Preferentes
+2022	07	433000000	RESULTADO FINANCIERO POR CAMBIOS, REAJUSTES Y COBERTURA CONTABLE DE MONEDA EXTRANJERA
+2022	07	433100100	Resultado por cambio de moneda extranjera
+2022	07	433100101	Resultado de cambio neto - posición de cambios
+2022	07	433100102	Otros resultados de cambio
+2022	07	433200000	Resultados por reajustes por tipo de cambio
+2022	07	433210000	Activos financieros para negociar a valor razonable con cambios en resultados
+2022	07	433210100	Instrumentos financieros de deuda
+2022	07	433210200	Otros instrumentos financieros
+2022	07	433220000	Activos financieros no destinados para negociar obligatoriamente a valor razonable con cambios en resultados
+2022	07	433220100	Instrumentos financieros de deuda
+2022	07	433220200	Otros instrumentos financieros
+2022	07	433230000	Activos financieros designados a valor razonable con cambios en resultados
+2022	07	433230100	Instrumentos financieros de deuda
+2022	07	433230200	Otros instrumentos financieros
+2022	07	433240000	Activos financieros a valor razonable con cambios en otro resultado integral
+2022	07	433240100	Instrumentos financieros de deuda
+2022	07	433240200	Otros instrumentos financieros
+2022	07	433250000	Activos financieros a costo amortizado
+2022	07	433250100	Derechos por pactos de retroventa y préstamos de valores
+2022	07	433250200	Instrumentos financieros de deuda
+2022	07	433250300	Adeudado por bancos
+2022	07	433250301	Bancos del país
+2022	07	433250302	Bancos del exterior
+2022	07	433250303	Banco Central de Chile
+2022	07	433250304	Bancos Centrales del exterior
+2022	07	433250400	Colocaciones comerciales
+2022	07	433250410	Préstamos comerciales
+2022	07	433250411	Préstamos en el país
+2022	07	433250412	Préstamos en el exterior
+2022	07	433250413	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	433250414	Préstamos con letras de crédito para fines generales
+2022	07	433250415	Préstamos con mutuos hipotecarios endosables para fines generales
+2022	07	433250416	Préstamos con mutuos hipotecarios no endosables para fines generales
+2022	07	433250420	Créditos de comercio exterior
+2022	07	433250421	Acreditivos negociados a plazo de exportaciones chilenas
+2022	07	433250422	Otros créditos para exportaciones chilenas
+2022	07	433250423	Acreditivos negociados a plazo de importaciones chilenas
+2022	07	433250424	Otros créditos para importaciones chilenas
+2022	07	433250425	Acreditivos negociados a plazo de operaciones entre terceros países
+2022	07	433250426	Otros créditos para operaciones entre terceros países
+2022	07	433250430	Deudores en cuentas corrientes
+2022	07	433250440	Deudores por tarjetas de crédito
+2022	07	433250450	Operaciones de factoraje
+2022	07	433250451	Factoring con responsabilidad
+2022	07	433250452	Factoring sin responsabilidad
+2022	07	433250460	Operaciones de leasing financiero comercial
+2022	07	433250461	Leasing por bienes inmobiliarios
+2022	07	433250462	Leasing por bienes no inmobiliarios
+2022	07	433250470	Préstamos estudiantiles
+2022	07	433250480	Otros créditos y cuentas por cobrar
+2022	07	433250481	Deudores por pago de obligaciones avaladas
+2022	07	433250482	Deudores por boletas de garantía pagadas
+2022	07	433250483	Otras cuentas por cobrar
+2022	07	433250500	Colocaciones para vivienda
+2022	07	433250600	Colocaciones de consumo
+2022	07	433260000	Otros activos
+2022	07	433300000	Pasivos financieros a costo amortizado
+2022	07	433300100	Depósitos y otras obligaciones a la vista
+2022	07	433300200	Depósitos y otras captaciones a plazo
+2022	07	433300300	Obligaciones por pactos de retrocompra y préstamos de valores
+2022	07	433300400	Obligaciones con bancos
+2022	07	433300500	Instrumentos de deuda emitidos
+2022	07	433300600	Letras de Créditos
+2022	07	433300700	Bonos corrientes
+2022	07	433300900	Bonos hipotecarios
+2022	07	433301000	Otras obligaciones financieras
+2022	07	433310000	Pasivos financieros para negociar a valor razonable con cambios en resultados
+2022	07	433320000	Pasivos financieros designados a valor razonable con cambios en resultados
+2022	07	433330000	Instrumentos financieros de capital regulatorio emitidos
+2022	07	433330100	Bonos subordinados
+2022	07	433330200	Bonos sin plazo fijo de vencimiento
+2022	07	433500100	Resultado neto de derivados en coberturas contables del riesgo por moneda extranjera
+2022	07	433500101	Utilidad por contratos de derivados financieros para cobertura contable de activos financieros
+2022	07	433500102	Pérdida por contratos de derivados financieros para cobertura contable de activos financieros
+2022	07	433500103	Utilidad por contratos de derivados financieros para cobertura contable de pasivos financieros
+2022	07	433500104	Pérdida por contratos de derivados financieros para cobertura contable de pasivos financieros
+2022	07	434000000	RESULTADO FINANCIERO POR RECLASIFICACIONES DE ACTIVOS FINANCIEROS POR CAMBIO DE MODELO DE NEGOCIO
+2022	07	434000100	Desde activos financieros a costo amortizado a activos financieros para negociar a valor razonable con cambios en resultados
+2022	07	434000101	Adeudado por bancos
+2022	07	434000102	Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+2022	07	434000103	Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+2022	07	434000104	Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+2022	07	434000109	Otros instrumentos financieros
+2022	07	434000200	Desde activos financieros a valor razonable con cambios en otro resultado integral a activos financieros para negociar a valor razonable con cambios en resultados
+2022	07	434000201	Adeudado por bancos
+2022	07	434000202	Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+2022	07	434000203	Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+2022	07	434000204	Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+2022	07	434000209	Otros instrumentos financieros
+2022	07	435200000	OTRO RESULTADO FINANCIERO POR MODIFICACIONES DE ACTIVOS Y PASIVOS FINANCIEROS
+2022	07	435200100	Activos financieros a costo amortizado
+2022	07	435200101	Derechos por pactos de retroventa
+2022	07	435200102	Instrumentos financieros de deuda
+2022	07	435200103	Otros instrumentos financieros
+2022	07	435200200	Activos financieros a valor razonable con cambios en otro resultado integral
+2022	07	435200201	Instrumentos financieros de deuda
+2022	07	435200202	Otros instrumentos financieros
+2022	07	435200300	Pasivos financieros a costo amortizado
+2022	07	435200301	Depósitos y otras obligaciones a la vista
+2022	07	435200302	Depósitos y otras captaciones a plazo
+2022	07	435200303	Obligaciones por pactos de retrocompra y prestamos de valores
+2022	07	435200304	Obligaciones con bancos
+2022	07	435200305	Instrumentos de deuda emitidos - Letras de créditos
+2022	07	435200306	Instrumentos de deuda emitidos - Bonos corrientes
+2022	07	435200308	Instrumentos de deuda emitidos - Bonos hipotecarios
+2022	07	435200309	Otras obligaciones financieras
+2022	07	435200400	Obligaciones por contratos de arrendamiento
+2022	07	435200500	Instrumentos financieros de capital regulatorio emitidos
+2022	07	435200501	Bonos subordinados
+2022	07	435200502	Bonos sin plazo fijo de vencimiento
+2022	07	435200503	Acciones preferentes
+2022	07	435300000	OTRO RESULTADO FINANCIERO POR COBERTURAS CONTABLES INEFECTIVAS
+2022	07	435300100	Resultado por coberturas contables inefectivas de flujo de caja
+2022	07	435300200	Resultado por coberturas contables inefectivas de inversión neta en el exterior
+2022	07	435400000	OTRO RESULTADO FINANCIERO POR COBERTURAS CONTABLES DE OTRO TIPO
+2022	07	435400100	Coberturas de otro tipo de activos financieros
+2022	07	435400101	Utilidad por instrumentos de cobertura
+2022	07	435400102	Pérdida por instrumentos de cobertura
+2022	07	435400103	Resultados por ajuste de activos financieros cubiertos
+2022	07	440000000	RESULTADO POR INVERSIONES EN SOCIEDADES
+2022	07	442000100	Resultado por inversiones en sociedades
+2022	07	442000101	Sucursales en el exterior
+2022	07	442000102	Sociedades controladas en el país
+2022	07	442000103	Sociedades controladas en el exterior
+2022	07	442000104	Sociedades con influencia significativa en el país
+2022	07	442000105	Sociedades con influencia significativa en el exterior
+2022	07	442000106	Inversiones en sociedades como un negocio conjunto en el país
+2022	07	442000107	Inversiones en sociedades como un negocio conjunto en el exterior
+2022	07	442000108	Inversiones minoritarias en otras sociedades en el país
+2022	07	442000109	Inversiones minoritarias en otras sociedades en el exterior
+2022	07	444000100	Resultado por venta de participaciones en sociedades
+2022	07	444000101	Sucursales en el exterior
+2022	07	444000102	Sociedades controladas en el país
+2022	07	444000103	Sociedades controladas en el exterior
+2022	07	444000104	Sociedades con influencia significativa en el país
+2022	07	444000105	Sociedades con influencia significativa en el exterior
+2022	07	444000106	Inversiones en sociedades como un negocio conjunto en el país
+2022	07	444000107	Inversiones en sociedades como un negocio conjunto en el exterior
+2022	07	450000000	RESULTADO DE ACTIVOS NO CORRIENTES Y GRUPOS ENAJENABLES PARA LA VENTA NO ADMISIBLES COMO OPERACIONES DISCONTINUADAS
+2022	07	451000000	Resultado neto por bienes recibidos en pago o adjudicados en remate judicial
+2022	07	451000100	Resultado por venta de bienes recibidos en pago o adjudicados en remate judicial
+2022	07	451000101	Resultado por venta de bienes recibidos en pago o adjudicados en remate judicial con partes relacionadas
+2022	07	451000102	Resultado por venta de bienes recibidos en pago o adjudicados en remate judicial con terceros no relacionados
+2022	07	451000200	Otros ingresos por bienes recibidos en pago o adjudicados en remate judicial
+2022	07	451000300	Provisiones por ajustes al valor realizable neto de bienes recibidos en pago o adjudicados en remate judicial
+2022	07	451000400	Castigos de bienes recibidos en pago o adjudicados en remate judicial
+2022	07	451000500	Gastos por mantención de bienes recibidos en pago o adjudicados en remate judicial
+2022	07	452000100	Activos no corrientes para la venta
+2022	07	452000101	Inversiones en sociedades
+2022	07	452000102	Activos intangibles
+2022	07	452000103	Activos fijos
+2022	07	452000104	Activos por recuperación de bienes cedidos en operaciones de leasing financiero
+2022	07	452000109	Otros activos
+2022	07	452000200	Grupos enajenables para la venta
+2022	07	455000000	OTROS INGRESOS OPERACIONALES
+2022	07	455000100	Indemnizaciones de compañías de seguros por siniestros distintos a eventos de riesgo operacional
+2022	07	455000200	Ingreso neto por propiedades de inversión
+2022	07	455000300	Ingresos por las marcas de tarjetas emitidas (VISA, MC etc.)
+2022	07	455000400	Ingresos de bancos corresponsales
+2022	07	455000500	Ingresos distintos a intereses y comisiones por contratos de arrendamiento
+2022	07	455000600	Ingresos por recuperación de gastos
+2022	07	455000900	Otros ingresos
+2022	07	462000000	GASTOS POR OBLIGACIONES DE BENEFICIOS A EMPLEADOS
+2022	07	462100100	Gastos por beneficios a empleados de corto plazo
+2022	07	462100101	Remuneración
+2022	07	462100102	Incentivos (bonos de desempeño)
+2022	07	462100103	Gratificación legal
+2022	07	462100190	Otros
+2022	07	462200100	Gastos por beneficios a empleados post-empleo
+2022	07	462300100	Gastos por beneficios a empleados de largo plazo
+2022	07	462300101	Remuneración
+2022	07	462300102	Incentivos (bonos de desempeño)
+2022	07	462300190	Otros
+2022	07	462400100	Gastos por beneficios a empleados por término de contrato laboral
+2022	07	462400101	Indemnizaciones por años de servicios
+2022	07	462400190	Otros
+2022	07	462500100	Gastos por pagos a empleados basados en acciones o instrumentos de patrimonio
+2022	07	462500101	Transacciones con pagos basados en acciones liquidados con instrumentos de patrimonio
+2022	07	462500102	Transacciones con pagos basados en acciones liquidados en efectivo
+2022	07	462600100	Gastos por obligaciones por planes post-empleo de contribución definida
+2022	07	462700100	Gastos por obligaciones por planes post-empleo de beneficios definidos
+2022	07	462800100	Gastos por otras obligaciones con el personal
+2022	07	462900100	Otros gastos del personal
+2022	07	462900101	Gastos de capacitación
+2022	07	462900102	Gastos por sala cuna y jardín infantil
+2022	07	462900190	Otros
+2022	07	464000000	GASTOS DE ADMINISTRACIÓN
+2022	07	464100100	Gastos generales de administración
+2022	07	464100101	Gastos por contratos de arrendamiento a corto plazo
+2022	07	464100102	Gastos por contratos de arrendamiento de bajo valor
+2022	07	464100103	Otros gastos de obligaciones por contratos de arrendamiento
+2022	07	464100104	Mantenimiento y reparación de activo fijo
+2022	07	464100105	Primas de seguros excepto para cubrir eventos de riesgo operacional
+2022	07	464100106	Materiales de oficina
+2022	07	464100107	Gastos de informática y comunicaciones
+2022	07	464100108	Alumbrado, calefacción y otros servicios
+2022	07	464100109	Servicios de vigilancia y transporte de valores
+2022	07	464100110	Gastos de representación y desplazamiento del personal
+2022	07	464100111	Gastos judiciales y notariales
+2022	07	464100112	Honorarios por revisión y auditoría de los estados financieros por parte del auditor externo
+2022	07	464100113	Honorarios por asesorías y consultorías realizadas por parte del auditor externo
+2022	07	464100114	Honorarios por asesorías y consultorías realizadas por otras empresas de auditoría
+2022	07	464100115	Honorarios por clasificación de títulos
+2022	07	464100116	Honorarios por otros informes técnicos
+2022	07	464100117	Multas aplicadas por la CMF
+2022	07	464100118	Multas aplicadas por otros organismos
+2022	07	464100190	Otros gastos generales de administración
+2022	07	464200100	Servicios subcontratados
+2022	07	464200101	Procesamiento de datos
+2022	07	464200102	Servicio de desarrollo tecnológico, certificación y testing tecnológico
+2022	07	464200103	Servicio externo de administración de recursos humanos y de suministro de personal externo
+2022	07	464200104	Servicio de tasaciones
+2022	07	464200105	Servicio de Call Center para ventas, marketing, control calidad servicio al cliente
+2022	07	464200106	Servicio de cobranza externa
+2022	07	464200107	Servicio externo de administración y mantención de cajeros automáticos
+2022	07	464200108	Servicio externo de aseo, casino, custodia de archivos y documentos, almacenamiento de muebles y equipos
+2022	07	464200109	Servicios de venta y distribución de productos
+2022	07	464200110	Servicio externo de evaluación de créditos
+2022	07	464200190	Otros servicios subcontratados
+2022	07	464300100	Gastos del Directorio
+2022	07	464300101	Remuneraciones del Directorio
+2022	07	464300102	Otros gastos del Directorio
+2022	07	464400100	Publicidad
+2022	07	464500100	Impuestos, contribuciones y otros cargos legales
+2022	07	464500101	Contribuciones de bienes raíces
+2022	07	464500102	Patentes municipales
+2022	07	464500103	Otros impuestos distintos a la renta
+2022	07	464500104	Otros impuestos distintos a la renta
+2022	07	464500190	Otros cargos legales
+2022	07	466000000	DEPRECIACIÓN Y AMORTIZACIÓN
+2022	07	466100000	Amortizaciones por activos intangibles
+2022	07	466100100	Otros activos intangibles originados en combinaciones de negocios
+2022	07	466100101	Relación con clientes
+2022	07	466100102	Contrato de exclusividad
+2022	07	466100103	Depósitos estables ("core deposit")
+2022	07	466100104	Derecho a usar marcas
+2022	07	466100105	Derecho a usar canales
+2022	07	466100106	Contrato para recaudación de servicios
+2022	07	466100107	Software o programas computacionales
+2022	07	466100108	Derechos por servicios de créditos hipotecarios ("mortgage servicing rights")
+2022	07	466100109	Otros intangibles
+2022	07	466100200	Otros activos intangibles originados en forma independiente
+2022	07	466100201	Software o programas computacionales adquiridos en forma independiente
+2022	07	466100202	Software o programas computacionales generados internamente
+2022	07	466100203	Derechos por servicios de créditos hipotecarios ("mortgage servicing rights")
+2022	07	466100209	Otros intangibles
+2022	07	466200000	Depreciaciones por activos fijos
+2022	07	466200100	Edificios y terrenos
+2022	07	466200101	Edificios
+2022	07	466200102	Terrenos
+2022	07	466200200	Otros activos fijos
+2022	07	466200201	Equipos
+2022	07	466200209	Otros activos fijos
+2022	07	466300000	Depreciaciones y amortizaciones por activo por derecho a usar bienes en arrendamiento
+2022	07	466300110	Edificios y terrenos
+2022	07	466300111	Edificios
+2022	07	466300112	Terrenos
+2022	07	466300220	Otros activos fijos
+2022	07	466300221	Equipos
+2022	07	466300229	Otros activos fijos
+2022	07	466300330	Depreciaciones por mejoras en inmuebles arrendados como activos por derecho a usar bienes en arrendamiento
+2022	07	466300440	Amortizaciones por derecho a usar otros activos intangibles en arrendamiento
+2022	07	466300441	Software o programas computacionales
+2022	07	466300449	Otros intangibles
+2022	07	466400000	Depreciaciones de otros activos por propiedades de inversión
+2022	07	466500000	Amortización de otros activos por activo de ingresos por actividades habituales procedentes de contratos con clientes
+2022	07	468000000	DETERIORO DE ACTIVOS NO FINANCIEROS
+2022	07	468100100	Deterioro de inversiones en sociedades
+2022	07	468100101	Sucursales en el exterior
+2022	07	468100102	Sociedades controladas en el país
+2022	07	468100103	Sociedades controladas en el exterior
+2022	07	468100104	Sociedades con influencia significativa en el país
+2022	07	468100105	Sociedades con influencia significativa en el exterior
+2022	07	468100106	Inversiones en sociedades como un negocio conjunto en el país
+2022	07	468100107	Inversiones en sociedades como un negocio conjunto en el exterior
+2022	07	468200000	Deterioro de activos intangibles
+2022	07	468200100	Goodwill por combinaciones de negocio
+2022	07	468200200	Otros activos intangibles originados en combinaciones de negocios
+2022	07	468200201	Relación con clientes
+2022	07	468200202	Contrato de exclusividad
+2022	07	468200203	Depósitos estables ("core deposit")
+2022	07	468200204	Derecho a usar marcas
+2022	07	468200205	Derecho a usar canales
+2022	07	468200206	Contrato para recaudación de servicios
+2022	07	468200207	Software o programas computacionales
+2022	07	468200208	Derechos de servicios de créditos hipotecarios ("mortgage servicing rights")
+2022	07	468200209	Otros intangibles
+2022	07	468200300	Otros activos intangibles originados en forma independiente
+2022	07	468200301	Software o programas computacionales generados internamente
+2022	07	468200302	Software o programas computacionales generados internamente
+2022	07	468200303	Derechos de servicios de créditos hipotecarios ("mortgage servicing rights")
+2022	07	468200309	Otros intangibles
+2022	07	468300000	Deterioro de activos fijos
+2022	07	468300100	Edificios y terrenos
+2022	07	468300101	Edificios
+2022	07	468300102	Terrenos
+2022	07	468300200	Otros activos fijos
+2022	07	468300201	Equipos
+2022	07	468300209	Otros activos fijos
+2022	07	468400000	Deterioro de activo por derecho a usar bienes en arrendamiento
+2022	07	468400200	Edificios y terrenos
+2022	07	468400201	Edificios
+2022	07	468400202	Terrenos
+2022	07	468400300	Deterioro por mejoras en inmuebles arrendados como activos por derecho a usar bienes en arrendamiento
+2022	07	468400400	Otros activos fijos
+2022	07	468400401	Equipos
+2022	07	468400409	Otros activos fijos
+2022	07	468400500	Deterioro por derecho a usar otros activos intangibles en arrendamiento
+2022	07	468400501	Software o programas computacionales
+2022	07	468400509	Otros intangibles
+2022	07	468500000	Deterioro de otros activos por propiedades de inversión
+2022	07	468600000	Deterioro de otros activos por activo de ingresos por actividades habituales procedentes de contratos con clientes
+2022	07	468800000	Ganancia por una adquisición a través de una combinación de negocios en términos muy ventajosos
+2022	07	469000000	OTROS GASTOS OPERACIONALES
+2022	07	469000100	Gasto de primas de seguros para cubrir eventos de riesgo operacional
+2022	07	469000300	Gasto de provisiones por riesgo operacional
+2022	07	469000301	Constitución de provisiones por riesgo operacional
+2022	07	469000302	Liberación de provisiones por resgo operacional
+2022	07	469000400	Recuperaciones de gastos por eventos de riesgo operacional
+2022	07	469000401	Recuperaciones de gastos por eventos de riesgo operacional a través de indemnizaciones de compañías de seguros
+2022	07	469000402	Otras recuperaciones de gastos por eventos de riesgo operacional distinto a indemnizaciones de compañías de seguros
+2022	07	469000500	Gasto de provisiones por comisiones de intermediación de seguros no devengadas
+2022	07	469000600	Gasto de provisiones por comisiones de recaudación de primas de seguros no devengadas
+2022	07	469000700	Provisiones por planes de reestructuración
+2022	07	469000800	Provisiones por juicios y litigios
+2022	07	469000900	Otras provisiones por otras contingencias
+2022	07	469001000	Gastos por operaciones crediticias de leasing financiero
+2022	07	469001100	Gastos por operaciones crediticias de factoring
+2022	07	469001200	Gastos por administración, mantención y soporte de cajeros automáticos (ATM)
+2022	07	469001300	Gastos por adopción de nuevas tecnologías en tarjetas
+2022	07	469001400	Gastos por emisión de instrumentos financieros de capital regulatorio
+2022	07	469001401	Gastos por emisión de bonos sin plazo fijo de vencimiento
+2022	07	469001402	Gastos por emisión de acciones preferentes
+2022	07	469001900	Otros gastos operacionales
+2022	07	470000000	GASTO POR PÉRDIDAS CREDITICIAS
+2022	07	471000000	GASTO DE PROVISIONES CONSTITUIDAS POR RIESGO DE CRÉDITO DE COLOCACIONES A COSTO AMORTIZADO
+2022	07	471100100	Gasto de provisiones constituidas por riesgo de crédito de adeudado por bancos
+2022	07	471100101	Provisiones evaluación individual - cartera normal
+2022	07	471100102	Provisiones evaluación individual - cartera subestándar
+2022	07	471100103	Provisiones evaluación individual - cartera en incumplimiento
+2022	07	471200100	Gasto de provisiones constituidas por riesgo de crédito de colocaciones comerciales
+2022	07	471200101	Provisiones evaluación individual - cartera normal
+2022	07	471200102	Provisiones evaluación individual - cartera subestándar
+2022	07	471200103	Provisiones evaluación individual - cartera en incumplimiento
+2022	07	471200104	Provisiones evaluación grupal - cartera normal
+2022	07	471200105	Provisiones evaluación grupal - cartera en incumplimiento
+2022	07	471200109	Provisiones por deducible de garantías FOGAPE Covid-19
+2022	07	471300100	Gasto de provisiones constituidas por riesgo de crédito de colocaciones para vivienda
+2022	07	471300101	Provisiones evaluación grupal - cartera normal
+2022	07	471300102	Provisiones evaluación grupal - cartera en incumplimiento
+2022	07	471400100	Gasto de provisiones constituidas por riesgo de crédito de colocaciones de consumo
+2022	07	471400101	Provisiones evaluación grupal - cartera normal
+2022	07	471400102	Provisiones evaluación grupal - cartera en incumplimiento
+2022	07	472000000	GASTO DE PROVISIONES ESPECIALES POR RIESGO DE CRÉDITO
+2022	07	472050100	Gasto de provisiones por riesgo de crédito para créditos contingentes
+2022	07	472050101	Adeudado por bancos
+2022	07	472050102	Colocaciones comerciales
+2022	07	472050103	Colocaciones de consumo
+2022	07	472100100	Gasto de provisiones por riesgo país para operaciones con deudores domiciliados en el exterior
+2022	07	472150100	Gasto de provisiones especiales para créditos al exterior
+2022	07	472200100	Gasto de provisiones adicionales para colocaciones
+2022	07	472200101	Provisiones adicionales colocaciones comerciales
+2022	07	472200102	Provisiones adicionales colocaciones para vivienda
+2022	07	472200103	Provisiones adicionales colocaciones de consumo
+2022	07	472250100	Gasto de provisiones por ajustes a provisión mínima exigida para cartera normal con evaluación individual
+2022	07	472250101	Ajuste a provisión mínima adeudado por bancos en el país
+2022	07	472250102	Ajuste a provisión mínima colocaciones comerciales en el país
+2022	07	472250103	Ajuste a provisión mínima créditos contingentes comerciales en el país
+2022	07	472250104	Ajuste a provisión mínima adeudado por bancos en el exterior
+2022	07	472250105	Ajuste a provisión mínima colocaciones comerciales en el exterior
+2022	07	472250106	Ajuste a provisión mínima créditos contingentes comerciales en el exterior
+2022	07	472500100	Gasto de provisiones constituidas por riesgo de crédito a raiz de exigencias prudenciales complementarias
+2022	07	472500101	Provisiones colocaciones comerciales
+2022	07	472500102	Provisiones colocaciones para vivienda
+2022	07	472500103	Provisiones colocaciones de consumo
+2022	07	474000100	RECUPERACIÓN DE CRÉDITOS CASTIGADOS
+2022	07	474000101	Recuperación de adeudado por bancos castigados
+2022	07	474000102	Recuperación de colocaciones comerciales castigadas
+2022	07	474000103	Recuperación de colocaciones para vivienda castigadas
+2022	07	474000104	Recuperación de colocaciones de consumo castigadas
+2022	07	476000000	DETERIORO POR RIESGO DE CRÉDITO DE OTROS ACTIVOS FINANCIEROS A COSTO AMORTIZADO Y ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	476400000	DETERIORO POR RIESGO DE CRÉDITO DE ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	476400100	Deterioro de activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+2022	07	476400101	Instrumentos financieros de deuda emitidos en el país
+2022	07	476400102	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	476400103	Adeudado por bancos
+2022	07	476400105	Colocaciones comerciales
+2022	07	476400106	Colocaciones para vivienda
+2022	07	476400107	Colocaciones de consumo
+2022	07	476400109	Otros instrumentos financieros
+2022	07	476400200	Deterioro de activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+2022	07	476400201	Instrumentos financieros de deuda emitidos en el país
+2022	07	476400202	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	476400203	Adeudado por bancos
+2022	07	476400205	Colocaciones comerciales
+2022	07	476400206	Colocaciones para vivienda
+2022	07	476400207	Colocaciones de consumo
+2022	07	476400209	Otros instrumentos financieros
+2022	07	476400300	Deterioro de activos financieros con deterioro crediticio (fase 3)
+2022	07	476400301	Instrumentos financieros de deuda emitidos en el país
+2022	07	476400302	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	476400303	Adeudado por bancos
+2022	07	476400305	Colocaciones comerciales
+2022	07	476400306	Colocaciones para vivienda
+2022	07	476400307	Colocaciones de consumo
+2022	07	476400309	Otros instrumentos financieros
+2022	07	476800000	DETERIORO POR RIESGO DE CRÉDITO DE OTROS ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+2022	07	476800100	Deterioro de activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+2022	07	476800101	Derechos por pactos de retroventa y prestamos de valores
+2022	07	476800102	Instrumentos financieros de deuda emitidos en el país
+2022	07	476800103	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	476800109	Otros instrumentos financieros
+2022	07	476800200	Deterioro de activos financieros con un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+2022	07	476800201	Derechos por pactos de retroventa
+2022	07	476800202	Instrumentos financieros de deuda emitidos en el país
+2022	07	476800203	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	476800209	Otros instrumentos financieros
+2022	07	476800300	Deterioro de activos financieros con deterioro crediticio (fase 3)
+2022	07	476800301	Derechos por pactos de retroventa
+2022	07	476800302	Instrumentos financieros de deuda emitidos en el país
+2022	07	476800303	Instrumentos financieros de deuda emitidos en el exterior
+2022	07	476800309	Otros instrumentos financieros
+2022	07	480000000	IMPUESTO A LA RENTA
+2022	07	481000000	Provisión impuesto a la renta
+2022	07	482000000	Impuestos diferidos
+2022	07	489000000	Otros
+2022	07	500000000	TOTAL COLOCACIONES
+2022	07	500000000	TOTAL COLOCACIONES
+2022	07	505000000	TOTAL COLOCACIONES A COSTO AMORTIZADO
+2022	07	505000000	TOTAL COLOCACIONES A COSTO AMORTIZADO
+2022	07	510000000	TOTAL PASIVOS Y PATRIMONIO
+2022	07	520000000	INGRESO NETO POR INTERESES
+2022	07	525000000	INGRESO NETO POR REAJUSTES DE LA U.F., IVP, IPC
+2022	07	530000000	INGRESO NETO POR COMISIONES
+2022	07	540000000	RESULTADO FINANCIERO NETO
+2022	07	550000000	TOTAL INGRESOS OPERACIONALES
+2022	07	560000000	TOTAL GASTOS OPERACIONALES
+2022	07	570000000	RESULTADO OPERACIONAL ANTES DE PÉRDIDAS CREDITICIAS
+2022	07	580000000	RESULTADO OPERACIONAL
+2022	07	585000000	RESULTADO DE OPERACIONES CONTÍNUAS ANTES DE IMPUESTOS
+2022	07	586000000	RESULTADO DE OPERACIONES CONTÍNUAS DESPUÉS DE IMPUESTOS
+2022	07	587000000	RESULTADO DE OPERACIONES DISCONTINUADAS ANTES DE IMPUESTOS
+2022	07	587500000	IMPUESTOS DE OPERACIONES DISCONTINUADAS
+2022	07	587750000	RESULTADO DE OPERACIONES DISCONTINUADAS DESPUÉS DE IMPUESTOS
+2022	07	590000000	UTILIDAD (PÉRDIDA) DEL EJERCICIO (O PERIODO)
+2022	07	594000000	RESULTADO DE LOS PROPIETARIOS
+2022	07	598000000	RESULTADO DEL INTERES NO CONTROLADOR
+2022	07	601000000	ELEMENTOS QUE NO SE RECLASIFICARÁN EN RESULTADOS
+2022	07	601000100	Nuevas mediciones del pasivo (activo) por beneficios definidos neto
+2022	07	601000200	Cambios netos del valor razonable de instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral
+2022	07	601000201	Cambios del valor razonable de instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral
+2022	07	601000202	Resultado por venta de participaciones en instrumentos de patrimonio (acciones) por inversiones minoritarias en sociedades en el país.
+2022	07	601000203	Resultado por venta de participaciones en instrumentos de patrimonio (acciones) por inversiones minoritarias en sociedades en el exterior.
+2022	07	601000209	Otros
+2022	07	601000300	Cambios del valor razonable de pasivos financieros designados a valor razonable con cambios en resultados atribuibles a cambios en el riesgo de crédito del pasivo financiero
+2022	07	601000400	Participación en otro resultado integral de entidades registradas según el método de participación
+2022	07	601000500	Activos no corrientes y grupos enajenables para la venta
+2022	07	601000900	Otros
+2022	07	601500000	OTROS RESULTADOS INTEGRALES QUE NO SE RECLASIFICARÁN AL RESULTADO ANTES DE IMPUESTOS
+2022	07	601750000	Impuesto a la renta sobre otros resultados integrales que no se reclasificarán al resultado
+2022	07	601800000	TOTAL OTROS RESULTADOS INTEGRALES QUE NO SE RECLASIFICARÁN AL RESULTADO DESPUÉS DE IMPUESTOS
+2022	07	602000000	ELEMENTOS QUE PUEDEN RECLASIFICARSE EN RESULTADOS
+2022	07	602000100	Cambios del valor razonable de activos financieros a valor razonable con cambios en otro resultado integral
+2022	07	602000200	Diferencias de conversión por entidades en el exterior
+2022	07	602000300	Cobertura contable de inversiones netas en entidades en el exterior
+2022	07	602000400	Cobertura contable de flujo de efectivo
+2022	07	602000500	Elementos no designados de instrumentos de cobertura contable
+2022	07	602000600	Participación en otro resultado integral de entidades registradas según el método de participación
+2022	07	602000700	Activos no corrientes y grupos enajenables para la venta
+2022	07	602000900	Otros
+2022	07	602500000	OTROS RESULTADOS INTEGRALES QUE PUEDEN RECLASIFICARSE EN RESULTADOS ANTES DE IMPUESTOS
+2022	07	602750000	Impuesto a la renta sobre otros resultados integrales que pueden reclasificarse en resultados
+2022	07	602800000	TOTAL OTROS RESULTADOS INTEGRALES QUE PUEDEN RECLASIFICARSE EN RESULTADOS DESPUÉS DE IMPUESTOS
+2022	07	603000000	OTRO RESULTADO INTEGRAL TOTAL DEL EJERCICIO (o PERIODO)
+2022	07	690000000	RESULTADO INTEGRAL DEL EJERCICIO (o PERIODO)
+2022	07	694000000	RESULTADO INTEGRAL DE LOS PROPIETARIOS
+2022	07	698000000	RESULTADO INTEGRAL DEL INTERES NO CONTROLADOR
+2022	07	811000000	CRÉDITOS EN CARTERA DETERIORADA
+2022	07	811100000	Adeudado por bancos
+2022	07	811100100	Bancos del país
+2022	07	811100200	Bancos del exterior
+2022	07	811200000	Colocaciones comerciales
+2022	07	811200100	Préstamos comerciales
+2022	07	811200101	Préstamos comerciales en el país
+2022	07	811200102	Préstamos comerciales en el exterior
+2022	07	811200103	Préstamos hipotecarios para fines generales
+2022	07	811200104	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	811200600	Créditos de comercio exterior
+2022	07	811200700	Deudores en cuentas corrientes
+2022	07	811200800	Deudores por tarjetas de crédito
+2022	07	811200900	Operaciones de factoraje
+2022	07	811201000	Operaciones de leasing comerciales
+2022	07	811201100	Préstamos estudiantiles
+2022	07	811201200	Otros créditos y cuentas por cobrar
+2022	07	811300000	Colocaciones para vivienda
+2022	07	811300100	Préstamos con letras de crédito
+2022	07	811300200	Préstamos con mutuos hipotecarios endosables
+2022	07	811300300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	811300400	Otros créditos con mutuos para vivienda
+2022	07	811300500	Operaciones de leasing para vivienda
+2022	07	811300600	Otros créditos y cuentas por cobrar
+2022	07	811400000	Colocaciones de consumo
+2022	07	811400100	Créditos de consumo en cuotas
+2022	07	811400200	Deudores en cuentas corrientes
+2022	07	811400300	Deudores por tarjetas de crédito
+2022	07	811400400	Operaciones de leasing de consumo
+2022	07	811400500	Otros créditos y cuentas por cobrar
+2022	07	812000000	CRÉDITOS CON DEVENGO SUSPENDIDO
+2022	07	812100000	Adeudado por bancos
+2022	07	812100100	Bancos del país
+2022	07	812100200	Bancos del exterior
+2022	07	812200000	Colocaciones comerciales
+2022	07	812200100	Préstamos comerciales
+2022	07	812200101	Préstamos comerciales en el país
+2022	07	812200102	Préstamos comerciales en el exterior
+2022	07	812200103	Préstamos hipotecarios para fines generales
+2022	07	812200104	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	812200600	Créditos de comercio exterior
+2022	07	812200700	Deudores en cuentas corrientes
+2022	07	812200800	Deudores por tarjetas de crédito
+2022	07	812200900	Operaciones de factoraje
+2022	07	812201000	Operaciones de leasing comerciales
+2022	07	812201100	Préstamos estudiantiles
+2022	07	812201200	Otros créditos y cuentas por cobrar
+2022	07	812300000	Colocaciones para vivienda
+2022	07	812300100	Préstamos con letras de crédito
+2022	07	812300200	Préstamos con mutuos hipotecarios endosables
+2022	07	812300300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	812300400	Otros créditos con mutuos para vivienda
+2022	07	812300500	Operaciones de leasing para vivienda
+2022	07	812300600	Otros créditos y cuentas por cobrar
+2022	07	812400000	Colocaciones de consumo
+2022	07	812400100	Créditos de consumo en cuotas
+2022	07	812400200	Deudores en cuentas corrientes
+2022	07	812400300	Deudores por tarjetas de crédito
+2022	07	812400400	Operaciones de leasing de consumo
+2022	07	812400500	Otros créditos y cuentas por cobrar
+2022	07	813000000	CASTIGOS DE CRÉDITOS
+2022	07	813100000	Adeudado por bancos
+2022	07	813100100	Bancos del país
+2022	07	813100200	Bancos del exterior
+2022	07	813200000	Colocaciones comerciales
+2022	07	813200100	Préstamos comerciales
+2022	07	813200101	Préstamos comerciales en el país
+2022	07	813200102	Préstamos comerciales en el exterior
+2022	07	813200103	Préstamos hipotecarios para fines generales
+2022	07	813200104	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	813200600	Créditos de comercio exterior
+2022	07	813200700	Deudores en cuentas corrientes
+2022	07	813200800	Deudores por tarjetas de crédito
+2022	07	813200900	Operaciones de factoraje
+2022	07	813201000	Operaciones de leasing comerciales
+2022	07	813201100	Préstamos estudiantiles
+2022	07	813201200	Otros créditos y cuentas por cobrar
+2022	07	813300000	Colocaciones para vivienda
+2022	07	813300100	Préstamos con letras de crédito
+2022	07	813300200	Préstamos con mutuos hipotecarios endosables
+2022	07	813300300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	813300400	Otros créditos con mutuos para vivienda
+2022	07	813300500	Operaciones de leasing para vivienda
+2022	07	813300600	Otros créditos y cuentas por cobrar
+2022	07	813400000	Colocaciones de consumo
+2022	07	813400100	Créditos de consumo en cuotas
+2022	07	813400200	Deudores en cuentas corrientes
+2022	07	813400300	Deudores por tarjetas de crédito
+2022	07	813400400	Operaciones de leasing de consumo
+2022	07	813400500	Otros créditos y cuentas por cobrar
+2022	07	814000000	RECUPERACIONES DE CRÉDITOS CASTIGADOS
+2022	07	814100000	Adeudado por bancos
+2022	07	814100100	Bancos del país
+2022	07	814100200	Bancos del exterior
+2022	07	814200000	Colocaciones comerciales
+2022	07	814200100	Préstamos comerciales
+2022	07	814200101	Préstamos comerciales en el país
+2022	07	814200102	Préstamos comerciales en el exterior
+2022	07	814200103	Préstamos hipotecarios para fines generales
+2022	07	814200104	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	814200600	Créditos de comercio exterior
+2022	07	814200700	Deudores en cuentas corrientes
+2022	07	814200800	Deudores por tarjetas de crédito
+2022	07	814200900	Operaciones de factoraje
+2022	07	814201000	Operaciones de leasing comerciales
+2022	07	814201100	Préstamos estudiantiles
+2022	07	814201200	Otros créditos y cuentas por cobrar
+2022	07	814300000	Colocaciones para vivienda
+2022	07	814300100	Préstamos con letras de crédito
+2022	07	814300200	Préstamos con mutuos hipotecarios endosables
+2022	07	814300300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	814300400	Otros créditos con mutuos para vivienda
+2022	07	814300500	Operaciones de leasing para vivienda
+2022	07	814300600	Otros créditos y cuentas por cobrar
+2022	07	814400000	Colocaciones de consumo
+2022	07	814400100	Créditos de consumo en cuotas
+2022	07	814400200	Deudores en cuentas corrientes
+2022	07	814400300	Deudores por tarjetas de crédito
+2022	07	814400400	Operaciones de leasing de consumo
+2022	07	814400500	Otros créditos y cuentas por cobrar
+2022	07	821000000	MONTOS ADEUDADOS POR LOS CLIENTES
+2022	07	821100000	Adeudado por bancos
+2022	07	821100100	Bancos del país
+2022	07	821100200	Bancos del exterior
+2022	07	821200000	Colocaciones comerciales
+2022	07	821200100	Préstamos comerciales
+2022	07	821200101	Préstamos comerciales en el país
+2022	07	821200102	Préstamos comerciales en el exterior
+2022	07	821200103	Préstamos hipotecarios para fines generales
+2022	07	821200104	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	821200600	Créditos de comercio exterior
+2022	07	821200700	Deudores en cuentas corrientes
+2022	07	821200800	Deudores por tarjetas de crédito
+2022	07	821200900	Operaciones de factoraje
+2022	07	821201000	Operaciones de leasing comerciales
+2022	07	821201100	Préstamos estudiantiles
+2022	07	821201200	Otros créditos y cuentas por cobrar
+2022	07	821300000	Colocaciones para vivienda
+2022	07	821300100	Préstamos con letras de crédito
+2022	07	821300200	Préstamos con mutuos hipotecarios endosables
+2022	07	821300300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	821300400	Otros créditos con mutuos para vivienda
+2022	07	821300500	Operaciones de leasing para vivienda
+2022	07	821300600	Otros créditos y cuentas por cobrar
+2022	07	821400000	Colocaciones de consumo
+2022	07	821400100	Créditos de consumo en cuotas
+2022	07	821400200	Deudores en cuentas corrientes
+2022	07	821400300	Deudores por tarjetas de crédito
+2022	07	821400400	Operaciones de leasing de consumo
+2022	07	821400500	Otros créditos y cuentas por cobrar
+2022	07	831000000	CRÉDITOS CONTINGENTES
+2022	07	831100000	Avales y fianzas
+2022	07	831100100	Avales y fianzas en moneda chilena
+2022	07	831100200	Avales y fianzas en moneda extranjera
+2022	07	831200000	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	831300000	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	831500000	Transacciones relacionadas con eventos contingentes
+2022	07	831500100	Transacciones relacionadas con eventos contingentes en moneda chilena
+2022	07	831500200	Transacciones relacionadas con eventos contingentes en moneda extranjera
+2022	07	831600000	Líneas de crédito de libre disposición de cancelación inmediata
+2022	07	831600100	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera comercial
+2022	07	831600200	Saldo disponible de línea de crédito en tarjeta de crédito - cartera comercial
+2022	07	831600300	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera consumo
+2022	07	831600400	Saldo disponible de línea de crédito en tarjeta de crédito - cartera consumo
+2022	07	831600500	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera adeudado por bancos
+2022	07	831700000	Líneas de crédito de libre disposición
+2022	07	831700100	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera comercial
+2022	07	831700200	Saldo disponible de línea de crédito en tarjeta de crédito - cartera comercial
+2022	07	831700300	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera consumo
+2022	07	831700400	Saldo disponible de línea de crédito en tarjeta de crédito - cartera consumo
+2022	07	831700500	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera adeudado por bancos
+2022	07	831800000	Otros compromisos de crédito
+2022	07	831800100	Créditos para estudios superiores ley N° 20.027 (CAE)
+2022	07	831800200	Otros compromisos de crédito irrevocables
+2022	07	831900000	Otros créditos contingentes
+2022	07	832000000	OPERACIONES POR CUENTA DE TERCEROS
+2022	07	832100000	Cobranzas
+2022	07	832100100	Cobranzas del exterior
+2022	07	832100200	Cobranzas del país
+2022	07	832300000	Colocación o venta de instrumentos financieros
+2022	07	832300100	Colocación de emisiones de valores de oferta pública
+2022	07	832300200	Venta de letras de crédito de operaciones del banco
+2022	07	832300300	Venta de otros instrumentos financieros
+2022	07	832500000	Activos financieros transferidos administrados por el banco
+2022	07	832500100	Activos financieros cedidos a Compañías de Seguros
+2022	07	832500200	Activos financieros securitizados
+2022	07	832500300	Otros activos financieros cedidos a terceros
+2022	07	832700000	Recursos de terceros gestionados por el banco
+2022	07	832700100	Activos gestionados mediante cuentas individuales
+2022	07	832700101	Activos gestionados a nombre de terceros en comisión de confianza
+2022	07	832700102	Activos gestionados a nombre de terceros mediante administración de cartera
+2022	07	832700103	Activos adquiridos a nombre propio en comisión de confianza
+2022	07	832700104	Activos adquiridos a nombre propio mediante administración de cartera
+2022	07	832700200	Activos gestionados mediante cuentas agrupadas (ómnibus)
+2022	07	832700201	Activos gestionados a nombre de terceros en comisión de confianza
+2022	07	832700202	Activos gestionados a nombre de terceros mediante administración de cartera
+2022	07	832700203	Activos adquiridos a nombre propio en comisión de confianza
+2022	07	832700204	Activos adquiridos a nombre propio mediante administración de cartera
+2022	07	833000000	CUSTODIA DE VALORES
+2022	07	833050000	Valores custodiados por una filial bancaria
+2022	07	833050100	Valores custodiados en poder de una filial bancaria
+2022	07	833050200	Valores custodiados por una filial bancaria depositados en otra entidad
+2022	07	833100000	Valores custodiados en poder del banco
+2022	07	833200000	Valores custodiados depositados en otra entidad
+2022	07	833300000	Títulos emitidos por el propio banco
+2022	07	833300100	Pagarés de depósitos a plazo
+2022	07	833300200	Letras de crédito por vender
+2022	07	833300300	Otros documentos
+2022	07	833350000	Acciones a nombre propio por cuenta de terceros accionistas desconocidos
+2022	07	833360000	Dividendos recibidos por acciones a nombre propio por cuenta de terceros accionistas desconocidos
+2022	07	833370000	Recaudaciones recibidas en remates por acciones a nombre propio por cuenta de terceros accionistas desconocidos
+2022	07	833380000	Fondos sujetos a ser traspasados de pleno derecho a la propiedad de los Cuerpos de Bomberos de Chile
+2022	07	833400000	COMPROMISOS
+2022	07	833410000	Garantías por operaciones de underwriting
+2022	07	833420000	Compromisos de compra de activos no financieros
+2022	07	833500000	ACTIVOS RECIBIDOS EN GARANTIA
+2022	07	833500100	Instrumentos financieros recibidos en garantía por Cuenta de Margen por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+2022	07	833500200	Instrumentos financieros recibidos en garantía por Fondo de Garantía por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+2022	07	833500300	Instrumentos financieros recibidos en garantía por operaciones financieras de derivados con una entidad de contraparte central en el exterior
+2022	07	833500400	Instrumentos financieros recibidos en garantía por operaciones financieras de derivados con otras contrapartes en el país
+2022	07	833500500	Instrumentos financieros recibidos en garantía por operaciones financieras de derivados con otras contrapartes en el exterior
+2022	07	833500600	Otros activos financieros recibidos en garantía
+2022	07	833500700	Otros activos no financieros recibidos en garantía
+2022	07	841000000	ACTIVOS ENTREGADOS EN GARANTIA
+2022	07	841000100	Instrumentos financieros entregados en garantía por Cuenta de Margen por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+2022	07	841000200	Instrumentos financieros entregados en garantía por Fondo de Garantía por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+2022	07	841000300	Instrumentos financieros entregados en garantía por operaciones financieras de derivados con una entidad de contraparte central en el exterior
+2022	07	841000400	Instrumentos financieros entregados en garantía por operaciones financieras de derivados con otras contrapartes en el país
+2022	07	841000500	Instrumentos financieros entregados en garantía por operaciones financieras de derivados con otras contrapartes en el exterior
+2022	07	841000600	Otros activos financieros entregados en garantía
+2022	07	841000700	Otros activos no financieros entregados en garantía
+2022	07	842000000	DERIVADOS DE CRÉDITO COMPRADOS
+2022	07	842000100	Credit Default Swaps
+2022	07	842000200	Otros derivados de crédito comprados
+2022	07	843000000	ACTIVOS FINANCIEROS TRANSFERIDOS NO DADOS DE BAJA
+2022	07	843000100	Cartera de colocaciones comerciales
+2022	07	843000200	Cartera de colocaciones para vivienda
+2022	07	843000300	Cartera de colocaciones de consumo
+2022	07	843000400	Instrumentos financieros de deuda
+2022	07	843000500	Otros activos financieros
+2022	07	843500000	INVERSIONES EN INSTRUMENTOS FINANCIEROS QUE RESPALDA ACTIVOS FINANCIEROS TRANSFERIDOS NO DADOS DE BAJA EN SECURITIZACIONES Y OTRAS CESIONES
+2022	07	843500100	Instrumentos financieros junior de deuda
+2022	07	843500200	Instrumentos financieros subordinados (junior) de cuotas de participación en fondos de inversión
+2022	07	843500300	Otros instrumentos financieros subordinados o junior
+2022	07	843500400	Instrumentos financieros senior de deuda
+2022	07	843500500	Instrumentos financieros preferentes (senior) de cuotas de participación en fondos de inversión
+2022	07	843500600	Otros instrumentos financieros senior
+2022	07	844100000	BIENES RECIBIDOS EN PAGO O ADJUDICADOS EN REMATE JUDICIAL CASTIGADOS SIN VENDER
+2022	07	844200000	AMORTIZACION ANTICIPADA DE LETRAS DE CREDITO POR EFECTUAR
+2022	07	844300000	SOLICITUDES DE GIRO DE CUENTAS DE AHORRO POR CUMPLIR
+2022	07	844400000	LINEAS DE CREDITO DISPONIBLES A FAVOR DEL BANCO
+2022	07	844400100	Líneas de crédito en el exterior
+2022	07	844400200	Líneas de crédito en el país
+2022	07	844500000	BONOS INSCRITOS NO COLOCADOS
+2022	07	844500100	Bonos corrientes
+2022	07	844500200	Bonos hipotecarios
+2022	07	844500300	Bonos subordinados
+2022	07	844600000	LETRAS DE CREDITO DE PROPIA EMISION ADQUIRIDAS
+2022	07	845250000	ACTIVOS POR IMPUESTOS DIFERIDOS
+2022	07	845250100	Activos por impuestos diferidos asociados a goodwill
+2022	07	845250200	Activos por impuestos diferidos asociados a derechos de servicios de créditos hipotecarios (mortgage servicing rights)
+2022	07	845250300	Activos por impuestos diferidos asociados a otros intangibles
+2022	07	845250400	Activos por impuestos diferidos asociados a planes de pensiones de beneficios definidos
+2022	07	845250500	Activos por impuestos diferidos asociados a diferencias temporales deducibles
+2022	07	845250501	Provisiones sobre colocaciones
+2022	07	845250502	Castigos financieros de colocaciones que son activos tributarios
+2022	07	845250503	Ingresos por intereses y reajustes con devengo suspendido por créditos en cartera deteriorada
+2022	07	845250504	Provisiones por obligaciones de beneficios a los empleados
+2022	07	845250505	Operaciones de leasing
+2022	07	845250509	Otros
+2022	07	845250600	Activos por impuestos diferidos no asociados a diferencias temporales deducibles
+2022	07	845250601	Pérdidas tributarias del banco no utilizadas
+2022	07	845250602	Pérdidas tributarias de las filiales no utilizadas
+2022	07	845250603	Créditos tributarios no utilizados
+2022	07	845250609	Otros
+2022	07	845500000	PASIVOS POR IMPUESTOS DIFERIDOS
+2022	07	845500100	Pasivos por impuestos diferidos asociados a goodwill
+2022	07	845500200	Pasivos por impuestos diferidos asociados a derechos de servicios de créditos hipotecarios (mortgage servicing rights)
+2022	07	845500300	Pasivos por impuestos diferidos asociados a otros intangibles
+2022	07	845500400	Pasivos por impuestos diferidos asociados a planes de pensiones de beneficios definidos
+2022	07	845500500	Pasivos por impuestos diferidos asociados a diferencias temporales imponibles
+2022	07	845500501	Diferencias tributarias-financieras de activos fijos
+2022	07	845500502	Operaciones de leasing
+2022	07	845500503	Cambios del valor razonable de activos financieros a valor razonable con cambios en otro resultado integral
+2022	07	845500504	Otros cambios del otro resultado integral acumulado
+2022	07	845500509	Otros
+2022	07	845500600	Pasivos por impuestos diferidos no asociados a diferencias temporales imponibles
+2022	07	846100000	Goodwill por inversiones significativas en sociedades medidos según el método de participación (asociadas y/o negocios conjuntos)
+2022	07	847000000	PERDIDA NETA POR EVENTOS DE RIESGO OPERACIONAL
+2022	07	847100000	Gastos del período de pérdida bruta por eventos de riesgo operacional.
+2022	07	847100100	Fraude interno
+2022	07	847100200	Fraude externo
+2022	07	847100300	Prácticas laborales y seguridad en el negocio
+2022	07	847100400	Clientes, productos y prácticas de negocio
+2022	07	847100500	Daños a activos físicos
+2022	07	847100600	Interrupción del negocio y fallos en sistema
+2022	07	847100700	Ejecución, entrega y gestión de procesos
+2022	07	847200000	Recuperaciones de gastos en el período por eventos de riesgo operacional
+2022	07	847200100	Fraude interno
+2022	07	847200200	Fraude externo
+2022	07	847200300	Prácticas laborales y seguridad en el negocio
+2022	07	847200400	Clientes, productos y prácticas de negocio
+2022	07	847200500	Daños a activos físicos
+2022	07	847200600	Interrupción del negocio y fallos en sistema
+2022	07	847200700	Ejecución, entrega y gestión de procesos
+2022	07	851000000	CARTERA NORMAL EVALUACION INDIVIDUAL
+2022	07	851100000	Adeudado por bancos
+2022	07	851200000	Colocaciones comerciales
+2022	07	852000000	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL
+2022	07	852100000	Adeudado por bancos
+2022	07	852200000	Colocaciones comerciales
+2022	07	853000000	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL
+2022	07	853100000	Adeudado por bancos
+2022	07	853200000	Colocaciones comerciales
+2022	07	854000000	CARTERA NORMAL EVALUACION GRUPAL
+2022	07	854200000	Colocaciones comerciales
+2022	07	854300000	Colocaciones para vivienda
+2022	07	854400000	Colocaciones de consumo
+2022	07	855000000	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL
+2022	07	855200000	Colocaciones comerciales
+2022	07	855300000	Colocaciones para vivienda
+2022	07	855400000	Colocaciones de consumo
+2022	07	856050000	CARTERA NORMAL EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES COMERCIALES
+2022	07	856050100	Avales y fianzas
+2022	07	856050200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856050300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856050400	Transacciones relacionadas con eventos contingentes
+2022	07	856050500	Líneas de crédito de libre disposición comerciales
+2022	07	856050600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856050800	Otros compromisos de crédito irrevocables
+2022	07	856050900	Otros créditos contingentes
+2022	07	856150000	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES COMERCIALES
+2022	07	856150100	Avales y fianzas
+2022	07	856150200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856150300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856150400	Transacciones relacionadas con eventos contingentes
+2022	07	856150500	Líneas de crédito de libre disposición comerciales
+2022	07	856150600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856150800	Otros compromisos de crédito irrevocables
+2022	07	856150900	Otros créditos contingentes
+2022	07	856250000	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES COMERCIALES
+2022	07	856250100	Avales y fianzas
+2022	07	856250200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856250300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856250400	Transacciones relacionadas con eventos contingentes
+2022	07	856250500	Líneas de crédito de libre disposición comerciales
+2022	07	856250600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856250800	Otros compromisos de crédito irrevocables
+2022	07	856250900	Otros créditos contingentes
+2022	07	856350000	CARTERA NORMAL EVALUACION GRUPAL - CRÉDITOS CONTINGENTES COMERCIALES
+2022	07	856350100	Avales y fianzas
+2022	07	856350200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856350300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856350400	Transacciones relacionadas con eventos contingentes
+2022	07	856350500	Líneas de crédito de libre disposición comerciales
+2022	07	856350600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856350700	Otros compromisos de crédito - Créditos para estudios superiores ley N° 20.027 (CAE)
+2022	07	856350800	Otros compromisos de crédito irrevocables
+2022	07	856350900	Otros créditos contingentes
+2022	07	856450000	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL - CRÉDITOS CONTINGENTES COMERCIALES
+2022	07	856450100	Avales y fianzas
+2022	07	856450200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856450300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856450400	Transacciones relacionadas con eventos contingentes
+2022	07	856450500	Líneas de crédito de libre disposición comerciales
+2022	07	856450600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856450700	Otros compromisos de crédito - Créditos para estudios superiores ley N° 20.027 (CAE)
+2022	07	856450800	Otros compromisos de crédito irrevocables
+2022	07	856450900	Otros créditos contingentes
+2022	07	856550000	CARTERA NORMAL EVALUACION GRUPAL - CRÉDITOS CONTINGENTES CONSUMO
+2022	07	856550100	Líneas de crédito de libre disposición - cuenta corriente
+2022	07	856550200	Líneas de crédito de libre disposición - tarjetas de crédito
+2022	07	856550300	Líneas de crédito de libre disposición - otras
+2022	07	856550400	Líneas de crédito de libre disposición de cancelación inmediata - cuenta corriente
+2022	07	856550500	Líneas de crédito de libre disposición de cancelación inmediata - tarjetas de crédito
+2022	07	856550600	Líneas de crédito de libre disposición de cancelación inmediata - tarjetas de crédito - Otras
+2022	07	856650000	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL - CRÉDITOS CONTINGENTES CONSUMO
+2022	07	856650100	Líneas de crédito de libre disposición - cuenta corriente
+2022	07	856650200	Líneas de crédito de libre disposición - tarjetas de crédito
+2022	07	856650300	Líneas de crédito de libre disposición ¿ otras
+2022	07	856650400	Líneas de crédito de libre disposición de cancelación inmediata ¿ cuenta corriente
+2022	07	856650500	Líneas de crédito de libre disposición de cancelación inmediata ¿ tarjetas de crédito
+2022	07	856650600	Líneas de crédito de libre disposición de cancelación inmediata ¿ tarjetas de crédito - Otras
+2022	07	856750000	CARTERA NORMAL EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES ADEUDADO POR BANCOS
+2022	07	856750100	Avales y fianzas
+2022	07	856750200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856750300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856750400	Transacciones relacionadas con eventos contingentes
+2022	07	856750500	Líneas de crédito de libre disposición comerciales
+2022	07	856750600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856750800	Otros compromisos de crédito irrevocables
+2022	07	856750900	Otros créditos contingentes
+2022	07	856850000	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES ADEUDADO POR BANCOS
+2022	07	856850100	Avales y fianzas
+2022	07	856850200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856850300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856850400	Transacciones relacionadas con eventos contingentes
+2022	07	856850500	Líneas de crédito de libre disposición comerciales
+2022	07	856850600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856850800	Otros compromisos de crédito irrevocables
+2022	07	856850900	Otros créditos contingentes
+2022	07	856950000	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES ADEUDADO POR BANCOS
+2022	07	856950100	Avales y fianzas
+2022	07	856950200	Cartas de crédito de operaciones de circulación de mercancías
+2022	07	856950300	Compromisos de compra de deuda en moneda local en el exterior
+2022	07	856950400	Transacciones relacionadas con eventos contingentes
+2022	07	856950500	Líneas de crédito de libre disposición comerciales
+2022	07	856950600	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+2022	07	856950800	Otros compromisos de crédito irrevocables
+2022	07	856950900	Otros créditos contingentes
+2022	07	857000000	CRÉDITOS EN CARTERA CON MOROSIDAD DE 90 DÍAS O MÁS
+2022	07	857000000	CRÉDITOS EN CARTERA CON MOROSIDAD DE 90 DÍAS O MÁS
+2022	07	857100000	Adeudado por bancos
+2022	07	857100000	Adeudado por bancos
+2022	07	857100100	Bancos del país
+2022	07	857100200	Bancos del exterior
+2022	07	857200000	Colocaciones comerciales
+2022	07	857200000	Colocaciones comerciales
+2022	07	857200100	Préstamos comerciales
+2022	07	857200101	Préstamos comerciales en el país
+2022	07	857200102	Préstamos comerciales en el exterior
+2022	07	857200103	Préstamos hipotecarios para fines generales
+2022	07	857200104	Créditos para infraestructura escolar Ley N° 20.845
+2022	07	857200600	Créditos de comercio exterior
+2022	07	857200700	Deudores en cuentas corrientes
+2022	07	857200800	Deudores por tarjetas de crédito
+2022	07	857200900	Otros créditos y cuentas por cobrar
+2022	07	857201000	Operaciones de factoraje
+2022	07	857201100	Operaciones de leasing comerciales
+2022	07	857201200	Préstamos estudiantiles
+2022	07	857300000	Colocaciones para vivienda
+2022	07	857300000	Colocaciones para vivienda
+2022	07	857300100	Préstamos con letras de crédito
+2022	07	857300200	Préstamos con mutuos hipotecarios endosables
+2022	07	857300300	Préstamos con mutuos financiados con bonos hipotecarios
+2022	07	857300400	Otros créditos con mutuos para vivienda
+2022	07	857300500	Operaciones de leasing para vivienda
+2022	07	857300600	Otros créditos y cuentas por cobrar
+2022	07	857400000	Colocaciones de consumo
+2022	07	857400000	Colocaciones de consumo
+2022	07	857400100	Créditos de consumo en cuotas
+2022	07	857400200	Deudores en cuentas corrientes
+2022	07	857400300	Deudores por tarjetas de crédito
+2022	07	857400400	Operaciones de leasing de consumo
+2022	07	857400500	Otros créditos y cuentas por cobrar
+2022	07	858000000	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	858000000	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+2022	07	858100000	Adeudado por bancos
+2022	07	858200000	Colocaciones comerciales
+2022	07	858300000	Colocaciones para vivienda
+2022	07	858400000	Colocaciones de consumo
+2022	07	859000000	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	859000000	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+2022	07	859100000	Adeudado por bancos
+2022	07	859200000	Colocaciones comerciales
+2022	07	859300000	Colocaciones para vivienda
+2022	07	859400000	Colocaciones de consumo

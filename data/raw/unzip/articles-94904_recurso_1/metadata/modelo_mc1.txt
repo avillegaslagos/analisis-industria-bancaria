@@ -1,0 +1,452 @@
+CUENTA	RUBRO	LINEA	ITEM	GLOSA
+811000000	81100	00	00	CRÉDITOS EN CARTERA DETERIORADA
+811100000	81110	00	00	Adeudado por bancos
+811100100	81110	01	00	Bancos del país
+811100200	81110	02	00	Bancos del exterior
+811200000	81120	00	00	Colocaciones comerciales
+811200100	81120	01	00	Préstamos comerciales
+811200101	81120	01	01	Préstamos comerciales en el país
+811200102	81120	01	02	Préstamos comerciales en el exterior
+811200103	81120	01	03	Préstamos hipotecarios para fines generales
+811200104	81120	01	04	Créditos para infraestructura escolar Ley N° 20.845
+811200600	81120	06	00	Créditos de comercio exterior
+811200700	81120	07	00	Deudores en cuentas corrientes
+811200800	81120	08	00	Deudores por tarjetas de crédito
+811200900	81120	09	00	Operaciones de factoraje
+811201000	81120	10	00	Operaciones de leasing comerciales
+811201100	81120	11	00	Préstamos estudiantiles
+811201200	81120	12	00	Otros créditos y cuentas por cobrar
+811300000	81130	00	00	Colocaciones para vivienda
+811300100	81130	01	00	Préstamos con letras de crédito
+811300200	81130	02	00	Préstamos con mutuos hipotecarios endosables
+811300300	81130	03	00	Préstamos con mutuos financiados con bonos hipotecarios
+811300400	81130	04	00	Otros créditos con mutuos para vivienda
+811300500	81130	05	00	Operaciones de leasing para vivienda
+811300600	81130	06	00	Otros créditos y cuentas por cobrar
+811400000	81140	00	00	Colocaciones de consumo
+811400100	81140	01	00	Créditos de consumo en cuotas
+811400200	81140	02	00	Deudores en cuentas corrientes
+811400300	81140	03	00	Deudores por tarjetas de crédito
+811400400	81140	04	00	Operaciones de leasing de consumo
+811400500	81140	05	00	Otros créditos y cuentas por cobrar
+812000000	81200	00	00	CRÉDITOS CON DEVENGO SUSPENDIDO
+812100000	81210	00	00	Adeudado por bancos
+812100100	81210	01	00	Bancos del país
+812100200	81210	02	00	Bancos del exterior
+812200000	81220	00	00	Colocaciones comerciales
+812200100	81220	01	00	Préstamos comerciales
+812200101	81220	01	01	Préstamos comerciales en el país
+812200102	81220	01	02	Préstamos comerciales en el exterior
+812200103	81220	01	03	Préstamos hipotecarios para fines generales
+812200104	81220	01	04	Créditos para infraestructura escolar Ley N° 20.845
+812200600	81220	06	00	Créditos de comercio exterior
+812200700	81220	07	00	Deudores en cuentas corrientes
+812200800	81220	08	00	Deudores por tarjetas de crédito
+812200900	81220	09	00	Operaciones de factoraje
+812201000	81220	10	00	Operaciones de leasing comerciales
+812201100	81220	11	00	Préstamos estudiantiles
+812201200	81220	12	00	Otros créditos y cuentas por cobrar
+812300000	81230	00	00	Colocaciones para vivienda
+812300100	81230	01	00	Préstamos con letras de crédito
+812300200	81230	02	00	Préstamos con mutuos hipotecarios endosables
+812300300	81230	03	00	Préstamos con mutuos financiados con bonos hipotecarios
+812300400	81230	04	00	Otros créditos con mutuos para vivienda
+812300500	81230	05	00	Operaciones de leasing para vivienda
+812300600	81230	06	00	Otros créditos y cuentas por cobrar
+812400000	81240	00	00	Colocaciones de consumo
+812400100	81240	01	00	Créditos de consumo en cuotas
+812400200	81240	02	00	Deudores en cuentas corrientes
+812400300	81240	03	00	Deudores por tarjetas de crédito
+812400400	81240	04	00	Operaciones de leasing de consumo
+812400500	81240	05	00	Otros créditos y cuentas por cobrar
+813000000	81300	00	00	CASTIGOS DE CRÉDITOS
+813100000	81310	00	00	Adeudado por bancos
+813100100	81310	01	00	Bancos del país
+813100200	81310	02	00	Bancos del exterior
+813200000	81320	00	00	Colocaciones comerciales
+813200100	81320	01	00	Préstamos comerciales
+813200101	81320	01	01	Préstamos comerciales en el país
+813200102	81320	01	02	Préstamos comerciales en el exterior
+813200103	81320	01	03	Préstamos hipotecarios para fines generales
+813200104	81320	01	04	Créditos para infraestructura escolar Ley N° 20.845
+813200600	81320	06	00	Créditos de comercio exterior
+813200700	81320	07	00	Deudores en cuentas corrientes
+813200800	81320	08	00	Deudores por tarjetas de crédito
+813200900	81320	09	00	Operaciones de factoraje
+813201000	81320	10	00	Operaciones de leasing comerciales
+813201100	81320	11	00	Préstamos estudiantiles
+813201200	81320	12	00	Otros créditos y cuentas por cobrar
+813300000	81330	00	00	Colocaciones para vivienda
+813300100	81330	01	00	Préstamos con letras de crédito
+813300200	81330	02	00	Préstamos con mutuos hipotecarios endosables
+813300300	81330	03	00	Préstamos con mutuos financiados con bonos hipotecarios
+813300400	81330	04	00	Otros créditos con mutuos para vivienda
+813300500	81330	05	00	Operaciones de leasing para vivienda
+813300600	81330	06	00	Otros créditos y cuentas por cobrar
+813400000	81340	00	00	Colocaciones de consumo
+813400100	81340	01	00	Créditos de consumo en cuotas
+813400200	81340	02	00	Deudores en cuentas corrientes
+813400300	81340	03	00	Deudores por tarjetas de crédito
+813400400	81340	04	00	Operaciones de leasing de consumo
+813400500	81340	05	00	Otros créditos y cuentas por cobrar
+814000000	81400	00	00	RECUPERACIONES DE CRÉDITOS CASTIGADOS
+814100000	81410	00	00	Adeudado por bancos
+814100100	81410	01	00	Bancos del país
+814100200	81410	02	00	Bancos del exterior
+814200000	81420	00	00	Colocaciones comerciales
+814200100	81420	01	00	Préstamos comerciales
+814200101	81420	01	01	Préstamos comerciales en el país
+814200102	81420	01	02	Préstamos comerciales en el exterior
+814200103	81420	01	03	Préstamos hipotecarios para fines generales
+814200104	81420	01	04	Créditos para infraestructura escolar Ley N° 20.845
+814200600	81420	06	00	Créditos de comercio exterior
+814200700	81420	07	00	Deudores en cuentas corrientes
+814200800	81420	08	00	Deudores por tarjetas de crédito
+814200900	81420	09	00	Operaciones de factoraje
+814201000	81420	10	00	Operaciones de leasing comerciales
+814201100	81420	11	00	Préstamos estudiantiles
+814201200	81420	12	00	Otros créditos y cuentas por cobrar
+814300000	81430	00	00	Colocaciones para vivienda
+814300100	81430	01	00	Préstamos con letras de crédito
+814300200	81430	02	00	Préstamos con mutuos hipotecarios endosables
+814300300	81430	03	00	Préstamos con mutuos financiados con bonos hipotecarios
+814300400	81430	04	00	Otros créditos con mutuos para vivienda
+814300500	81430	05	00	Operaciones de leasing para vivienda
+814300600	81430	06	00	Otros créditos y cuentas por cobrar
+814400000	81440	00	00	Colocaciones de consumo
+814400100	81440	01	00	Créditos de consumo en cuotas
+814400200	81440	02	00	Deudores en cuentas corrientes
+814400300	81440	03	00	Deudores por tarjetas de crédito
+814400400	81440	04	00	Operaciones de leasing de consumo
+814400500	81440	05	00	Otros créditos y cuentas por cobrar
+821000000	82100	00	00	MONTOS ADEUDADOS POR LOS CLIENTES
+821100000	82110	00	00	Adeudado por bancos
+821100100	82110	01	00	Bancos del país
+821100200	82110	02	00	Bancos del exterior
+821200000	82120	00	00	Colocaciones comerciales
+821200100	82120	01	00	Préstamos comerciales
+821200101	82120	01	01	Préstamos comerciales en el país
+821200102	82120	01	02	Préstamos comerciales en el exterior
+821200103	82120	01	03	Préstamos hipotecarios para fines generales
+821200104	82120	01	04	Créditos para infraestructura escolar Ley N° 20.845
+821200600	82120	06	00	Créditos de comercio exterior
+821200700	82120	07	00	Deudores en cuentas corrientes
+821200800	82120	08	00	Deudores por tarjetas de crédito
+821200900	82120	09	00	Operaciones de factoraje
+821201000	82120	10	00	Operaciones de leasing comerciales
+821201100	82120	11	00	Préstamos estudiantiles
+821201200	82120	12	00	Otros créditos y cuentas por cobrar
+821300000	82130	00	00	Colocaciones para vivienda
+821300100	82130	01	00	Préstamos con letras de crédito
+821300200	82130	02	00	Préstamos con mutuos hipotecarios endosables
+821300300	82130	03	00	Préstamos con mutuos financiados con bonos hipotecarios
+821300400	82130	04	00	Otros créditos con mutuos para vivienda
+821300500	82130	05	00	Operaciones de leasing para vivienda
+821300600	82130	06	00	Otros créditos y cuentas por cobrar
+821400000	82140	00	00	Colocaciones de consumo
+821400100	82140	01	00	Créditos de consumo en cuotas
+821400200	82140	02	00	Deudores en cuentas corrientes
+821400300	82140	03	00	Deudores por tarjetas de crédito
+821400400	82140	04	00	Operaciones de leasing de consumo
+821400500	82140	05	00	Otros créditos y cuentas por cobrar
+831000000	83100	00	00	CRÉDITOS CONTINGENTES
+831100000	83110	00	00	Avales y fianzas
+831100100	83110	01	00	Avales y fianzas en moneda chilena
+831100200	83110	02	00	Avales y fianzas en moneda extranjera
+831200000	83120	00	00	Cartas de crédito de operaciones de circulación de mercancías
+831300000	83130	00	00	Compromisos de compra de deuda en moneda local en el exterior
+831500000	83150	00	00	Transacciones relacionadas con eventos contingentes
+831500100	83150	01	00	Transacciones relacionadas con eventos contingentes en moneda chilena
+831500200	83150	02	00	Transacciones relacionadas con eventos contingentes en moneda extranjera
+831600000	83160	00	00	Líneas de crédito de libre disposición de cancelación inmediata
+831600100	83160	01	00	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera comercial
+831600200	83160	02	00	Saldo disponible de línea de crédito en tarjeta de crédito - cartera comercial
+831600300	83160	03	00	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera consumo
+831600400	83160	04	00	Saldo disponible de línea de crédito en tarjeta de crédito - cartera consumo
+831600500	83160	05	00	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente  cartera adeudado por bancos
+831700000	83170	00	00	Líneas de crédito de libre disposición
+831700100	83170	01	00	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera comercial
+831700200	83170	02	00	Saldo disponible de línea de crédito en tarjeta de crédito - cartera comercial
+831700300	83170	03	00	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente - cartera consumo
+831700400	83170	04	00	Saldo disponible de línea de crédito en tarjeta de crédito - cartera consumo
+831700500	83170	05	00	Saldo disponible de línea de crédito y de sobregiro pactado en cuenta corriente  cartera adeudado por bancos
+831800000	83180	00	00	Otros compromisos de crédito
+831800100	83180	01	00	Créditos para estudios superiores ley N° 20.027 (CAE)
+831800200	83180	02	00	Otros compromisos de crédito irrevocables
+831900000	83190	00	00	Otros créditos contingentes
+832000000	83200	00	00	OPERACIONES POR CUENTA DE TERCEROS
+832100000	83210	00	00	Cobranzas
+832100100	83210	01	00	Cobranzas del exterior
+832100200	83210	02	00	Cobranzas del país
+832300000	83230	00	00	Colocación o venta de instrumentos financieros
+832300100	83230	01	00	Colocación de emisiones de valores de oferta pública
+832300200	83230	02	00	Venta de letras de crédito de operaciones del banco
+832300300	83230	03	00	Venta de otros instrumentos financieros
+832500000	83250	00	00	Activos financieros transferidos administrados por el banco
+832500100	83250	01	00	Activos financieros cedidos a Compañías de Seguros
+832500200	83250	02	00	Activos financieros securitizados
+832500300	83250	03	00	Otros activos financieros cedidos a terceros
+832700000	83270	00	00	Recursos de terceros gestionados por el banco
+832700100	83270	01	00	Activos gestionados mediante cuentas individuales
+832700101	83270	01	01	Activos gestionados a nombre de terceros en comisión de confianza
+832700102	83270	01	02	Activos gestionados a nombre de terceros mediante administración de cartera
+832700103	83270	01	03	Activos adquiridos a nombre propio en comisión de confianza
+832700104	83270	01	04	Activos adquiridos a nombre propio mediante administración de cartera
+832700200	83270	02	00	Activos gestionados mediante cuentas agrupadas (ómnibus)
+832700201	83270	02	01	Activos gestionados a nombre de terceros en comisión de confianza
+832700202	83270	02	02	Activos gestionados a nombre de terceros mediante administración de cartera
+832700203	83270	02	03	Activos adquiridos a nombre propio en comisión de confianza
+832700204	83270	02	04	Activos adquiridos a nombre propio mediante administración de cartera
+833000000	83300	00	00	CUSTODIA DE VALORES
+833050000	83305	00	00	Valores custodiados por una filial bancaria
+833050100	83305	01	00	Valores custodiados en poder de una filial bancaria
+833050200	83305	02	00	Valores custodiados por una filial bancaria depositados en otra entidad
+833100000	83310	00	00	Valores custodiados en poder del banco
+833200000	83320	00	00	Valores custodiados depositados en otra entidad
+833300000	83330	00	00	Títulos emitidos por el propio banco
+833300100	83330	01	00	Pagarés de depósitos a plazo
+833300200	83330	02	00	Letras de crédito por vender
+833300300	83330	03	00	Otros documentos
+833350000	83335	00	00	Acciones a nombre propio por cuenta de terceros accionistas desconocidos
+833360000	83336	00	00	Dividendos recibidos por acciones a nombre propio por cuenta de terceros accionistas desconocidos
+833370000	83337	00	00	Recaudaciones recibidas en remates por acciones a nombre propio por cuenta de terceros accionistas desconocidos
+833380000	83338	00	00	Fondos sujetos a ser traspasados de pleno derecho a la propiedad de los Cuerpos de Bomberos de Chile
+833400000	83340	00	00	COMPROMISOS
+833410000	83341	00	00	Garantías por operaciones de underwriting
+833420000	83342	00	00	Compromisos de compra de activos no financieros
+833500000	83350	00	00	ACTIVOS RECIBIDOS EN GARANTIA
+833500100	83350	01	00	Instrumentos financieros recibidos en garantía por Cuenta de Margen por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+833500200	83350	02	00	Instrumentos financieros recibidos en garantía por Fondo de Garantía por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+833500300	83350	03	00	Instrumentos financieros recibidos en garantía por operaciones financieras de derivados con una entidad de contraparte central en el exterior
+833500400	83350	04	00	Instrumentos financieros recibidos en garantía por operaciones financieras de derivados con otras contrapartes en el país
+833500500	83350	05	00	Instrumentos financieros recibidos en garantía por operaciones financieras de derivados con otras contrapartes en el exterior
+833500600	83350	06	00	Otros activos financieros recibidos en garantía
+833500700	83350	07	00	Otros activos no financieros recibidos en garantía
+841000000	84100	00	00	ACTIVOS ENTREGADOS EN GARANTIA
+841000100	84100	01	00	Instrumentos financieros entregados en garantía por Cuenta de Margen por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+841000200	84100	02	00	Instrumentos financieros entregados en garantía por Fondo de Garantía por operaciones financieras de derivados con una Entidad de Contraparte Central en el país
+841000300	84100	03	00	Instrumentos financieros entregados en garantía por operaciones financieras de derivados con una entidad de contraparte central en el exterior
+841000400	84100	04	00	Instrumentos financieros entregados en garantía por operaciones financieras de derivados con otras contrapartes en el país
+841000500	84100	05	00	Instrumentos financieros entregados en garantía por operaciones financieras de derivados con otras contrapartes en el exterior
+841000600	84100	06	00	Otros activos financieros entregados en garantía
+841000700	84100	07	00	Otros activos no financieros entregados en garantía
+842000000	84200	00	00	DERIVADOS DE CRÉDITO COMPRADOS
+842000100	84200	01	00	Credit Default Swaps
+842000200	84200	02	00	Otros derivados de crédito comprados
+843000000	84300	00	00	ACTIVOS FINANCIEROS TRANSFERIDOS NO DADOS DE BAJA
+843000100	84300	01	00	Cartera de colocaciones comerciales
+843000200	84300	02	00	Cartera de colocaciones para vivienda
+843000300	84300	03	00	Cartera de colocaciones de consumo
+843000400	84300	04	00	Instrumentos financieros de deuda
+843000500	84300	05	00	Otros activos financieros
+843500000	84350	00	00	INVERSIONES EN INSTRUMENTOS FINANCIEROS QUE RESPALDA ACTIVOS FINANCIEROS TRANSFERIDOS NO DADOS DE BAJA EN SECURITIZACIONES Y OTRAS CESIONES
+843500100	84350	01	00	Instrumentos financieros junior de deuda
+843500200	84350	02	00	Instrumentos financieros subordinados (junior) de cuotas de participación en fondos de inversión
+843500300	84350	03	00	Otros instrumentos financieros subordinados o junior
+843500400	84350	04	00	Instrumentos financieros senior de deuda
+843500500	84350	05	00	Instrumentos financieros preferentes (senior) de cuotas de participación en fondos de inversión
+843500600	84350	06	00	Otros instrumentos financieros senior
+844100000	84410	00	00	BIENES RECIBIDOS EN PAGO O ADJUDICADOS EN REMATE JUDICIAL CASTIGADOS SIN VENDER
+844200000	84420	00	00	AMORTIZACION ANTICIPADA DE LETRAS DE CREDITO POR EFECTUAR
+844300000	84430	00	00	SOLICITUDES DE GIRO DE CUENTAS DE AHORRO POR CUMPLIR
+844400000	84440	00	00	LINEAS DE CREDITO DISPONIBLES A FAVOR DEL BANCO
+844400100	84440	01	00	Líneas de crédito en el exterior
+844400200	84440	02	00	Líneas de crédito en el país
+844500000	84450	00	00	BONOS INSCRITOS NO COLOCADOS
+844500100	84450	01	00	Bonos corrientes
+844500200	84450	02	00	Bonos hipotecarios
+844500300	84450	03	00	Bonos subordinados
+844500300	84450	04	00	Bonos sin plazo fijo de vencimiento
+844600000	84460	00	00	LETRAS DE CREDITO DE PROPIA EMISION ADQUIRIDAS
+845250000	84525	00	00	ACTIVOS POR IMPUESTOS DIFERIDOS
+845250100	84525	01	00	Activos por impuestos diferidos asociados a goodwill
+845250200	84525	02	00	Activos por impuestos diferidos asociados a derechos de servicios de créditos hipotecarios (mortgage servicing rights)
+845250300	84525	03	00	Activos por impuestos diferidos asociados a otros intangibles
+845250400	84525	04	00	Activos por impuestos diferidos asociados a planes de pensiones de beneficios definidos
+845250500	84525	05	00	Activos por impuestos diferidos asociados a diferencias temporales deducibles
+845250501	84525	05	01	Provisiones sobre colocaciones
+845250502	84525	05	02	Castigos financieros de colocaciones que son activos tributarios
+845250503	84525	05	03	Ingresos por intereses y reajustes con devengo suspendido por créditos en cartera deteriorada
+845250504	84525	05	04	Provisiones por obligaciones de beneficios a los empleados
+845250505	84525	05	05	Operaciones de leasing
+845250509	84525	05	09	Otros
+845250600	84525	06	00	Activos por impuestos diferidos no asociados a diferencias temporales deducibles
+845250601	84525	06	01	Pérdidas tributarias del banco no utilizadas
+845250602	84525	06	02	Pérdidas tributarias de las filiales no utilizadas
+845250603	84525	06	03	Créditos tributarios no utilizados
+845250609	84525	06	09	Otros
+845500000	84550	00	00	PASIVOS POR IMPUESTOS DIFERIDOS
+845500100	84550	01	00	Pasivos por impuestos diferidos asociados a goodwill
+845500200	84550	02	00	Pasivos por impuestos diferidos asociados a derechos de servicios de créditos hipotecarios (mortgage servicing rights)
+845500300	84550	03	00	Pasivos por impuestos diferidos asociados a otros intangibles
+845500400	84550	04	00	Pasivos por impuestos diferidos asociados a planes de pensiones de beneficios definidos
+845500500	84550	05	00	Pasivos por impuestos diferidos asociados a diferencias temporales imponibles
+845500501	84550	05	01	Diferencias tributarias-financieras de activos fijos
+845500502	84550	05	02	Operaciones de leasing
+845500503	84550	05	03	Cambios del valor razonable de activos financieros a valor razonable con cambios en otro resultado integral
+845500504	84550	05	04	Otros cambios del otro resultado integral acumulado
+845500509	84550	05	09	Otros
+845500600	84550	06	00	Pasivos por impuestos diferidos no asociados a diferencias temporales imponibles
+846100000	84610	00	00	Goodwill por inversiones significativas en sociedades medidos según el método de participación (asociadas y/o negocios conjuntos)
+847000000	84700	00	00	PERDIDA NETA EN EL PERÍODO POR EVENTOS DE RIESGO OPERACIONAL
+847100000	84710	00	00	Pérdida bruta en el período por eventos de riesgo operacional
+847100100	84710	01	00	Fraude interno
+847100200	84710	02	00	Fraude externo
+847100300	84710	03	00	Prácticas laborales y seguridad en el negocio
+847100400	84710	04	00	Clientes, productos y prácticas de negocio
+847100500	84710	05	00	Daños a activos físicos
+847100600	84710	06	00	Interrupción del negocio y fallos en sistema
+847100700	84710	07	00	Ejecución, entrega y gestión de procesos
+847200000	84720	00	00	Recuperaciones de pérdida bruta en el período por eventos de riesgo operacional
+847200100	84720	01	00	Fraude interno
+847200200	84720	02	00	Fraude externo
+847200300	84720	03	00	Prácticas laborales y seguridad en el negocio
+847200400	84720	04	00	Clientes, productos y prácticas de negocio
+847200500	84720	05	00	Daños a activos físicos
+847200600	84720	06	00	Interrupción del negocio y fallos en sistema
+847200700	84720	07	00	Ejecución, entrega y gestión de procesos
+851000000	85100	00	00	CARTERA NORMAL EVALUACION INDIVIDUAL
+851100000	85110	00	00	Adeudado por bancos
+851200000	85120	00	00	Colocaciones comerciales
+852000000	85200	00	00	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL
+852100000	85210	00	00	Adeudado por bancos
+852200000	85220	00	00	Colocaciones comerciales
+853000000	85300	00	00	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL
+853100000	85310	00	00	Adeudado por bancos
+853200000	85320	00	00	Colocaciones comerciales
+854000000	85400	00	00	CARTERA NORMAL EVALUACION GRUPAL
+854200000	85420	00	00	Colocaciones comerciales
+854300000	85430	00	00	Colocaciones para vivienda
+854400000	85440	00	00	Colocaciones de consumo
+855000000	85500	00	00	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL
+855200000	85520	00	00	Colocaciones comerciales
+855300000	85530	00	00	Colocaciones para vivienda
+855400000	85540	00	00	Colocaciones de consumo
+856050000	85605	00	00	CARTERA NORMAL EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES COMERCIALES
+856050100	85605	01	00	Avales y fianzas
+856050200	85605	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856050300	85605	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856050400	85605	04	00	Transacciones relacionadas con eventos contingentes
+856050500	85605	05	00	Líneas de crédito de libre disposición comerciales
+856050600	85605	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856050800	85605	08	00	Otros compromisos de crédito irrevocables
+856050900	85605	09	00	Otros créditos contingentes
+856150000	85615	00	00	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES COMERCIALES
+856150100	85615	01	00	Avales y fianzas
+856150200	85615	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856150300	85615	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856150400	85615	04	00	Transacciones relacionadas con eventos contingentes
+856150500	85615	05	00	Líneas de crédito de libre disposición comerciales
+856150600	85615	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856150800	85615	08	00	Otros compromisos de crédito irrevocables
+856150900	85615	09	00	Otros créditos contingentes
+856250000	85625	00	00	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL - CRÉDITOS CONTINGENTES COMERCIALES
+856250100	85625	01	00	Avales y fianzas
+856250200	85625	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856250300	85625	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856250400	85625	04	00	Transacciones relacionadas con eventos contingentes
+856250500	85625	05	00	Líneas de crédito de libre disposición comerciales
+856250600	85625	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856250800	85625	08	00	Otros compromisos de crédito irrevocables
+856250900	85625	09	00	Otros créditos contingentes
+856350000	85635	00	00	CARTERA NORMAL EVALUACION GRUPAL - CRÉDITOS CONTINGENTES COMERCIALES
+856350100	85635	01	00	Avales y fianzas
+856350200	85635	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856350300	85635	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856350400	85635	04	00	Transacciones relacionadas con eventos contingentes
+856350500	85635	05	00	Líneas de crédito de libre disposición comerciales
+856350600	85635	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856350700	85635	07	00	Otros compromisos de crédito - Créditos para estudios superiores ley N° 20.027 (CAE)
+856350800	85635	08	00	Otros compromisos de crédito irrevocables
+856350900	85635	09	00	Otros créditos contingentes
+856450000	85645	00	00	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL - CRÉDITOS CONTINGENTES COMERCIALES
+856450100	85645	01	00	Avales y fianzas
+856450200	85645	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856450300	85645	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856450400	85645	04	00	Transacciones relacionadas con eventos contingentes
+856450500	85645	05	00	Líneas de crédito de libre disposición comerciales
+856450600	85645	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856450700	85645	07	00	Otros compromisos de crédito - Créditos para estudios superiores ley N° 20.027 (CAE)
+856450800	85645	08	00	Otros compromisos de crédito irrevocables
+856450900	85645	09	00	Otros créditos contingentes
+856550000	85655	00	00	CARTERA NORMAL EVALUACION GRUPAL - CRÉDITOS CONTINGENTES CONSUMO
+856550100	85655	01	00	Líneas de crédito de libre disposición - cuenta corriente
+856550200	85655	02	00	Líneas de crédito de libre disposición - tarjetas de crédito
+856550300	85655	03	00	Líneas de crédito de libre disposición  otras
+856550400	85655	04	00	Líneas de crédito de libre disposición de cancelación inmediata  cuenta corriente
+856550500	85655	05	00	Líneas de crédito de libre disposición de cancelación inmediata  tarjetas de crédito
+856550600	85655	06	00	Líneas de crédito de libre disposición de cancelación inmediata  tarjetas de crédito - Otras
+856650000	85665	00	00	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL - CRÉDITOS CONTINGENTES CONSUMO
+856650100	85665	01	00	Líneas de crédito de libre disposición - cuenta corriente
+856650200	85665	02	00	Líneas de crédito de libre disposición - tarjetas de crédito
+856650300	85665	03	00	Líneas de crédito de libre disposición  otras
+856650400	85665	04	00	Líneas de crédito de libre disposición de cancelación inmediata  cuenta corriente
+856650500	85665	05	00	Líneas de crédito de libre disposición de cancelación inmediata  tarjetas de crédito
+856650600	85665	06	00	Líneas de crédito de libre disposición de cancelación inmediata  tarjetas de crédito - Otras
+856750000	85675	00	00	CARTERA NORMAL EVALUACION INDIVIDUAL  CRÉDITOS CONTINGENTES ADEUDADO POR BANCOS
+856750100	85675	01	00	Avales y fianzas
+856750200	85675	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856750300	85675	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856750400	85675	04	00	Transacciones relacionadas con eventos contingentes
+856750500	85675	05	00	Líneas de crédito de libre disposición comerciales
+856750600	85675	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856750800	85675	08	00	Otros compromisos de crédito irrevocables
+856750900	85675	09	00	Otros créditos contingentes
+856850000	85685	00	00	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL  CRÉDITOS CONTINGENTES ADEUDADO POR BANCOS
+856850100	85685	01	00	Avales y fianzas
+856850200	85685	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856850300	85685	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856850400	85685	04	00	Transacciones relacionadas con eventos contingentes
+856850500	85685	05	00	Líneas de crédito de libre disposición comerciales
+856850600	85685	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856850800	85685	08	00	Otros compromisos de crédito irrevocables
+856850900	85685	09	00	Otros créditos contingentes
+856950000	85695	00	00	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL  CRÉDITOS CONTINGENTES ADEUDADO POR BANCOS
+856950100	85695	01	00	Avales y fianzas
+856950200	85695	02	00	Cartas de crédito de operaciones de circulación de mercancías
+856950300	85695	03	00	Compromisos de compra de deuda en moneda local en el exterior
+856950400	85695	04	00	Transacciones relacionadas con eventos contingentes
+856950500	85695	05	00	Líneas de crédito de libre disposición comerciales
+856950600	85695	06	00	Líneas de crédito comerciales de libre disposición de cancelación inmediata
+856950800	85695	08	00	Otros compromisos de crédito irrevocables
+856950900	85695	09	00	Otros créditos contingentes
+857000000	85700	00	00	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+857100000	85710	00	00	Adeudado por bancos
+857100100	85710	01	00	Bancos del país
+857100200	85710	02	00	Bancos del exterior
+857200000	85720	00	00	Colocaciones comerciales
+857200100	85720	01	00	Préstamos comerciales
+857200101	85720	01	01	Préstamos comerciales en el país
+857200102	85720	01	02	Préstamos comerciales en el exterior
+857200103	85720	01	03	Préstamos hipotecarios para fines generales
+857200104	85720	01	04	Créditos para infraestructura escolar Ley N° 20.845
+857200600	85720	06	00	Créditos de comercio exterior
+857200700	85720	07	00	Deudores en cuentas corrientes
+857200800	85720	08	00	Deudores por tarjetas de crédito
+857200900	85720	09	00	Otros créditos y cuentas por cobrar
+857201000	85720	10	00	Operaciones de factoraje
+857201100	85720	11	00	Operaciones de leasing comerciales
+857201200	85720	12	00	Préstamos estudiantiles
+857300000	85730	00	00	Colocaciones para vivienda
+857300100	85730	01	00	Préstamos con letras de crédito
+857300200	85730	02	00	Préstamos con mutuos hipotecarios endosables
+857300300	85730	03	00	Préstamos con mutuos financiados con bonos hipotecarios
+857300400	85730	04	00	Otros créditos con mutuos para vivienda
+857300500	85730	05	00	Operaciones de leasing para vivienda
+857300600	85730	06	00	Otros créditos y cuentas por cobrar
+857400000	85740	00	00	Colocaciones de consumo
+857400100	85740	01	00	Créditos de consumo en cuotas
+857400200	85740	02	00	Deudores en cuentas corrientes
+857400300	85740	03	00	Deudores por tarjetas de crédito
+857400400	85740	04	00	Operaciones de leasing de consumo
+857400500	85740	05	00	Otros créditos y cuentas por cobrar
+858000000	85800	00	00	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO	   RESULTADO INTEGRAL
+858100000	85810	00	00	Adeudado por bancos
+858200000	85820	00	00	Colocaciones comerciales
+858300000	85830	00	00	Colocaciones para vivienda
+858400000	85840	00	00	Colocaciones de consumo
+859000000	85900	00	00	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+859100000	85910	00	00	Adeudado por bancos
+859200000	85920	00	00	Colocaciones comerciales
+859300000	85930	00	00	Colocaciones para vivienda
+859400000	85940	00	00	Colocaciones de consumo

@@ -1,0 +1,76 @@
+DOCUMENTACION
+
+Periodo: Año 2023 - Mes: Enero
+
+En este documento ZIP se encuentra la información en formato texto que contiene los datos de los bancos fiscalizados por la Comisión para el Mercado Financiero - CMF Chile. Esta versión del Compendio de Normas Contables fue publicada mediante la Circular N° 2.243 / 20.12.2019, aprobada por Resolución N° 9127 de la CMF. Rige a partir del 01-01-2022.
+El documento ZIP se compone de los archivos cuya nomenclatura y contenido se describe en el presente texto, más una serie de archivos explicativos que se incluyen en la carpeta de Instrucciones.
+
+
+I.- NOMBRE DEL ARCHIVO
+
+Se compone de 11 caracteres, con la siguiente nomenclatura:
+
+XXaaaammifi.txt, donde:
+
+XX  es una letra y un número (B1, R1, C1) que tiene el siguiente significado:
+
+B1 = un estado de situación financiera consolidado.
+
+R1 = un estado de resultados consolidado.
+
+C1 = información complementaria consolidada.
+
+aaaamm, corresponde a la fecha de referencia del archivo, donde aaaa indica el año, y mm indica el mes.
+
+ifi, es un código de tres dígitos que identifica a la institucion financiera.  El nombre de dicha entidad y su respectivo código, se encuentran en el primer registro de cada archivo.  También se adjunta una tabla de códigos de ifi en el archivo "Codifis.txt".
+
+txt, esta extensión indica que se trata de un archivo plano, que puede ser leído en cualquier planilla electronica o procesador de texto.
+
+
+
+
+II.- ESTRUCTURA DE LOS REGISTROS
+
+Para los archivos del tipo B1, el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 9 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MB1.txt".
+2. Monto Moneda Chilena No Reajustable (Valor pesos chilenos)
+3. Monto Moneda reajustable por factores de IPC (Valor en pesos chilenos)
+4. Monto Moneda reajustable por Tipo de Cambio (Valor en pesos chilenos)
+5. Monto en Moneda Extranjera de acuerdo al tipo de cambio de representación contable usado por el banco (Valor en pesos chilenos)
+
+
+Para los archivos del tipo R1, el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 9 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MR1.txt".
+2. Total (Valor en pesos chilenos)
+
+Nota: En este archivo no hay separación por tipo de moneda.
+
+Para los archivos del tipo C1 el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 9 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MC1.txt".
+2. Total (Valor en pesos chilenos)
+
+Nota: En este archivo no hay separación por tipo de moneda.
+
+
+III. NOTAS GENERALES:
+1. Los valores negativos en cada caso que corresponda, llevan dicho signo al comienzo de la cifra. 
+
+2. Para efectos de analisis de cifras de los archivos B1, cuando no sea relevante la distincion de monedas chilena o extranjera, reajustable o no reajustable, es recomendable efectuar la sumatoria de estas columnas hacia el lado y considerar ese total como valor único del registro.
+
+3. Para obtener la documentación de estos archivos se puede consultar:
+
+Más información sobre este archivo en Compendio de Normas Contables CMF Bancos, Capítulo C-3
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29911.html
+
+Manual de Sistema de Información - Bancos, Sistema Contable
+
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29915.html
+RAN Recopilación Actualizada de Normas de Bancos
+https://www.cmfchile.cl/portal/principal/613/w3-propertyvalue-29580.html
+
+4. Para cualquier duda acerca de esta información, puede contactar a la Dirección de Análisis Financiero CMF Bancos, fono: (+562) 2887 9251 o al mail atencionfiscalizados@cmfchile.cl
+
+5. Para tener una visión web de estos datos, visite el sitio https://datosbanco.cmfchile.cl/

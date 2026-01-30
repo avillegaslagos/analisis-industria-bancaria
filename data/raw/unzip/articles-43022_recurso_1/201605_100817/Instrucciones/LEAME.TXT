@@ -1,0 +1,88 @@
+DOCUMENTACION
+
+Periodo: Año 2016 - Mes: Mayo
+
+En este documento ZIP se encuentra la información en formato texto que contiene los datos de los bancos fiscalizados por la Superintendencia de Bancos e Instituciones Financieras de Chile.
+El documento ZIP se compone de los archivos cuya nomenclatura y contenido se describe en el presente texto, más una serie de archivos explicativos que se incluyen en la carpeta de Instrucciones.
+
+
+
+
+I.- NOMBRE DEL ARCHIVO
+
+Se compone de 11 caracteres, con la siguiente nomenclatura:
+
+XXaaaammifi.Txt, donde:
+
+XX  es una letra y un número que puede ser B1, R1, C1 o C2, que tiene el siguiente significado:
+
+B1 = un estado de situación financiera consolidado.
+
+R1 = un estado de resultados consolidado.
+
+C1 = información complementaria consolidada.
+
+C2 = información complementaria individual.
+
+aaaamm, corresponde a la fecha de referencia del archivo, donde aaaa indica el año, y mm indica el mes.
+
+ifi, es un codigo de tres digitos que identifica a la institucion financiera.  El nombre de dicha entidad y su respectivo codigo, se encuentran en el primer registro de cada archivo.  Tambien se adjunta una tabla de codigos de ifi en el archivo "Codifis.txt".
+
+Txt, esta extension indica que se trata de un archivo plano, que puede ser leido en cualquier planilla electronica o procesador de texto.
+
+
+
+
+II.- ESTRUCTURA DE LOS REGISTROS
+
+Para los archivos del tipo B1, el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 7 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MB1.txt".
+2. Monto Moneda Chilena No Reajustable (Valor en millones de pesos chilenos)
+3. Monto Moneda reajustable por factores de IPC (Valor en millones de pesos chilenos)
+4. Monto Moneda reajustable por Tipo de Cambio (Valor en millones de pesos chilenos)
+5. Monto en Moneda Extranjera de acuerdo al tipo de cambio de representación contable usado por el banco (Valor en millones de pesos chilenos)
+
+
+Para los archivos del tipo R1, el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 7 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MR1.txt".
+2. Monto Moneda Chilena No Reajustable (Valor en millones de pesos chilenos)
+3. Monto Moneda reajustable por factores de IPC (Valor en millones de pesos chilenos)
+4. Monto Moneda reajustable por Tipo de Cambio (Valor en millones de pesos chilenos)
+5. Monto en Moneda Extranjera de acuerdo al tipo de cambio de representación contable usado por el banco (Valor en millones de pesos chilenos)
+
+
+Para los archivos del tipo C1, el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 7 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MC1.txt".
+2. Total (Valor en millones de pesos chilenos)
+
+Nota: En este archivo no hay separación por tipo de moneda.
+
+
+Para los archivos del tipo C2, el orden de las columnas es la siguiente:
+
+1. Código contable. Es un campo de 7 digitos que identifica el concepto contable que se describe en el archivo "Modelo-MC2.txt".
+2. Total (Valor en pesos chilenos)
+
+Nota: En este archivo no hay separación por tipo de moneda.
+
+
+
+
+III. NOTAS GENERALES:
+1. Los valores negativos en cada caso que corresponda, llevan dicho signo al comienzo de la cifra. 
+
+2. Para efectos de analisis de cifras de los archivos B1 y R1, cuando no sea relevante la distincion de monedas chilena o extranjera, reajustable o no reajustable, es recomendable efectuar la sumatoria de estas columnas hacia el lado y considerar ese total como valor único del registro.
+
+3. Para obtener más información sobre el Modelo utilizado para el Balance se puede consultar el archivo Modelo-MB1.txt
+En caso de requerir información más completa, se sugiere revisar los siguientes documentos:
+- Compendio de Normas Contables SBIF, Capítulo C-3
+  http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=3.2&idCategoria=2144
+- Manual de Sistema de Información - Bancos, Sistema Contable
+  http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=C.D.A&idContenido=353
+
+4. Para cualquier duda acerca de esta información, puede contactar a la Unidad de Comunicaciones Institucionales de SBIF, fono: (+562) 28879 511 - (+562) 28879 259 y mail: contactenos@sbif.cl.
+
+5. Para tener una visión web de estos datos, visite el sitio http://datos.sbif.cl/

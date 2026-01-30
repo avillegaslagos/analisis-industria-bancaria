@@ -1,0 +1,20 @@
+Descriptores de cuentas usados en reportes MC2
+
+Periodo: Año 2015 - Mes: Mayo
+
+9910000	CARTERA CON MOROSIDAD DE 90 DIAS O MAS                                                                                     
+  9911000	Adeudado por bancos                                                                                 
+  9913000	Colocaciones comerciales                                                                            
+  9914000	Colocaciones para vivienda                                                                          
+  9915000	Colocaciones de consumo                                                                             
+
+
+
+
+
+Nota:
+Más información sobre este archivo en Compendio de Normas Contables SBIF, Capítulo C-3
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=3.2&idCategoria=2144
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=C.D.A&idContenido=353
+

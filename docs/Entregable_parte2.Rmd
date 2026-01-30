@@ -1,0 +1,70 @@
+---
+title: "Proyecto: Análisis de la Industria Bancaria Chilena con Datos CMF"
+author: "Angélica Villegas"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# 1. Descripción del problema
+
+En la industria bancaria chilena, el análisis comparativo del desempeño financiero entre instituciones constituye un insumo fundamental para la toma de decisiones estratégicas. Sin embargo, en áreas de gestión financiera, la información sectorial se obtiene habitualmente con desfases relevantes, producto de procesos manuales asociados a la descarga, limpieza, consolidación histórica y análisis de datos provenientes de fuentes públicas.
+
+Este retraso limita la disponibilidad oportuna de información comparativa, dificultando el monitoreo sistemático del desempeño relativo del banco frente a sus competidores y reduciendo la capacidad de reacción ante cambios estructurales en la industria.
+
+# 2. Producto Mínimo Viable (MVP)
+
+El Producto Mínimo Viable (MVP) de este proyecto corresponde a un sistema automatizado desarrollado en R que permite descargar, validar y consolidar información histórica de colocaciones bancarias publicada por la Comisión para el Mercado Financiero (CMF).
+
+La solución genera un dataset estructurado y actualizado, listo para ser utilizado en análisis comparativos de la industria bancaria y como insumo base para la construcción de dashboards financieros y reportes de gestión.
+
+## 2.1 Obtención de datos (Collect data)
+
+La solución implementa un proceso automatizado de descarga de información financiera desde el sitio oficial de la Comisión para el Mercado Financiero (CMF), utilizando los archivos comprimidos (ZIP) publicados periódicamente por el regulador.
+
+Esta metodología permite acceder a la versión más actualizada y completa de los datos disponibles, evitando limitaciones asociadas a interfaces programáticas desfasadas. Los archivos descargados contienen información estandarizada por institución financiera, periodo y cuenta contable IFRS, lo que facilita su posterior procesamiento y consolidación histórica.
+
+# 3. Flujo del proceso
+
+El flujo general del MVP se estructura en las siguientes etapas:
+
+1. Descarga automatizada de archivos ZIP publicados por la CMF.
+2. Extracción y lectura de los archivos correspondientes a las instituciones bancarias de interés.
+3. Limpieza y transformación de los datos, incluyendo normalización de fechas y validación de valores.
+4. Consolidación de la información histórica en un único dataset.
+5. Generación de un archivo CSV que actúa como fuente oficial para análisis posteriores.
+
+Este enfoque permite estandarizar el proceso de adquisición y preparación de datos, reduciendo la dependencia de tareas manuales y mejorando la reproducibilidad del análisis.
+
+# 4. Valor de negocio
+
+El MVP desarrollado entrega valor directo a áreas de gestión financiera, planificación estratégica y análisis de industria, al reducir significativamente los tiempos requeridos para obtener y preparar información sectorial confiable.
+
+En particular, el dataset generado permite:
+- Comparar la evolución histórica de las colocaciones entre bancos de la industria.
+- Analizar cambios en la composición de la cartera (consumo, vivienda y comercial).
+- Identificar tendencias estructurales relevantes para la toma de decisiones estratégicas.
+- Servir como insumo base para reportes recurrentes de gerencia y dashboards de seguimiento.
+
+De esta forma, la solución contribuye a mejorar la oportunidad, consistencia y trazabilidad del análisis financiero sectorial.
+
+# 5. Evidencia del producto generado
+
+Como resultado de la ejecución del MVP, se genera un archivo CSV que contiene la información histórica consolidada de colocaciones bancarias.
+
+El dataset presenta, entre otras, las siguientes variables:
+- Código de la institución bancaria.
+- Código de la cuenta IFRS.
+- Periodo de información (frecuencia mensual).
+- Valor de colocaciones.
+
+Este archivo constituye la fuente base para análisis posteriores y para la construcción de visualizaciones y dashboards financieros.
+
+# 6. Repositorio del proyecto
+
+El código fuente del proyecto, junto con la documentación y los scripts de procesamiento de datos, se encuentra versionado en el siguiente repositorio de GitHub:
+
+**Repositorio:**  
+https://github.com/avillegaslagos/analisis-industria-bancaria
+
+El uso de control de versiones permite asegurar trazabilidad, reproducibilidad y escalabilidad de la solución desarrollada.
+

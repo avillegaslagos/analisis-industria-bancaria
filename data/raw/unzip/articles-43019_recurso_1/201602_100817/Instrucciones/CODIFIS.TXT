@@ -1,0 +1,43 @@
+CODIGOS DE INSTITUCIONES FINANCIERAS Y SUS NOMBRES
+
+Periodo: Año 2016 - Mes: Febrero
+
+I.	COD. Y NOMBRES DE INSTITUCIONES FINANCIERAS VIGENTES:
+
+COD. IFI	RAZON SOCIAL
+
+001	BANCO DE CHILE
+009	BANCO INTERNACIONAL
+012	BANCO DEL ESTADO DE CHILE
+014	SCOTIABANK CHILE (*)
+016	BANCO DE CREDITO E INVERSIONES
+017	BANCO DO BRASIL S.A.	
+027	CORPBANCA
+028	BANCO BICE
+031	HSBC BANK (CHILE)	
+037	BANCO SANTANDER-CHILE	
+039	BANCO ITAU CHILE	
+041	JP MORGAN CHASE BANK N.A.	
+043	BANCO DE LA NACION ARGENTINA	
+045	THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.	
+049	BANCO SECURITY	
+051	BANCO FALABELLA
+052	DEUTSCHE BANK (CHILE)	
+053	BANCO RIPLEY
+054	RABOBANK CHILE
+055	BANCO CONSORCIO (**)
+056	BANCO PENTA
+057	BANCO PARIS
+059	BANCO BTG PACTUAL CHILE (***)
+504	BBVA BANCO	
+999	TOTAL SISTEMA FINANCIERO
+
+
+NOTAS BANCOS Y CÓDIGOS: 
+A partir del mes de Diciembre de 2010 el The Royal Bank of Scotland (Chile) (cod.046), pasó a denominarse Banco Sudamericano (cod.046). Este banco (Banco Sudamericano - cod.046) a partir del mes de octubre de 2011 pasó a denominarse FINTESA S.A., entidad no fiscalizada por la SBIF, dejando de aparecer en el listado de códigos de bancos.
+A partir del mes de Enero de 2009 comienza a reportar información el Banco DnB NOR BANK ASA con código 058. A partir de diciembre de 2011 pasó a denominarse DnB BANK ASA. A partir de diciembre de 2012 deja de operar en Chile.
+(*) Con fecha 1° de Noviembre de 2009 se produjo la disolución anticipada del Banco del Desarrollo (cod.507), el que ha sido absorbido por Scotiabank Sud Americano, el cual cambió su razón social por la de Scotiabank Chile.
+(**) A partir del mes de Enero de 2010 el Banco Monex (cod.055), pasó a denominarse Banco Consorcio.
+(***) A partir del mes de Enero de 2015 se incluye la información del BANCO BTG PACTUAL CHILE (cod.059).
+
+

@@ -1,0 +1,129 @@
+Descriptores de cuentas usados en reportes MR1
+
+Periodo: Año 2009 - Mes: Marzo
+
+4100000	INGRESOS POR INTERESES Y REAJUSTES                                                                  
+  4100100	Contratos de retrocompra
+  4100200	Créditos otorgados a bancos
+  4100300	Colocaciones comerciales
+    4100399	Comisiones por prepago de créditos comerciales
+  4100400	Colocaciones para vivienda
+    4100499	Comisiones por prepago de créditos para vivienda
+  4100500	Colocacionde consumo
+    4100599	Comisiones por prepago de créditos de consumo
+  4100600	Instrumentos de inversión
+  4100800	Otros ingresos por intereses o reajustes
+  4100900	Resultado de coberturas contables
+  4150000	GASTOS POR INTERESES Y REAJUSTES                                                                    
+  4150100	Depósitos a la vista
+  4150200	Contratos de retrocompra
+  4150300	Depósitos y captaciones a plazo
+  4150400	Obligaciones con bancos
+  4150500	Instrumentos de deuda emitidos
+  4150600	Otras obligaciones financieras
+  4150800	Otros gastos por intereses o reajustes
+  4150900	Resultado de coberturas contables
+
+4200000	INGRESOS POR COMISIONES                                                                             
+  4200100	Comisiones por líneas de crédito y sobregiros
+  4200200	Comisiones por avales y cartas de crédito
+  4200300	Comisiones por servicios de tarjetas
+  4200400	Comisiones por administración de cuentas
+  4200500	Comisiones por cobranzas, recaudaciones y pagos
+  4200600	Comisiones por intermediación y manejo de valores
+  4200700	Comisiones por inversiones en fondos mutuos u otros
+  4200800	Remuneraciones por comercialización de seguros
+  4200900	Otras comisiones ganadas
+  4250000	GASTOS POR COMISIONES                                                                               
+  4250100	Remuneraciones por operación de tarjetas
+  4250200	Comisiones por operación con valores
+  4250300	Otras comisiones
+  
+4300000	UTILIDAD NETA DE OPERACIONES FINANCIERAS                                                            
+  4300100	Instrumentos financieros para negociación
+  4300200	Derivados de negociación
+  4300300	Venta de instrumentos disponibles para la venta
+  4300400	Venta de cartera de créditos
+  4300500	Resultado neto de otras operaciones
+  4350000	UTILIDAD (PÉRDIDA) DE CAMBIO NETA                                                                   
+  4350100	Resultado neto de cambio monedas extranjeras
+  4350200	Resultados neto por reajustes por tipo de cambio
+  4350900	Resultado de coberturas contables
+
+4400000	OTROS INGRESOS OPERACIONALES                                                                        
+  4400100	Ingresos por bienes recibidos en pago
+  4400200	Liberación de provisiones por contingencias
+  4400300	Otros ingresos
+
+4500000	PROVISIONES POR RIEGO DE CREDITO                                                                    
+  4500100	Provisiones para créditos y cuentas por cobrar                                                      
+  4500200	Provisiones para créditos contingentes                                                              
+  4500900	Recuperación de créditos castigados                                                                 
+    4500901	Recuperación de créditos comerciales castigados                                                     
+    4500911	Recuperación de créditos para vivienda castigados                                                   
+    4500921	Recuperación de créditos de consumo castigados                                                      
+
+4600000	REMUNERACIONES Y GASTOS DEL PERSONAL                                                                
+
+4610000	GASTOS DE ADMINISTRACIÓN                                                                            
+  4610100	Gastos generales de administración                                                                  
+  4610200	Servicios subcontratados                                                                            
+  4610300	Gastos del Directorio                                                                               
+  4610400	Publicidad y propaganda                                                                             
+  4610500	Impuestos, contribuciones y aportes                                                                 
+
+4620000	DEPRECIACIONES Y AMORTIZACIONES                                                                     
+
+4630000	DETERIOROS                                                                                          
+
+4650000	OTROS GASTOS OPERACIONALES                                                                          
+  4650100	Provisiones y gastos por bienes recibidos en pago                                                   
+  4650200	Provisiones por contingencias                                                                       
+    4650201	Provisiones por riesgo país                                                                         
+    4650211	Provisiones especiales para créditos al exterior                                                    
+    4650212	Provisiones adicionales para colocaciones.                                                          
+    4650290	Otras provisiones por contingencias                                                                 
+  4650900	Otros gastos                                                                                        
+
+4700000	RESULTADO POR INVERSIONES EN SOCIEDADES                                                             
+  4700100	Utilidades por inversiones en sociedades                                                            
+    4700101	Sucursales en el exterior                                                                           
+    4700102	Sociedades controladas                                                                              
+    4700103	Sociedades con influencia significativa                                                             
+    4700110	Percibido por acciones y derechos en otras sociedades                                               
+  4700200	Pérdidas por inversiones en sociedades                                                              
+    4700201	Sucursales en el exterior                                                                           
+    4700202	Sociedades controladas                                                                              
+    4700203	Sociedades con influencia significativa                                                             
+    4700210	Ajustes por deterioro de inversiones en sociedades                                                                 
+
+4800000	IMPUESTO A LA RENTA                                                                                 
+    4800001	Provisión impuesto a la renta                                                                       
+
+4850000	RESULTADO DE OPERACIONES DESCONTINUADAS                                                             
+
+4900000	INTERES MINORITARIO                                                                                 
+
+5003000	INGRESO NETO POR INTERESES Y REAJUSTES                                                              
+
+5004000	INGRESO NETO POR COMISIONES                                                                         
+
+5005000	TOTAL INGRESOS OPERACIONALES                                                                        
+
+5006000	INGRESO OPERACIONAL NETO                                                                            
+
+5007000	RESULTADO OPERACIONAL                                                                               
+
+5008000	RESULTADO ANTES DE IMPUESTO A LA RENTA                                                              
+
+5009000	RESULTADO DE OPERACIONES CONTINUAS                                                                  
+
+5010000	UTILIDAD (PERDIDA) CONSOLIDADA DEL EJERCICIO                                                        
+
+
+Nota:
+Más información sobre este archivo en Compendio de Normas Contables SBIF, Capítulo C-3
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=3.2&idCategoria=2144
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=C.D.A&idContenido=353
+

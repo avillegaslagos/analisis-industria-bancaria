@@ -1,0 +1,23 @@
+Descriptores de cuentas usados en reporte MC2
+
+Periodo: Año 2022 - Mes: Enero
+
+CUENTA	GLOSA
+857000000	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+857100000	     Adeudado por bancos
+857200000	     Colocaciones comerciales
+857300000	     Colocaciones para vivienda
+857400000	     Colocaciones de consumo
+858000000	"CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO	   RESULTADO INTEGRAL"
+859000000	CRÉDITOS CON MOROSIDAD DE 90 DÍAS O MÁS EN ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+
+
+Notas:
+
+Más información sobre este archivo en Compendio de Normas Contables CMF Bancos, Capítulo C-3
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29911.html
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29915.html
+RAN Recopilación Actualizada de Normas de Bancos
+https://www.cmfchile.cl/portal/principal/613/w3-propertyvalue-29580.html
+

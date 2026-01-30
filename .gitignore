@@ -1,0 +1,10 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# ZIP CMF (pesados)
+data/raw/zip/
+
+# Temporales
+*.tmp

@@ -1,0 +1,1242 @@
+Descriptores de cuentas usados en reportes MR1
+
+Periodo: Año 2022 - Mes: Enero
+
+CUENTA	GLOSA
+411000000	INGRESOS POR INTERESES
+411100000	     ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+411150000	     Derechos por pactos de retroventa y prestamos de valores
+411150100	          Operaciones con bancos del país
+411150101	               Contratos de retroventa con otros bancos
+411150102	               Contratos de retroventa con Banco Central de Chile
+411150103	               Derechos por préstamos de valores
+411150200	          Operaciones con bancos del exterior
+411150201	               Contratos de retroventa con otros bancos
+411150202	               Contratos de retroventa con Bancos Centrales del exterior
+411150203	               Derechos por préstamos de valores
+411150300	          Operaciones con otras entidades en el país
+411150301	               Contratos de retroventa
+411150302	               Derechos por préstamos de valores
+411150400	          Operaciones con otras entidades en el exterior
+411150401	               Contratos de retroventa
+411150402	               Derechos por préstamos de valores
+411200000	     Instrumentos financieros de deuda
+411200100	          Del Estado y Banco Central de Chile
+411200101	               Instrumentos financieros de deuda del Banco Central de Chile
+411200102	               Bonos y pagarés de la Tesorería General de la República
+411200109	               Otros instrumentos financieros de deuda fiscales
+411200200	          Otros instrumentos financieros de deuda emitidos en el país
+411200201	               Instrumentos financieros de deuda de otros bancos del país
+411200202	               Bonos y efectos de comercio de empresas del país
+411200209	               Otros instrumentos financieros de deuda emitidos en el país
+411200300	          Instrumentos financieros de deuda emitidos en el exterior
+411200301	               Instrumentos financieros de deuda de Bancos Centrales en el exterior
+411200302	               Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+411200303	               Instrumentos financieros de deuda de otros bancos en el exterior
+411200304	               Bonos y efectos de comercio de empresas en el exterior
+411200309	               Otros instrumentos financieros de deuda emitidos en el exterior
+411250000	     Adeudado por bancos
+411250100	          Bancos del país
+411250101	               Préstamos interbancarios de liquidez
+411250102	               Préstamos interbancarios comerciales
+411250103	               Sobregiros en cuentas corrientes
+411250104	               Créditos comercio exterior exportaciones chilenas
+411250105	               Créditos comercio exterior importaciones chilenas
+411250106	               Créditos comercio exterior entre terceros países
+411250107	               Depósitos no transferibles en bancos del país
+411250190	               Otras acreencias con bancos del país
+411250200	          Bancos del exterior
+411250201	               Préstamos interbancarios de liquidez
+411250202	               Préstamos interbancarios comerciales
+411250203	               Sobregiros en cuentas corrientes
+411250204	               Créditos comercio exterior exportaciones chilenas
+411250205	               Créditos comercio exterior importaciones chilenas
+411250206	               Créditos comercio exterior entre terceros países
+411250207	               Depósitos en cuenta corriente en bancos del exterior por operaciones de derivados
+411250208	               Otros depósitos no transferibles en bancos del exterior
+411250290	               Otras acreencias con bancos del exterior
+411250300	          Banco Central de Chile
+411250301	               Depósitos en cuenta corriente del Banco Central de Chile por operaciones de derivados con COMDER
+411250302	               Otros depósitos en el Banco Central de Chile no disponibles
+411250309	               Otras acreencias con el Banco Central de Chile
+411250400	          Bancos Centrales del exterior
+411250401	               Depósitos en cuenta corriente de Bancos Centrales del exterior por operaciones de derivados
+411250402	               Otros depósitos en Bancos Centrales del exterior no disponibles
+411250409	               Otras acreencias con Bancos Centrales del exterior
+411280000	     Colocaciones comerciales
+411280100	          Préstamos comerciales
+411280101	               Préstamos en el país
+411280102	               Préstamos en el exterior
+411280103	               Créditos para infraestructura escolar Ley N° 20.845
+411280104	               Préstamos con letras de crédito para fines generales
+411280105	               Préstamos con mutuos hipotecarios endosables para fines generales
+411280106	               Préstamos con mutuos hipotecarios no endosables para fines generales
+411280200	          Créditos de comercio exterior
+411280201	               Acreditivos negociados a plazo de exportaciones chilenas
+411280202	               Otros créditos para exportaciones chilenas
+411280203	               Acreditivos negociados a plazo de importaciones chilenas
+411280204	               Otros créditos para importaciones chilenas
+411280205	               Acreditivos negociados a plazo de operaciones entre terceros países
+411280209	               Otros créditos para operaciones entre terceros países
+411280300	          Deudores en cuentas corrientes
+411280400	          Deudores por tarjetas de crédito
+411280500	          Operaciones de factoraje
+411280501	               Factoring con responsabilidad
+411280502	               Factoring sin responsabilidad
+411280600	          Operaciones de leasing financiero comercial
+411280601	               Leasing por bienes inmobiliarios
+411280602	               Leasing por bienes no inmobiliarios
+411280700	          Préstamos estudiantiles
+411280701	               Créditos para estudios superiores Ley N° 20.027
+411280702	               Créditos con garantía CORFO
+411280709	               Otros créditos para estudios superiores
+411280900	          Otros créditos y cuentas por cobrar
+411280901	               Deudores por pago de obligaciones avaladas
+411280902	               Deudores por boletas de garantía pagadas
+411280990	               Otras cuentas por cobrar
+411350000	     Colocaciones para vivienda
+411350100	          Préstamos con letras de crédito para vivienda
+411350200	          Préstamos con mutuos hipotecarios endosable
+411350300	          Préstamos con mutuos financiados con bonos hipotecarios
+411350400	          Otros créditos con mutuos para vivienda
+411350401	               Otros créditos con mutuos no endosables para vivienda
+411350402	               Otros créditos con mutuos para vivienda
+411350500	          Operaciones de leasing financiero para vivienda
+411350900	          Otros créditos y cuentas por cobrar
+411350901	               Créditos complementarios a los mutuos
+411350902	               Créditos de enlace
+411350903	               Créditos provenientes de la ANAP
+411350990	               Cuentas por cobrar a deudores para vivienda
+411380000	     Colocaciones de consumo
+411380100	          Créditos de consumo en cuotas
+411380200	          Deudores en cuentas corrientes
+411380300	          Deudores por tarjetas de crédito
+411380400	          Operaciones de leasing financiero de consumo
+411380900	          Otros créditos y cuentas por cobrar
+411380901	               Créditos de consumo rotativos
+411380990	               Cuentas por cobrar a deudores de consumo
+411450000	     Otros instrumentos financieros
+411450100	          Depósitos en el Banco Central de Chile
+411450101	               Depósitos en cuenta corriente
+411450102	               Depósitos overnight
+411450109	               Otros depósitos disponibles
+411450200	          Depósitos en Bancos Centrales del exterior
+411450201	               Depósitos en cuenta corriente
+411450202	               Depósitos overnight
+411450209	               Otros depósitos disponibles
+411450300	          Depósitos en bancos del país
+411450400	          Depósitos en bancos del exterior
+411450900	          Otros intereses ganados
+411700000	ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+411720000	     Instrumentos financieros de deuda
+411720100	          Del Estado y Banco Central de Chile
+411720101	               Instrumentos financieros de deuda del Banco Central de Chile
+411720102	               Bonos y pagarés de la Tesorería General de la República
+411720109	               Otros instrumentos financieros de deuda fiscales
+411720200	          Otros instrumentos financieros de deuda emitidos en el país
+411720201	               Instrumentos financieros de deuda de otros bancos del país
+411720202	               Bonos y efectos de comercio de empresas del país
+411720209	               Otros instrumentos financieros de deuda emitidos en el país
+411720300	          Instrumentos financieros de deuda emitidos en el exterior
+411720301	               Instrumentos financieros de deuda de Bancos Centrales en el exterior
+411720302	               Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+411720303	               Instrumentos financieros de deuda de otros bancos en el exterior
+411720304	               Bonos y efectos de comercio de empresas en el exterior
+411720309	               Otros instrumentos financieros de deuda emitidos en el exterior
+411740000	     Otros instrumentos financieros
+411740100	          Créditos originados y adquiridos por la entidad
+411740101	               Adeudado por bancos
+411740102	               Colocaciones comerciales
+411740103	               Colocaciones para vivienda
+411740104	               Colocaciones de consumo
+411740200	          Otros
+411800000	 RESULTADO DE COBERTURAS CONTABLES DEL RIESGO DE TASAS DE INTERÉS
+411800100	          Utilidad por contratos de derivados financieros para cobertura contable
+411800200	          Pérdida por contratos de derivados financieros para cobertura contable
+411800300	          Resultados por ajuste de activos financieros cubiertos
+412000000	GASTOS POR INTERESES
+412100000	PASIVOS FINANCIEROS A COSTO AMORTIZADO
+412150000	     Depósitos y otras obligaciones a la vista
+412150100	          Cuentas corrientes
+412150101	               Cuentas corrientes de bancos del país
+412150102	               Cuentas corrientes de bancos del exterior
+412150103	               Cuentas corrientes de otras personas jurídicas
+412150104	               Cuentas corrientes de personas naturales
+412150200	          Cuentas de depósito a la vista
+412150201	               Cuentas de ahorro a la vista
+412150202	               Cuentas a la vista
+412150300	          Otros depósitos a la vista
+412150500	          Otras obligaciones a la vista
+412180000	     Depósitos y otras captaciones a plazo
+412180100	          Depósitos a plazo
+412180200	          Cuentas de ahorro a plazo
+412180201	               Cuentas de ahorro a plazo con giro diferido
+412180202	               Cuentas de ahorro a plazo con giro incondicional
+412180300	          Otros saldos acreedores a plazo
+412180301	               Boletas de garantías pagaderas con 30 días de aviso
+412180302	               Depósitos en cuentas “overnight”
+412180390	               Otros
+412250000	     Obligaciones por pactos de retrocompra y préstamos de valores
+412250100	          Operaciones con bancos del país
+412250101	               Contratos de retrocompra con otros bancos
+412250102	               Contratos de retrocompra con Banco Central de Chile
+412250103	               Obligaciones por préstamos de valores
+412250200	          Operaciones con bancos del exterior
+412250201	               Contratos de retrocompra con otros bancos
+412250202	               Contratos de retrocompra con Bancos Centrales del exterior
+412250203	               Obligaciones por préstamos de valores
+412250300	          Operaciones con otras entidades en el país
+412250301	               Contratos de retrocompra
+412250302	               Obligaciones por préstamos de valores
+412250400	          Operaciones con otras entidades en el exterior
+412250401	               Contratos de retrocompra
+412250402	               Obligaciones por préstamos de valores
+412280000	     Obligaciones con bancos
+412280100	       Bancos del país
+412280110	          Financiamientos de comercio exterior
+412280111	               Financiamientos para exportaciones chilenas
+412280112	               Financiamientos para importaciones chilenas
+412280113	               Obligaciones por operaciones entre terceros países
+412280120	          Préstamos y otras obligaciones
+412280121	               Préstamos interbancarios de liquidez
+412280122	               Préstamos interbancarios comerciales
+412280123	               Sobregiros en cuentas corrientes
+412280124	               Depósitos a plazo no transferibles
+412280129	               Otras obligaciones
+412280200	          Bancos del exterior
+412280210	          Financiamientos de comercio exterior
+412280211	               Financiamientos para exportaciones chilenas
+412280212	               Financiamientos para importaciones chilenas
+412280213	               Obligaciones por operaciones entre terceros países
+412280220	          Préstamos y otras obligaciones
+412280221	               Préstamos interbancarios de liquidez
+412280222	               Préstamos interbancarios comerciales
+412280223	               Sobregiros en cuentas corrientes
+412280224	               Depósitos a plazo no transferibles
+412280229	               Otras obligaciones
+412280300	          Banco Central de Chile
+412280301	               Préstamos y otras obligaciones
+412280302	               Líneas de crédito por reprogramación de deudas
+412280400	          Bancos Centrales del exterior
+412280401	               Préstamos y otras obligaciones
+412280402	               Líneas de crédito por reprogramación de deudas
+412350000	     Instrumentos financieros de deuda emitidos
+412350100	          Letras de Créditos
+412350101	               Letras de crédito para vivienda
+412350102	               Letras de crédito para fines generales
+412350200	          Bonos
+412350201	               Bonos corrientes
+412350203	               Bonos hipotecarios
+412380000	     Otras obligaciones financieras
+412380100	          Obligaciones con el sector público
+412380101	               Financiamientos de CORFO
+412380102	               Obligaciones con otros organismos gubernamentales
+412380200	          Otras obligaciones en el país
+412380201	               Adeudado a establecimientos afiliados por el uso de tarjetas de crédito
+412380202	               Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos tarjetas nominativas
+412380203	               Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos tarjetas innominadas
+412380204	               Adeudado a operadores por servicios de operación de tarjetas de crédito
+412380205	               Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos nominativas
+412380206	               Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos innominadas
+412380207	               Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+412380208	               Obligaciones a favor de exportadores chilenos
+412380290	               Otros créditos obtenidos en el país
+412380300	          Obligaciones con el exterior
+412380301	               Adeudado a establecimientos afiliados por el uso de tarjetas
+412380302	               Adeudado a operadores por servicios de operación de tarjetas (débito, crédito, pago con provisión de fondos)
+412380303	               Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+412380304	               Obligaciones a favor de exportadores extranjeros
+412380305	               Adeudado a organismos internacionales
+412380306	               Otros créditos obtenidos en el exterior
+412450000	OBLIGACIONES POR CONTRATOS DE ARRENDAMIENTO
+412500000	INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+412500100	          Bonos subordinados
+412800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO DE TASAS DE INTERÉS
+412800100	          Utilidad por contratos de derivados financieros para cobertura contable
+412800200	          Pérdida por contratos de derivados financieros para cobertura contable
+412800300	          Resultados por ajuste de pasivos financieros cubiertos
+520000000	INGRESO NETO POR INTERESES
+415000000	INGRESOS POR REAJUSTES DE LA U.F., IVP, IPC
+415100000	ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+415150000	     Derechos por pactos de retroventa y prestamos de valores
+415150100	          Operaciones con bancos del país
+415150101	               Contratos de retroventa con otros bancos
+415150102	               Contratos de retroventa con Banco Central de Chile
+415150103	               Derechos por préstamos de valores
+415150200	          Operaciones con bancos del exterior
+415150201	               Contratos de retroventa con otros bancos
+415150202	               Contratos de retroventa con Bancos Centrales del exterior
+415150203	               Derechos por préstamos de valores
+415150300	          Operaciones con otras entidades en el país
+415150301	               Contratos de retroventa
+415150302	               Derechos por préstamos de valores
+415150400	          Operaciones con otras entidades en el exterior
+415150401	               Contratos de retroventa
+415150402	               Derechos por préstamos de valores
+415200000	     Instrumentos financieros de deuda
+415200100	          Del Estado y Banco Central de Chile
+415200101	               Instrumentos financieros de deuda del Banco Central de Chile
+415200102	               Bonos y pagarés de la Tesorería General de la República
+415200109	               Otros instrumentos financieros de deuda fiscales
+415200200	          Otros instrumentos financieros de deuda emitidos en el país
+415200201	               Instrumentos financieros de deuda de otros bancos del país
+415200202	               Bonos y efectos de comercio de empresas del país
+415200209	               Otros instrumentos financieros de deuda emitidos en el país
+415200300	          Instrumentos financieros de deuda emitidos en el exterior
+415200301	               Instrumentos financieros de deuda de Bancos Centrales en el exterior
+415200302	               Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+415200303	               Instrumentos financieros de deuda de otros bancos en el exterior
+415200304	               Bonos y efectos de comercio de empresas en el exterior
+415200309	               Otros instrumentos financieros de deuda emitidos en el exterior
+415250000	     Adeudado por bancos
+415250100	          Bancos del país
+415250101	               Préstamos interbancarios de liquidez
+415250102	               Préstamos interbancarios comerciales
+415250103	               Sobregiros en cuentas corrientes
+415250104	               Créditos comercio exterior exportaciones chilenas
+415250105	               Créditos comercio exterior importaciones chilenas
+415250106	               Créditos comercio exterior entre terceros países
+415250107	               Depósitos no transferibles en bancos del país
+415250190	               Otras acreencias con bancos del país
+415250200	          Bancos del exterior
+415250201	               Préstamos interbancarios de liquidez
+415250202	               Préstamos interbancarios comerciales
+415250203	               Sobregiros en cuentas corrientes
+415250204	               Créditos comercio exterior exportaciones chilenas
+415250205	               Créditos comercio exterior importaciones chilenas
+415250206	               Créditos comercio exterior entre terceros países
+415250207	               Depósitos en cuenta corriente en bancos del exterior por operaciones de derivados
+415250208	               Otros depósitos no transferibles en bancos del exterior
+415250290	               Otras acreencias con bancos del exterior
+415250300	          Banco Central de Chile
+415250301	               Depósitos en cuenta corriente del Banco Central de Chile por operaciones de derivados con COMDER
+415250302	               Otros depósitos en el Banco Central de Chile no disponibles
+415250390	               Otras acreencias con el Banco Central de Chile
+415250400	          Bancos Centrales del exterior
+415250401	               Depósitos en cuenta corriente de Bancos Centrales del exterior por operaciones de derivados
+415250402	               Otros depósitos en Bancos Centrales del exterior no disponibles
+415250403	               Otras acreencias con Bancos Centrales del exterior
+415280000	     Colocaciones comerciales
+415280100	          Préstamos comerciales
+415280101	               Préstamos en el país
+415280102	               Préstamos en el exterior
+415280103	               Créditos para infraestructura escolar Ley N° 20.845
+415280104	               Préstamos con letras de crédito para fines generales
+415280105	               Préstamos con mutuos hipotecarios endosables para fines generales
+415280106	               Préstamos con mutuos hipotecarios no endosables para fines generales
+415280200	          Créditos de comercio exterior
+415280201	               Acreditivos negociados a plazo de exportaciones chilenas
+415280209	               Otros créditos para exportaciones chilenas
+415280221	               Acreditivos negociados a plazo de importaciones chilenas
+415280229	               Otros créditos para importaciones chilenas
+415280231	               Acreditivos negociados a plazo de operaciones entre terceros países
+415280239	               Otros créditos para operaciones entre terceros países
+415280300	          Deudores en cuentas corrientes
+415280400	          Deudores por tarjetas de crédito
+415280500	          Operaciones de factoraje
+415280501	               Factoring con responsabilidad
+415280502	               Factoring sin responsabilidad
+415280600	          Operaciones de leasing financiero comercial
+415280601	               Leasing por bienes inmobiliarios
+415280602	               Leasing por bienes no inmobiliarios
+415280700	          Préstamos estudiantiles
+415280701	               Créditos para estudios superiores Ley N° 20.027
+415280702	               Créditos con garantía CORFO
+415280709	               Otros créditos para estudios superiores
+415280900	          Otros créditos y cuentas por cobrar
+415280901	               Deudores por pago de obligaciones avaladas
+415280902	               Deudores por boletas de garantía pagadas
+415280990	               Otras cuentas por cobrar
+415350000	     Colocaciones para vivienda
+415350100	          Préstamos con letras de crédito para vivienda
+415350200	          Préstamos con mutuos hipotecarios endosable
+415350300	          Préstamos con mutuos financiados con bonos hipotecarios
+415350400	          Otros créditos con mutuos para vivienda
+415350401	               Otros créditos con mutuos no endosables para vivienda
+415350402	               Otros créditos con mutuos para vivienda
+415350500	          Operaciones de leasing financiero para vivienda
+415350900	          Otros créditos y cuentas por cobrar
+415350901	               Créditos complementarios a los mutuos
+415350902	               Créditos de enlace
+415350903	               Créditos provenientes de la ANAP
+415350990	               Cuentas por cobrar a deudores para vivienda
+415380000	     Colocaciones de consumo
+415380100	          Créditos de consumo en cuotas
+415380200	          Deudores en cuentas corrientes
+415380300	          Deudores por tarjetas de crédito
+415380400	          Operaciones de leasing financiero de consumo
+415380900	          Otros créditos y cuentas por cobrar
+415380901	               Créditos de consumo rotativos
+415380990	               Cuentas por cobrar a deudores de consumo
+415450000	     Otros instrumentos financieros
+415450100	          Depósitos en el Banco Central de Chile
+415450101	               Depósitos en cuenta corriente
+415450102	               Depósitos overnight
+415450109	               Otros depósitos disponibles
+415450300	          Depósitos en bancos del país
+415450900	          Otros ingresos por reajustes de la U.F., IVP, IPC ganados
+415600000	ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+415620000	     Instrumentos financieros de deuda
+415620100	          Del Estado y Banco Central de Chile
+415620101	               Instrumentos financieros de deuda del Banco Central de Chile
+415620102	               Bonos y pagarés de la Tesorería General de la República
+415620109	               Otros instrumentos financieros de deuda fiscales
+415620200	          Otros instrumentos financieros de deuda emitidos en el país
+415620201	               Instrumentos financieros de deuda de otros bancos del país
+415620202	               Bonos y efectos de comercio de empresas del país
+415620209	               Otros instrumentos financieros de deuda emitidos en el país
+415620300	          Instrumentos financieros de deuda emitidos en el exterior
+415620301	               Instrumentos financieros de deuda de Bancos Centrales en el exterior
+415620302	               Instrumentos financieros de deuda de Gobiernos extranjeros y entidades fiscales en el exterior
+415620303	               Instrumentos financieros de deuda de otros bancos en el exterior
+415620304	               Bonos y efectos de comercio de empresas en el exterior
+415620309	               Otros instrumentos financieros de deuda emitidos en el exterior
+415640000	     Otros instrumentos financieros
+415640100	          Créditos originados y adquiridos por la entidad
+415640101	               Adeudado por bancos
+415640102	               Colocaciones comerciales
+415640103	               Colocaciones para vivienda
+415640104	               Colocaciones de consumo
+415640200	          Otros
+415800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO POR REAJUSTES DE LA U.F., IVP, IPC
+415800100	          Utilidad por contratos de derivados financieros para cobertura contable
+415800200	          Pérdida por contratos de derivados financieros para cobertura contable
+415800300	          Resultados por ajuste de activos financieros cubiertos
+416000000	GASTOS POR REAJUSTES DE LA U.F., IVP, IPC
+416100100	PASIVOS FINANCIEROS A COSTO AMORTIZADO
+416150000	     Depósitos y otras obligaciones a la vista
+416150100	          Cuentas corrientes
+416150101	               Cuentas corrientes de bancos del país
+416150102	               Cuentas corrientes de bancos del exterior
+416150103	               Cuentas corrientes de otras personas jurídicas
+416150104	               Cuentas corrientes de personas naturales
+416150200	          Cuentas de depósito a la vista
+416150201	               Cuentas de ahorro a la vista
+416150202	               Cuentas a la vista
+416150300	          Otros depósitos a la vista
+416150500	          Otras obligaciones a la vista
+416180000	     Depósitos y otras captaciones a plazo
+416180100	          Depósitos a plazo
+416180200	          Cuentas de ahorro a plazo
+416180201	               Cuentas de ahorro a plazo con giro diferido
+416180202	               Cuentas de ahorro a plazo con giro incondicional
+416180300	          Otros saldos acreedores a plazo
+416180301	               Boletas de garantías pagaderas con 30 días de aviso
+416180302	               Depósitos en cuentas “overnight”
+416180390	               Otros
+416250000	     Obligaciones por pactos de retrocompra y prestamos de valores
+416250100	          Operaciones con bancos del país
+416250101	               Contratos de retrocompra con otros bancos
+416250102	               Contratos de retrocompra con Banco Central de Chile
+416250103	               Obligaciones por préstamos de valores
+416250200	          Operaciones con bancos del exterior
+416250201	               Contratos de retrocompra con otros bancos
+416250202	               Contratos de retrocompra con Bancos Centrales del exterior
+416250203	               Obligaciones por préstamos de valores
+416250300	          Operaciones con otras entidades en el país
+416250301	               Contratos de retrocompra
+416250302	               Obligaciones por préstamos de valores
+416250400	          Operaciones con otras entidades en el exterior
+416250401	               Contratos de retrocompra
+416250402	               Obligaciones por préstamos de valores
+416280000	     Obligaciones con bancos
+416280100	       Bancos del país
+416280110	          Financiamientos de comercio exterior
+416280111	               Financiamientos para exportaciones chilenas
+416280112	               Financiamientos para importaciones chilenas
+416280113	               Obligaciones por operaciones entre terceros países
+416280120	          Préstamos y otras obligaciones
+416280121	               Préstamos interbancarios de liquidez
+416280122	               Préstamos interbancarios comerciales
+416280123	               Sobregiros en cuentas corrientes
+416280124	               Depósitos a plazo no transferibles
+416280129	               Otras obligaciones
+416280200	          Bancos del exterior
+416280210	          Financiamientos de comercio exterior
+416280211	               Financiamientos para exportaciones chilenas
+416280212	               Financiamientos para importaciones chilenas
+416280213	               Obligaciones por operaciones entre terceros países
+416280220	          Préstamos y otras obligaciones
+416280221	               Préstamos interbancarios de liquidez
+416280222	               Préstamos interbancarios comerciales
+416280223	               Sobregiros en cuentas corrientes
+416280224	               Depósitos a plazo no transferibles
+416280229	               Otras obligaciones
+416280300	          Banco Central de Chile
+416280301	               Préstamos y otras obligaciones
+416280302	               Líneas de crédito por reprogramación de deudas
+416280400	          Banco Central del Exterior
+416280401	               Préstamos y otras obligaciones
+416280402	               Líneas de crédito por reprogramación de deudas
+416350000	     Instrumentos financieros de deuda emitidos
+416350100	          Letras de Créditos
+416350101	               Letras de crédito para vivienda
+416350102	               Letras de crédito para fines generales
+416350200	          Bonos
+416350201	               Bonos corrientes
+416350203	               Bonos hipotecarios
+416380000	     Otras obligaciones financieras
+416380100	          Obligaciones con el sector público
+416380101	               Financiamientos de CORFO
+416380102	               Obligaciones con otros organismos gubernamentales
+416380200	          Otras obligaciones en el país
+416380201	               Adeudado a establecimientos afiliados por el uso de tarjetas de crédito
+416380202	               Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos de tarjetas nominativas
+416380203	               Adeudado a establecimientos afiliados por el uso de tarjetas de pago con provisión de fondos de tarjetas innominadas
+416380204	               Adeudado a operadores por servicios de operación de tarjetas de crédito
+416380205	               Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos nominativas
+416380206	               Adeudado a operadores por servicios de operación de tarjetas de pago con provisión de fondos innominadas
+416380207	               Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+416380208	               Obligaciones a favor de exportadores chilenos
+416380290	               Otros créditos obtenidos en el país
+416380300	          Obligaciones con el exterior
+416380301	               Adeudado a establecimientos afiliados por el uso de tarjetas
+416380302	               Adeudado a operadores por servicios de operación de tarjetas (débito, crédito, pago con provisión de fondos)
+416380303	               Adeudado a licenciante de marcas de tarjetas (débito, crédito, pago con provisión de fondos)
+416380304	               Obligaciones a favor de exportadores extranjeros
+416380305	               Adeudado a organismos internacionales
+416380306	               Otros créditos obtenidos en el exterior
+416500000	INSTRUMENTOS FINANCIEROS DE CAPITAL REGULATORIO EMITIDOS
+416500100	          Bonos subordinados
+416500200	          Bonos sin plazo fijo de vencimiento
+416800000	RESULTADO DE COBERTURAS CONTABLES DEL RIESGO POR REAJUSTES DE LA U.F., IVP, IPC
+416800100	          Utilidad por contratos de derivados financieros para cobertura contable
+416800200	          Pérdida por contratos de derivados financieros para cobertura contable
+416800300	          Resultados por ajuste de pasivos financieros cubiertos
+525000000	INGRESO NETO POR REAJUSTES DE LA U.F., IVP, IPC
+420000000	INGRESOS POR COMISIONES Y SERVICIOS PRESTADOS
+422150100	          Comisiones por prepago de créditos
+422150101	               Créditos otorgados a bancos
+422150102	               Créditos comerciales
+422150103	               Créditos para vivienda
+422150104	               Créditos de consumo
+422180100	          Comisiones de préstamos con letras de crédito
+422180101	               Comisiones de préstamos con letras de crédito para vivienda
+422180102	               Comisiones de préstamos con letras de crédito para fines generales
+422250100	          Comisiones por líneas de crédito y sobregiros en cuenta corriente
+422250101	               Líneas de crédito
+422250102	               Sobregiros pactados
+422280100	          Comisiones por avales y cartas de crédito
+422280101	               Cartas de crédito de operaciones de circulación de mercancías
+422280102	               Avales y fianzas
+422280103	               Cartas de crédito stand-by
+422280104	               Boletas de garantía enteradas con pagaré u otro título de crédito a favor del banco
+422280105	               Boletas de garantía enteradas con depósito en dinero
+422280190	               Otros
+422350100	          Comisiones por servicios de tarjetas
+422350101	               Tarjetas de cajeros automáticos
+422350102	               Tarjetas de crédito - comisiones de titulares
+422350103	               Tarjetas de crédito - comisiones de establecimientos
+422350104	               Tarjetas de débito - comisiones de titulares
+422350105	               Tarjetas de débito - comisiones de establecimientos
+422350106	               Tarjetas de pago con provisión de fondos para tarjetas nominativas – comisiones de titulares
+422350107	               Tarjetas de pago con provisión de fondos para tarjetas innominadas – comisiones de titulares
+422350108	               Tarjetas de pago con provisión de fondos para tarjetas nominativas – comisiones de establecimientos
+422350109	               Tarjetas de pago con provisión de fondos para tarjetas innominadas – comisiones de establecimientos
+422350190	               Otras tarjetas
+422380100	          Comisiones por administración de cuentas
+422380101	               Cuentas corrientes a personas naturales
+422380102	               Cuentas corrientes a personas jurídicas
+422380103	               Cuentas de ahorro a la vista
+422380104	               Cuentas a la vista
+422380105	               Cuentas de tarjetas de pago con provisión de fondos – tarjetas nominativas
+422380106	               Cuentas de tarjetas de pago con provisión de fondos - tarjetas innominadas
+422380107	               Cuentas de ahorro a plazo (con giro diferido e incondicional)
+422380190	               Otras cuentas
+422450100	          Comisiones por cobranzas, recaudaciones y pagos
+422450101	               Cobranza de títulos de crédito de clientes
+422450102	               Cobranzas por cuenta de bancos extranjeros
+422450103	               Transferencias, giros y otras órdenes de pago
+422450104	               Convenios de pago de remuneraciones
+422450105	               Convenios de pago a proveedores
+422450106	               Recaudaciones de impuestos
+422450107	               Cobranza o recaudación de primas de seguros
+422450108	               Recaudaciones de pagos de servicios
+422450190	               Otros
+422480100	          Comisiones por intermediación y manejo de valores (Corredores de Bolsa y/o Agencia de Valores)
+422480101	               Intermediación de valores
+422480102	               Administración de carteras de clientes
+422480103	               Custodia de valores
+422480190	               Otras comisiones por servicios de valores
+422550100	          Remuneraciones por administración de fondos mutuos, fondos de inversión u otros
+422550101	               Personas naturales por APV, APVC.
+422550102	               Personas naturales por otros productos
+422550103	               Personas jurídicas por inversionistas calificados
+422550104	               Personas jurídicas por otro tipo de inversionistas
+422580000	          Remuneraciones por intermediación y asesoría de seguros
+422580100	            Seguros relacionados con otorgamiento de créditos a personas naturales
+422580101	               Seguros asociados a colocaciones de consumo
+422580102	               Seguros asociados a colocaciones para vivienda
+422580200	            Seguros no relacionados con otorgamiento de créditos a personas naturales
+422580300	            Seguros relacionados con otorgamiento de créditos a personas jurídicas
+422580400	            Seguros no relacionados con otorgamiento de créditos a personas jurídicas
+422650100	          Comisiones por servicios de operaciones de factoraje
+422680100	          Comisiones por servicios de operaciones de leasing financiero
+422750100	          Comisiones por securitizaciones
+422780100	          Comisiones por asesorías financieras
+422780101	               Emisión y colocación de instrumentos financieros (acciones, bonos, cuotas de Fondos Mutuos, cuotas de Fondos de Inversión, otros)
+422780102	               Reestructuración y financiamiento de pasivos financieros
+422780103	               Compra y venta de empresas
+422780190	               Otros servicios de asesoría financiera
+422850100	          Otras comisiones ganadas
+422850101	               Cambio de moneda extranjera
+422850102	               Emisión de vales vista
+422850103	               Emisión de boletas de garantía
+422850104	               Comisiones de confianza
+422850105	               Operaciones de comercio exterior
+422850106	               Administración de créditos estudiantiles
+422850190	               Otras remuneraciones por servicios prestados
+425000000	GASTOS POR COMISIONES Y SERVICIOS RECIBIDOS
+425150100	          Comisiones por operación de tarjetas
+425150101	               Tarjetas de cajeros automáticos
+425150102	               Tarjetas de crédito
+425150103	               Tarjetas de débito
+425150104	               Tarjetas de pago con provisión de fondos - tarjetas nominativas
+425150105	               Tarjetas de pago con provisión de fondos - tarjetas innominadas
+425150190	               Otras tarjetas
+425180100	          Comisiones por licencia de uso de marcas de tarjetas
+425180101	               Tarjetas de crédito
+425180102	               Tarjetas de débito
+425180103	               Tarjetas de pago con provisión de fondos - tarjetas nominativas
+425180104	               Tarjetas de pago con provisión de fondos - tarjetas innominadas
+425180190	               Otras tarjetas
+425250100	          Otras comisiones por servicios vinculados al sistema de tarjetas de crédito y tarjetas de pago con provisión de fondos como medio de pago
+425280100	          Gastos por obligaciones de programas de fidelización y méritos para clientes por tarjetas
+425280101	               Tarjetas de cajeros automáticos
+425280102	               Tarjetas de crédito
+425280103	               Tarjetas de débito
+425280104	               Tarjetas de pago con provisión de fondos - tarjetas nominativas
+425280105	               Tarjetas de pago con provisión de fondos - tarjetas innominadas
+425280109	               Otras tarjetas
+425280190	               Otros canales o productos
+425350100	          Comisiones por operación con valores
+425350101	               Comisiones por depósito y custodia de valores
+425350102	               Comisiones por corretajes de valores
+425350103	               Comisiones por inversiones en fondos mutuos
+425350104	               Comisiones a bolsas de valores
+425350105	               Comisiones por una contraparte central
+425350106	               Comisiones por servicios de Infraestructura de Mercado OTC
+425350190	               Otras
+425380100	          Otras comisiones por servicios recibidos
+425380101	               Comisiones por garantías y avales de obligaciones del banco
+425380102	               Comisiones por operaciones de comercio exterior
+425380103	               Comisiones por bancos corresponsales del país y del exterior
+425380104	               Comisiones por cajeros automáticos
+425380105	               Comisiones por servicios de transferencias electrónicas de fondos
+425380106	               Comisiones por compensación de pagos de alto valor
+425380190	               Otras
+530000000	INGRESO NETO POR COMISIONES
+431000000	RESULTADO POR ACTIVOS FINANCIEROS PARA NEGOCIAR A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+431150100	          Contratos de derivados financieros
+431150101	               Utilidad por valorización
+431150102	               Pérdida por valorización
+431180100	          Instrumentos financieros de deuda
+431180101	               Utilidad por valorización
+431180102	               Pérdida por valorización
+431180103	               Utilidad por venta
+431180104	               Pérdida por venta
+431180105	               Ingresos por intereses
+431180106	               Ingresos por reajustes
+431250000	          Otros instrumentos financieros
+431250100	            Inversiones en Fondos Mutuos
+431250101	               Utilidad por valorización
+431250102	               Pérdida por valorización
+431250103	               Utilidad por venta
+431250104	               Pérdida por venta
+431250200	            Instrumentos de patrimonio
+431250201	               Utilidad por valorización
+431250202	               Pérdida por valorización
+431250203	               Utilidad por venta
+431250204	               Pérdida por venta
+431250205	               Ingresos por dividendos
+431250300	            Créditos originados y adquiridos por la entidad (Adeudado por bancos, Colocaciones comerciales, Colocaciones para vivienda y Colocaciones de consumo)
+431250301	               Utilidad por valorización
+431250302	               Pérdida por valorización
+431250303	               Utilidad por venta
+431250304	               Pérdida por venta
+431250305	               Ingresos por intereses
+431250306	               Ingresos por reajustes
+431250900	            Otros
+431250901	               Utilidad por valorización
+431250902	               Pérdida por valorización
+431250903	               Utilidad por venta
+431250904	               Pérdida por venta
+431250905	               Ingresos por intereses
+431250906	               Ingresos por reajustes
+431500000	RESULTADO FINANCIERO POR PASIVOS FINANCIEROS PARA NEGOCIAR A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+431650100	          Contratos de derivados financieros
+431650101	               Utilidad por valorización
+431650102	               Pérdida por valorización
+431750100	          Otros instrumentos financieros
+431750101	               Utilidad por valorización
+431750102	               Pérdida por valorización
+431750103	               Utilidad por venta
+431750104	               Pérdida por venta
+431750105	               Gastos por intereses
+431750106	               Gastos por reajustes
+431800000	RESULTADO FINANCIERO POR ACTIVOS FINANCIEROS NO DESTINADOS A NEGOCIACIÓN VALORADOS OBLIGATORIAMENTE A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+431800100	          Instrumentos financieros de deuda
+431800101	               Utilidad por valorización
+431800102	               Pérdida por valorización
+431800103	               Utilidad por venta
+431800104	               Pérdida por venta
+431800105	               Ingresos por intereses
+431800106	               Ingresos por reajustes
+431800900	          Otros
+431800901	               Utilidad por valorización
+431800902	               Pérdida por valorización
+431800903	               Utilidad por venta
+431800904	               Pérdida por venta
+431800905	               Ingresos por intereses
+431800906	               Ingresos por reajustes
+431850000	RESULTADO FINANCIERO POR ACTIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+431850100	          Instrumentos financieros de deuda
+431850101	               Utilidad por valorización
+431850102	               Pérdida por valorización
+431850103	               Utilidad por venta
+431850104	               Pérdida por venta
+431850105	               Ingresos por intereses
+431850106	               Ingresos por reajustes
+431850200	          Otros instrumentos financieros
+431850210	            Créditos originados y adquiridos por la entidad (Adeudado por bancos, Colocaciones comerciales, Colocaciones para vivienda y Colocaciones de consumo)
+431850211	               Utilidad por valorización
+431850212	               Pérdida por valorización
+431850213	               Utilidad por venta
+431850214	               Pérdida por venta
+431850215	               Ingresos por intereses
+431850216	               Ingresos por reajustes
+431850220	            Otros
+431850221	               Utilidad por valorización
+431850222	               Pérdida por valorización
+431850223	               Utilidad por venta
+431850224	               Pérdida por venta
+431850225	               Ingresos por intereses
+431850226	               Ingresos por reajustes
+431900000	RESULTADO FINANCIERO POR PASIVOS FINANCIEROS DESIGNADOS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS
+431900100	          Depósitos, otras obligaciones a la vista y Depósitos y otras captaciones a plazo
+431900101	               Utilidad por valorización
+431900102	               Pérdida por valorización
+431900103	               Utilidad por venta
+431900104	               Pérdida por venta
+431900105	               Gastos por intereses
+431900106	               Gastos por reajustes
+431900200	          Instrumentos de deuda emitidos
+431900201	               Utilidad por valorización
+431900202	               Pérdida por valorización
+431900203	               Utilidad por venta
+431900204	               Pérdida por venta
+431900205	               Gastos por intereses
+431900206	               Gastos por reajustes
+431900300	          Otros
+431900301	               Utilidad por valorización
+431900302	               Pérdida por valorización
+431900303	               Utilidad por venta
+431900304	               Pérdida por venta
+431900305	               Gastos por intereses
+431900306	               Gastos por reajustes
+432000000	RESULTADO FINANCIERO POR DAR DE BAJA ACTIVOS Y PASIVOS FINANCIEROS  A COSTO AMORTIZADO Y ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+432200000	     Activos financieros a costo amortizado
+432200100	          Derechos por pactos de retroventa y préstamos de valores
+432200200	          Instrumentos financieros de deuda
+432200300	          Adeudado por bancos
+432200400	          Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+432200500	          Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+432200600	          Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+432300700	          Otros instrumentos financieros
+432400000	     Activos financieros a valor razonable con cambios en otro resultado integral
+432400100	          Derechos por pactos de retroventa y préstamos de valores
+432400200	          Instrumentos financieros de deuda
+432400300	          Adeudado por bancos
+432400400	          Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+432400500	          Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+432400600	          Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+432400700	          Otros instrumentos financieros
+432600000	     Pasivos financieros a costo amortizado
+432600100	          Depósitos y otras obligaciones a la vista
+432600200	          Depósitos y otras captaciones a plazo
+432600300	          Obligaciones por pactos de retrocompra y préstamos de valores
+432600400	          Obligaciones con bancos
+432600500	          Instrumentos de deuda emitidos – Letras de créditos
+432600600	          Instrumentos de deuda emitidos – Bonos corrientes
+432600800	          Instrumentos de deuda emitidos – Bonos hipotecarios
+432600900	          Otras obligaciones financieras
+432700000	     Instrumentos financieros de capital regulatrio emitidos
+432700100	          Bonos sin plazo fijo de vencimiento
+432700200	          Acciones Preferentes
+433000000	RESULTADO FINANCIERO POR CAMBIOS, REAJUSTES Y COBERTURA CONTABLE DE MONEDA EXTRANJERA
+433100100	          Resultado por cambio de moneda extranjera
+433100101	               Resultado de cambio neto – posición de cambios
+433100102	               Otros resultados de cambio
+433200000	     Resultados por reajustes por tipo de cambio
+433210000	       Activos financieros para negociar a valor razonable con cambios en resultados
+433210100	          Instrumentos financieros de deuda
+433210200	          Otros instrumentos financieros
+433220000	       Activos financieros no destinados para negociar obligatoriamente a valor razonable con cambios en resultados
+433220100	          Instrumentos financieros de deuda
+433220200	          Otros instrumentos financieros
+433230000	       Activos financieros designados a valor razonable con cambios en resultados
+433230100	          Instrumentos financieros de deuda
+433230200	          Otros instrumentos financieros
+433240000	       Activos financieros a valor razonable con cambios en otro resultado integral
+433240100	          Instrumentos financieros de deuda
+433240200	          Otros instrumentos financieros
+433250000	       Activos financieros a costo amortizado
+433250100	          Derechos por pactos de retroventa y préstamos de valores
+433250200	          Instrumentos financieros de deuda
+433250300	          Adeudado por bancos
+433250301	               Bancos del país
+433250302	               Bancos del exterior
+433250303	               Banco Central de Chile
+433250304	               Bancos Centrales del exterior
+433250400	          Colocaciones comerciales
+433250410	             Préstamos comerciales
+433250411	               Préstamos en el país
+433250412	               Préstamos en el exterior
+433250413	               Créditos para infraestructura escolar Ley N° 20.845
+433250414	               Préstamos con letras de crédito para fines generales
+433250415	               Préstamos con mutuos hipotecarios endosables para fines generales
+433250416	               Préstamos con mutuos hipotecarios no endosables para fines generales
+433250420	            Créditos de comercio exterior
+433250421	               Acreditivos negociados a plazo de exportaciones chilenas
+433250422	               Otros créditos para exportaciones chilenas
+433250423	               Acreditivos negociados a plazo de importaciones chilenas
+433250424	               Otros créditos para importaciones chilenas
+433250425	               Acreditivos negociados a plazo de operaciones entre terceros países
+433250426	               Otros créditos para operaciones entre terceros países
+433250430	             Deudores en cuentas corrientes
+433250440	             Deudores por tarjetas de crédito
+433250450	             Operaciones de factoraje
+433250451	               Factoring con responsabilidad
+433250452	               Factoring sin responsabilidad
+433250460	             Operaciones de leasing financiero comercial
+433250461	               Leasing por bienes inmobiliarios
+433250462	               Leasing por bienes no inmobiliarios
+433250470	             Préstamos estudiantiles
+433250480	             Otros créditos y cuentas por cobrar
+433250481	               Deudores por pago de obligaciones avaladas
+433250482	               Deudores por boletas de garantía pagadas
+433250483	               Otras cuentas por cobrar
+433250500	          Colocaciones para vivienda
+433250600	          Colocaciones de consumo
+433260000	       Otros activos
+433300000	       Pasivos financieros a costo amortizado
+433300100	          Depósitos y otras obligaciones a la vista
+433300200	          Depósitos y otras captaciones a plazo
+433300300	          Obligaciones por pactos de retrocompra y préstamos de valores
+433300400	          Obligaciones con bancos
+433300500	          Instrumentos de deuda emitidos
+433300600	          Letras de Créditos
+433300700	          Bonos corrientes
+433300900	          Bonos hipotecarios
+433301000	          Otras obligaciones financieras
+433310000	       Pasivos financieros para negociar a valor razonable con cambios en resultados
+433320000	       Pasivos financieros designados a valor razonable con cambios en resultados
+433330000	       Instrumentos financieros de capital regulatorio emitidos
+433330100	          Bonos subordinados
+433330200	          Bonos sin plazo fijo de vencimiento
+433500100	     Resultado neto de derivados en coberturas contables del riesgo por moneda extranjera
+433500101	               Utilidad por contratos de derivados financieros para cobertura contable de activos financieros
+433500102	               Pérdida por contratos de derivados financieros para cobertura contable de activos financieros
+433500103	               Utilidad por contratos de derivados financieros para cobertura contable de pasivos financieros
+433500104	               Pérdida por contratos de derivados financieros para cobertura contable de pasivos financieros
+434000000	RESULTADO FINANCIERO POR RECLASIFICACIONES DE ACTIVOS FINANCIEROS POR CAMBIO DE MODELO DE NEGOCIO
+434000100	          Desde activos financieros a costo amortizado a activos financieros para negociar a valor razonable con cambios en resultados
+434000101	               Adeudado por bancos
+434000102	               Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+434000103	               Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+434000104	               Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+434000109	               Otros instrumentos financieros
+434000200	          Desde activos financieros a valor razonable con cambios en otro resultado integral a activos financieros para negociar a valor razonable con cambios en resultados
+434000201	               Adeudado por bancos
+434000202	               Créditos y cuentas por cobrar a clientes - Colocaciones comerciales
+434000203	               Créditos y cuentas por cobrar a clientes - Colocaciones para vivienda
+434000204	               Créditos y cuentas por cobrar a clientes - Colocaciones de consumo
+434000209	               Otros instrumentos financieros
+435200000	OTRO RESULTADO FINANCIERO POR MODIFICACIONES DE ACTIVOS Y PASIVOS FINANCIEROS
+435200100	          Activos financieros a costo amortizado
+435200101	               Derechos por pactos de retroventa
+435200102	               Instrumentos financieros de deuda
+435200103	               Otros instrumentos financieros
+435200200	          Activos financieros a valor razonable con cambios en otro resultado integral
+435200201	               Instrumentos financieros de deuda
+435200202	               Otros instrumentos financieros
+435200300	          Pasivos financieros a costo amortizado
+435200301	               Depósitos y otras obligaciones a la vista
+435200302	               Depósitos y otras captaciones a plazo
+435200303	               Obligaciones por pactos de retrocompra y prestamos de valores
+435200304	               Obligaciones con bancos
+435200305	               Instrumentos de deuda emitidos – Letras de créditos
+435200306	               Instrumentos de deuda emitidos – Bonos corrientes
+435200308	               Instrumentos de deuda emitidos – Bonos hipotecarios
+435200309	               Otras obligaciones financieras
+435200400	          Obligaciones por contratos de arrendamiento
+435200500	          Instrumentos financieros de capital regulatorio emitidos
+435200501	               Bonos subordinados
+435200502	               Bonos sin plazo fijo de vencimiento
+435200503	               Acciones preferentes
+435300000	OTRO RESULTADO FINANCIERO POR COBERTURAS CONTABLES INEFECTIVAS
+435300100	          Resultado por coberturas contables inefectivas de flujo de caja
+435300200	          Resultado por coberturas contables inefectivas de inversión neta en el exterior
+435400000	OTRO RESULTADO FINANCIERO POR COBERTURAS CONTABLES DE OTRO TIPO
+435400100	          Coberturas de otro tipo de activos financieros
+435400101	               Utilidad por instrumentos de cobertura
+435400102	               Pérdida por instrumentos de cobertura
+435400103	               Resultados por ajuste de activos financieros cubiertos
+540000000	RESULTADO FINANCIERO NETO
+440000000	RESULTADO POR INVERSIONES EN SOCIEDADES
+442000100	          Resultado por inversiones en sociedades
+442000101	               Sucursales en el exterior
+442000102	               Sociedades controladas en el país
+442000103	               Sociedades controladas en el exterior
+442000104	               Sociedades con influencia significativa en el país
+442000105	               Sociedades con influencia significativa en el exterior
+442000106	               Inversiones en sociedades como un negocio conjunto en el país
+442000107	               Inversiones en sociedades como un negocio conjunto en el exterior
+442000108	               Inversiones minoritarias en otras sociedades en el país
+442000109	               Inversiones minoritarias en otras sociedades en el exterior
+444000100	          Resultado por venta de participaciones en sociedades
+444000101	               Sucursales en el exterior
+444000102	               Sociedades controladas en el país
+444000103	               Sociedades controladas en el exterior
+444000104	               Sociedades con influencia significativa en el país
+444000105	               Sociedades con influencia significativa en el exterior
+444000106	               Inversiones en sociedades como un negocio conjunto en el país
+444000107	               Inversiones en sociedades como un negocio conjunto en el exterior
+450000000	RESULTADO DE ACTIVOS NO CORRIENTES Y GRUPOS ENAJENABLES PARA LA VENTA NO ADMISIBLES COMO OPERACIONES DISCONTINUADAS
+451000000	     Resultado neto por bienes recibidos en pago o adjudicados en remate judicial
+451000100	          Resultado por venta de bienes recibidos en pago o adjudicados en remate judicial
+451000101	               Resultado por venta de bienes recibidos en pago o adjudicados en remate judicial con partes relacionadas
+451000102	               Resultado por venta de bienes recibidos en pago o adjudicados en remate judicial con terceros no relacionados
+451000200	          Otros ingresos por bienes recibidos en pago o adjudicados en remate judicial
+451000300	          Provisiones por ajustes al valor realizable neto de bienes recibidos en pago o adjudicados en remate judicial
+451000400	          Castigos de bienes recibidos en pago o adjudicados en remate judicial
+451000500	          Gastos por mantención de bienes recibidos en pago o adjudicados en remate judicial
+452000100	          Activos no corrientes para la venta
+452000101	               Inversiones en sociedades
+452000102	               Activos intangibles
+452000103	               Activos fijos
+452000104	               Activos por recuperación de bienes cedidos en operaciones de leasing financiero
+452000109	               Otros activos
+452000200	          Grupos enajenables para la venta
+455000000	OTROS INGRESOS OPERACIONALES
+455000100	          Indemnizaciones de compañías de seguros por siniestros distintos a eventos de riesgo operacional
+455000200	          Ingreso neto por propiedades de inversión
+455000300	          Ingresos por las marcas de tarjetas emitidas (VISA, MC etc.)
+455000400	          Ingresos de bancos corresponsales
+455000500	          Ingresos distintos a intereses y comisiones por contratos de arrendamiento
+455000600	          Ingresos por recuperación de gastos
+455000900	          Otros ingresos
+550000000	TOTAL INGRESOS OPERACIONALES
+462000000	GASTOS POR OBLIGACIONES DE BENEFICIOS A EMPLEADOS
+462100100	          Gastos por beneficios a empleados de corto plazo
+462100101	               Remuneración
+462100102	               Incentivos (bonos de desempeño)
+462100103	               Gratificación legal
+462100190	               Otros
+462200100	          Gastos por beneficios a empleados post-empleo
+462300100	          Gastos por beneficios a empleados de largo plazo
+462300101	               Remuneración
+462300102	               Incentivos (bonos de desempeño)
+462300190	               Otros
+462400100	          Gastos por beneficios a empleados por término de contrato laboral
+462400101	               Indemnizaciones por años de servicios
+462400190	               Otros
+462500100	          Gastos por pagos a empleados basados en acciones o instrumentos de patrimonio
+462500101	               Transacciones con pagos basados en acciones liquidados con instrumentos de patrimonio
+462500102	               Transacciones con pagos basados en acciones liquidados en efectivo
+462600100	          Gastos por obligaciones por planes post-empleo de contribución definida
+462700100	          Gastos por obligaciones por planes post-empleo de beneficios definidos
+462800100	          Gastos por otras obligaciones con el personal
+462900100	          Otros gastos del personal
+462900101	               Gastos de capacitación
+462900102	               Gastos por sala cuna y jardín infantil
+462900190	               Otros
+464000000	GASTOS DE ADMINISTRACIÓN
+464100100	          Gastos generales de administración          
+464100101	               Gastos por contratos de arrendamiento a corto plazo
+464100102	               Gastos por contratos de arrendamiento de bajo valor
+464100103	               Otros gastos de obligaciones por contratos de arrendamiento
+464100104	               Mantenimiento y reparación de activo fijo
+464100105	               Primas de seguros excepto para cubrir eventos de riesgo operacional
+464100106	               Materiales de oficina
+464100107	               Gastos de informática y comunicaciones
+464100108	               Alumbrado, calefacción y otros servicios
+464100109	               Servicios de vigilancia y transporte de valores
+464100110	               Gastos de representación y desplazamiento del personal
+464100111	               Gastos judiciales y notariales
+464100112	               Honorarios por revisión y auditoría de los estados financieros por parte del auditor externo
+464100113	               Honorarios por asesorías y consultorías realizadas por parte del auditor externo
+464100114	               Honorarios por asesorías y consultorías realizadas por otras empresas de auditoría
+464100115	               Honorarios por clasificación de títulos
+464100116	               Honorarios por otros informes técnicos
+464100117	               Multas aplicadas por la CMF
+464100118	               Multas aplicadas por otros organismos
+464100190	               Otros gastos generales de administración
+464200100	          Servicios subcontratados
+464200101	               Procesamiento de datos
+464200102	               Servicio de desarrollo tecnológico, certificación y testing tecnológico
+464200103	               Servicio externo de administración de recursos humanos y de suministro de personal externo
+464200104	               Servicio de tasaciones
+464200105	               Servicio de Call Center para ventas, marketing, control calidad servicio al cliente
+464200106	               Servicio de cobranza externa
+464200107	               Servicio externo de administración y mantención de cajeros automáticos
+464200108	               Servicio externo de aseo, casino, custodia de archivos y documentos, almacenamiento de muebles y equipos
+464200109	               Servicios de venta y distribución de productos
+464200110	               Servicio externo de evaluación de créditos
+464200190	               Otros servicios subcontratados
+464300100	          Gastos del Directorio
+464300101	               Remuneraciones del Directorio
+464300102	               Otros gastos del Directorio
+464400100	          Publicidad
+464500100	          Impuestos, contribuciones y otros cargos legales
+464500101	               Contribuciones de bienes raíces
+464500102	               Patentes municipales
+464500103	               Otros impuestos distintos a la renta
+464500104	               Otros impuestos distintos a la renta
+464500190	               Otros cargos legales
+466000000	DEPRECIACIÓN Y AMORTIZACIÓN
+466100000	     Amortizaciones por activos intangibles
+466100100	          Otros activos intangibles originados en combinaciones de negocios
+466100101	               Relación con clientes
+466100102	               Contrato de exclusividad
+466100103	               Depósitos estables (“core deposit”)
+466100104	               Derecho a usar marcas
+466100105	               Derecho a usar canales
+466100106	               Contrato para recaudación de servicios
+466100107	               Software o programas computacionales
+466100108	               Derechos por servicios de créditos hipotecarios (“mortgage servicing rights”)
+466100109	               Otros intangibles
+466100200	          Otros activos intangibles originados en forma independiente
+466100201	               Software o programas computacionales adquiridos en forma independiente
+466100202	               Software o programas computacionales generados internamente
+466100203	               Derechos por servicios de créditos hipotecarios (“mortgage servicing rights”)
+466100209	               Otros intangibles
+466200000	     Depreciaciones por activos fijos
+466200100	          Edificios y terrenos
+466200101	               Edificios
+466200102	               Terrenos
+466200200	          Otros activos fijos
+466200201	               Equipos
+466200209	               Otros activos fijos
+466300000	     Depreciaciones y amortizaciones por activo por derecho a usar bienes en arrendamiento
+466300110	          Edificios y terrenos
+466300111	               Edificios
+466300112	               Terrenos
+466300220	          Otros activos fijos
+466300221	               Equipos
+466300229	               Otros activos fijos
+466300330	          Depreciaciones por mejoras en inmuebles arrendados como activos por derecho a usar bienes en arrendamiento
+466300440	          Amortizaciones por derecho a usar otros activos intangibles en arrendamiento
+466300441	               Software o programas computacionales
+466300449	               Otros intangibles
+466400000	     Depreciaciones de otros activos por propiedades de inversión
+466500000	     Amortización de otros activos por activo de ingresos por actividades habituales procedentes de contratos con clientes
+468000000	DETERIORO DE ACTIVOS NO FINANCIEROS
+468100100	          Deterioro de inversiones en sociedades
+468100101	               Sucursales en el exterior
+468100102	               Sociedades controladas en el país
+468100103	               Sociedades controladas en el exterior
+468100104	               Sociedades con influencia significativa en el país
+468100105	               Sociedades con influencia significativa en el exterior
+468100106	               Inversiones en sociedades como un negocio conjunto en el país
+468100107	               Inversiones en sociedades como un negocio conjunto en el exterior
+468200000	     Deterioro de activos intangibles
+468200100	          Goodwill por combinaciones de negocio
+468200200	          Otros activos intangibles originados en combinaciones de negocios
+468200201	               Relación con clientes
+468200202	               Contrato de exclusividad
+468200203	               Depósitos estables (“core deposit”)
+468200204	               Derecho a usar marcas
+468200205	               Derecho a usar canales
+468200206	               Contrato para recaudación de servicios
+468200207	               Software o programas computacionales
+468200208	               Derechos de servicios de créditos hipotecarios (“mortgage servicing rights”)
+468200209	               Otros intangibles
+468200300	          Otros activos intangibles originados en forma independiente
+468200301	               Software o programas computacionales adquiridos en forma independiente
+468200302	               Software o programas computacionales generados internamente
+468200303	               Derechos de servicios de créditos hipotecarios (“mortgage servicing rights”)
+468200309	               Otros intangibles
+468300000	     Deterioro de activos fijos
+468300100	          Edificios y terrenos
+468300101	               Edificios
+468300102	               Terrenos
+468300200	          Otros activos fijos
+468300201	               Equipos
+468300209	               Otros activos fijos
+468400000	     Deterioro de activo por derecho a usar bienes en arrendamiento
+468400200	          Edificios y terrenos
+468400201	               Edificios
+468400202	               Terrenos
+468400300	          Deterioro por mejoras en inmuebles arrendados como activos por derecho a usar bienes en arrendamiento
+468400400	          Otros activos fijos
+468400401	               Equipos
+468400409	               Otros activos fijos
+468400500	          Deterioro por derecho a usar otros activos intangibles en arrendamiento
+468400501	               Software o programas computacionales
+468400509	               Otros intangibles
+468500000	     Deterioro de activos por propiedades de inversión
+468600000	Deterioro de activos de ingresos por actividades habituales procedentes de contratos con clientes
+468800000	     Ganancia por una adquisición a través de una combinación de negocios en términos muy ventajosos
+469000000	OTROS GASTOS OPERACIONALES
+469000100	          Gasto de primas de seguros para cubrir eventos de riesgo operacional
+469000300	               Gasto de provisiones por riesgo operacional
+469000301	Constitución de provisiones por riesgo operacional
+469000302	Liberación de provisiones por riesgo operacional
+469000400	Recuperaciones de gastos por eventos de riesgo operacional
+469000401	Recuperaciones de gastos por eventos de riesgo operacional originadas por el pago de indemnizaciones de seguros
+469000402	Otras recuperaciones de gastos por eventos de riesgo operacional no procedentes de indemnizaciones de seguros
+469000500	          Gasto de provisiones por comisiones de intermediación de seguros no devengadas
+469000600	          Gasto de provisiones por comisiones de recaudación de primas de seguros no devengadas
+469000700	          Provisiones por planes de reestructuración
+469000800	          Provisiones por juicios y litigios
+469000900	          Otras provisiones por otras contingencias
+469001000	          Gastos por operaciones crediticias de leasing financiero
+469001100	          Gastos por operaciones crediticias de factoring
+469001200	          Gastos por administración, mantención y soporte de cajeros automáticos (ATM)
+469001300	          Gastos por adopción de nuevas tecnologías en tarjetas
+469001400	          Gastos por emisión de instrumentos financieros de capital regulatorio
+469001401	               Gastos por emisión de bonos sin plazo fijo de vencimiento
+469001402	               Gastos por emisión de acciones preferentes  
+469001900	          Otros gastos operacionales
+560000000	TOTAL GASTOS OPERACIONALES
+570000000	RESULTADO OPERACIONAL ANTES DE PÉRDIDAS CREDITICIAS
+470000000	GASTO POR PÉRDIDAS CREDITICIAS
+471000000	GASTO DE PROVISIONES CONSTITUIDAS POR RIESGO DE CRÉDITO DE COLOCACIONES A COSTO AMORTIZADO
+471100100	          Gasto de provisiones constituidas por riesgo de crédito de adeudado por bancos
+471100101	               Provisiones evaluación individual - cartera normal
+471100102	               Provisiones evaluación individual - cartera subestándar
+471100103	               Provisiones evaluación individual - cartera en incumplimiento
+471200100	          Gasto de provisiones constituidas por riesgo de crédito de colocaciones comerciales
+471200101	               Provisiones evaluación individual - cartera normal
+471200102	               Provisiones evaluación individual - cartera subestándar
+471200103	               Provisiones evaluación individual - cartera en incumplimiento
+471200104	               Provisiones evaluación grupal - cartera normal
+471200105	               Provisiones evaluación grupal - cartera en incumplimiento
+471200109	               Provisiones por deducible de garantías FOGAPE Covid-19
+471300100	          Gasto de provisiones constituidas por riesgo de crédito de colocaciones para vivienda
+471300101	               Provisiones evaluación grupal - cartera normal
+471300102	               Provisiones evaluación grupal - cartera en incumplimiento
+471400100	          Gasto de provisiones constituidas por riesgo de crédito de colocaciones de consumo
+471400101	               Provisiones evaluación grupal - cartera normal
+471400102	               Provisiones evaluación grupal - cartera en incumplimiento
+472000000	GASTO DE PROVISIONES ESPECIALES POR RIESGO DE CRÉDITO
+472050100	          Gasto de provisiones por riesgo de crédito para créditos contingentes
+472050101	               Adeudado por bancos
+472050102	               Colocaciones comerciales
+472050103	               Colocaciones de consumo
+472100100	          Gasto de provisiones por riesgo país para operaciones con deudores domiciliados en el exterior
+472150100	          Gasto de provisiones especiales para créditos al exterior
+472200100	          Gasto de provisiones adicionales para colocaciones
+472200101	               Provisiones adicionales colocaciones comerciales
+472200102	               Provisiones adicionales colocaciones para vivienda
+472200103	               Provisiones adicionales colocaciones de consumo
+472250100	          Gasto de provisiones por ajustes a provisión mínima exigida para cartera normal con evaluación individual
+472250101	               Ajuste a provisión mínima adeudado por bancos en el país
+472250102	               Ajuste a provisión mínima colocaciones comerciales en el país
+472250103	               Ajuste a provisión mínima créditos contingentes comerciales en el país
+472250104	               Ajuste a provisión mínima adeudado por bancos en el exterior
+472250105	               Ajuste a provisión mínima colocaciones comerciales en el exterior
+472250106	               Ajuste a provisión mínima créditos contingentes comerciales en el exterior
+472500100	          Gasto de provisiones constituidas por riesgo de crédito a raiz de exigencias prudenciales complementarias
+472500101	               Provisiones colocaciones comerciales
+472500102	               Provisiones colocaciones para vivienda
+472500103	               Provisiones colocaciones de consumo
+474000100	RECUPERACIÓN DE CRÉDITOS CASTIGADOS
+474000101	               Recuperación de adeudado por bancos castigados
+474000102	               Recuperación de colocaciones comerciales castigadas
+474000103	               Recuperación de colocaciones para vivienda castigadas
+474000104	               Recuperación de colocaciones de consumo castigadas
+476000000	DETERIORO POR RIESGO DE CRÉDITO DE OTROS ACTIVOS FINANCIEROS A COSTO AMORTIZADO Y ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+476400000	     DETERIORO POR RIESGO DE CRÉDITO DE ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL
+476400100	          Deterioro de activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+476400101	               Instrumentos financieros de deuda emitidos en el país
+476400102	               Instrumentos financieros de deuda emitidos en el exterior
+476400103	               Adeudado por bancos
+476400105	               Colocaciones comerciales
+476400106	               Colocaciones para vivienda
+476400107	               Colocaciones de consumo
+476400109	               Otros instrumentos financieros
+476400200	          Deterioro de activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+476400201	               Instrumentos financieros de deuda emitidos en el país
+476400202	               Instrumentos financieros de deuda emitidos en el exterior
+476400203	               Adeudado por bancos
+476400205	               Colocaciones comerciales
+476400206	               Colocaciones para vivienda
+476400207	               Colocaciones de consumo
+476400209	               Otros instrumentos financieros
+476400300	          Deterioro de activos financieros con deterioro crediticio (fase 3)
+476400301	               Instrumentos financieros de deuda emitidos en el país
+476400302	               Instrumentos financieros de deuda emitidos en el exterior
+476400303	               Adeudado por bancos
+476400305	               Colocaciones comerciales
+476400306	               Colocaciones para vivienda
+476400307	               Colocaciones de consumo
+476400309	               Otros instrumentos financieros
+476800000	     DETERIORO POR RIESGO DE CRÉDITO DE OTROS ACTIVOS FINANCIEROS A COSTO AMORTIZADO
+476800100	          Deterioro de activos financieros sin un aumento significativo del riesgo de crédito desde el reconocimiento inicial (fase 1)
+476800101	               Derechos por pactos de retroventa y prestamos de valores
+476800102	               Instrumentos financieros de deuda emitidos en el país
+476800103	               Instrumentos financieros de deuda emitidos en el exterior
+476800109	               Otros instrumentos financieros
+476800200	          Deterioro de activos financieros con un aumento significativo del riesgo de crédito desde el reconocimiento inicial, pero sin deterioro crediticio (fase 2)
+476800201	               Derechos por pactos de retroventa
+476800202	               Instrumentos financieros de deuda emitidos en el país
+476800203	               Instrumentos financieros de deuda emitidos en el exterior
+476800209	               Otros instrumentos financieros
+476800300	          Deterioro de activos financieros con deterioro crediticio (fase 3)
+476800301	               Derechos por pactos de retroventa
+476800302	               Instrumentos financieros de deuda emitidos en el país
+476800303	               Instrumentos financieros de deuda emitidos en el exterior
+476800309	               Otros instrumentos financieros
+580000000	RESULTADO OPERACIONAL
+585000000	RESULTADO DE OPERACIONES CONTÍNUAS ANTES DE IMPUESTOS
+480000000	IMPUESTO A LA RENTA
+481000000	     Provisión impuesto a la renta
+482000000	     Impuestos diferidos
+489000000	     Otros
+586000000	RESULTADO DE OPERACIONES CONTÍNUAS DESPUÉS DE IMPUESTOS
+587000000	RESULTADO DE OPERACIONES DISCONTINUADAS ANTES DE IMPUESTOS
+587500000	IMPUESTOS DE OPERACIONES DISCONTINUADAS
+587750000	RESULTADO DE OPERACIONES DISCONTINUADAS DESPUÉS DE IMPUESTOS
+590000000	UTILIDAD (PÉRDIDA) DEL EJERCICIO (O PERIODO)
+594000000	RESULTADO DE LOS PROPIETARIOS
+598000000	RESULTADO DEL INTERES NO CONTROLADOR
+601000000	ELEMENTOS QUE NO SE RECLASIFICARÁN EN RESULTADOS
+601000100	Nuevas mediciones del pasivo (activo) por beneficios definidos neto y resultados actuariales por otros planes de beneficios al personal
+601000200	          Cambios netos del valor razonable de instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral
+601000201	               Cambios del valor razonable de instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral
+601000202	               Resultado por venta de participaciones en instrumentos de patrimonio (acciones) por inversiones minoritarias en sociedades en el país.
+601000203	               Resultado por venta de participaciones en instrumentos de patrimonio (acciones) por inversiones minoritarias en sociedades en el exterior.
+601000209	               Otros
+601000300	          Cambios del valor razonable de pasivos financieros designados a valor razonable con cambios en resultados atribuibles a cambios en el riesgo de crédito del pasivo financiero
+601000400	          Participación en otro resultado integral de entidades registradas según el método de participación
+601000500	          Activos no corrientes y grupos enajenables para la venta
+601000900	          Otros
+601500000	OTROS RESULTADOS INTEGRALES QUE NO SE RECLASIFICARÁN AL RESULTADO ANTES DE IMPUESTOS
+601750000	     Impuesto a la renta sobre otros resultados integrales que no se reclasificarán al resultado
+601800000	TOTAL OTROS RESULTADOS INTEGRALES QUE NO SE RECLASIFICARÁN AL RESULTADO DESPUÉS DE IMPUESTOS
+602000000	ELEMENTOS QUE PUEDEN RECLASIFICARSE EN RESULTADOS
+602000100	          Cambios del valor razonable de activos financieros a valor razonable con cambios en otro resultado integral
+602000200	          Diferencias de conversión por entidades en el exterior
+602000300	          Cobertura contable de inversiones netas en entidades en el exterior
+602000400	          Cobertura contable de flujo de efectivo
+602000500	          Elementos no designados de instrumentos de cobertura contable
+602000600	          Participación en otro resultado integral de entidades registradas según el método de participación
+602000700	          Activos no corrientes y grupos enajenables para la venta
+602000900	          Otros
+602500000	OTROS RESULTADOS INTEGRALES QUE PUEDEN RECLASIFICARSE EN RESULTADOS ANTES DE IMPUESTOS
+602750000	     Impuesto a la renta sobre otros resultados integrales que pueden reclasificarse en resultados
+602800000	TOTAL OTROS RESULTADOS INTEGRALES QUE PUEDEN RECLASIFICARSE EN RESULTADOS DESPUÉS DE IMPUESTOS
+603000000	OTRO RESULTADO INTEGRAL TOTAL DEL EJERCICIO (o PERIODO)
+690000000	RESULTADO INTEGRAL DEL EJERCICIO (o PERIODO) 
+694000000	RESULTADO INTEGRAL DE LOS PROPIETARIOS
+698000000	RESULTADO INTEGRAL DEL INTERES NO CONTROLADOR
+
+Notas:
+Más información sobre este archivo en Compendio de Normas Contables CMF Bancos, Capítulo C-3
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29911.html
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29915.html
+RAN Recopilación Actualizada de Normas de Bancos
+https://www.cmfchile.cl/portal/principal/613/w3-propertyvalue-29580.html

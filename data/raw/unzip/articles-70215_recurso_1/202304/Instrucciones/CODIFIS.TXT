@@ -1,0 +1,62 @@
+﻿CODIGOS DE INSTITUCIONES FINANCIERAS Y SUS NOMBRES
+
+Periodo: Año 2023 - Mes: Abril
+
+I.	COD. Y NOMBRES DE INSTITUCIONES FINANCIERAS VIGENTES:
+
+COD. IFI	RAZON SOCIAL
+
+001	BANCO DE CHILE
+009	BANCO INTERNACIONAL
+012	BANCO DEL ESTADO DE CHILE
+014	SCOTIABANK CHILE (1)(8)
+016	BANCO DE CREDITO E INVERSIONES
+028	BANCO BICE
+031	HSBC BANK (CHILE)
+037	BANCO SANTANDER-CHILE
+039	BANCO ITAU CHILE (4)
+041	JP MORGAN CHASE BANK N.A.
+049	BANCO SECURITY
+051	BANCO FALABELLA
+053	BANCO RIPLEY
+055	BANCO CONSORCIO (2)
+059	BANCO BTG PACTUAL CHILE (3)
+060	CHINA CONSTRUCTION BANK (5)
+061	BANK OF CHINA, AGENCIA EN CHILE (7)
+999	TOTAL SISTEMA FINANCIERO
+
+
+NOTAS BANCOS Y CÓDIGOS: 
+
+(1) Con fecha 1° de Noviembre de 2009 se produjo la disolución anticipada del Banco del Desarrollo (Código SBIF: 507), el que ha sido absorbido por Scotiabank Sud Americano, el cual cambió su razón social por la de Scotiabank Chile.
+(2) A partir del mes de Enero de 2010 el Banco Monex (Código SBIF: 055), pasó a denominarse Banco Consorcio.
+(3) A partir del mes de Enero de 2015 se incluye la información del BANCO BTG PACTUAL CHILE (Código SBIF: 059).
+(4) A partir del mes de Abril de 2016 se produjo la fusión entre 027 CORPBANCA y 039 BANCO ITAU CHILE, dando origen a 039 ITAU CORPBANCA. A partir de Abril 2023, pasó a denominarse Banco Itaú Chile.
+(5) A partir del mes de Junio de 2016 se incluye la información de CHINA CONSTRUCTION BANK (Código SBIF: 060).
+(6) A partir de 1 abril de 2018 THE BANK OF TOKYO-MITSUBISHI UFJ, LTD. (Código SBIF: 045) pasó a llamarse MUFG BANK, LTD.
+(7) A partir del mes de julio de 2018 se incluye la información de BANK OF CHINA, AGENCIA EN CHILE (Código SBIF: 061).
+(8) Con fecha 20 de agosto de 2018, la SBIF aprobó la fusión acordada por Scotiabank Chile con el Banco Bilbao Vizcaya Argentaria, Chile (504), que fue absorbido al materializarse la fusión el 1 de septiembre de 2018. 
+
+OTRAS INSTITUCIONES
+
+A partir del mes de Diciembre de 2010 el The Royal Bank of Scotland (Chile) (cod.046), pasó a denominarse Banco Sudamericano (cod.046). Este banco (Banco Sudamericano - cod.046) a partir del mes de octubre de 2011 pasó a denominarse FINTESA S.A., entidad no fiscalizada por la SBIF, dejando de aparecer en el listado de códigos de bancos.
+
+A partir del mes de Enero de 2009 comienza a reportar información el Banco DnB NOR BANK ASA con código 058. A partir de diciembre de 2011 pasó a denominarse DnB BANK ASA. A partir de diciembre de 2012 deja de operar en Chile.
+
+Agosto de 2016 es el último mes en que se informa el banco 052 DEUTSCHE BANK (CHILE) cuya disolución se aprobó mediante la Resolución N° 299.
+
+Con fecha 10 de febrero de 2017, la SBIF aprobó la disolución anticipada de Banco Penta (cod.056) mediante la Resolución N° 282.
+
+Con fecha 30 de abril de 2017, la SBIF aprobó la disolución de Banco Rabobank (cod.054) mediante la Resolución N° 216.
+
+Con fecha 24 de octubre de 2018, la SBIF aprobó la cancelación de la sucursal establecida en Chile del Banco de la Nación Argentina (cod.043) mediante la Resolución N° 2.411.
+
+Con fecha 28 de febrero de 2019, la SBIF aprobó la cancelación de la sucursal establecida en Chile del MUFG BANK, LTD (cod.045) mediante la Resolución N° 758.
+
+Con fecha 28 de diciembre de 2021 la CMF emite la Resolución Nº 8158 que autoriza la cancelación y término anticipado de la sucursal establecida en Chile del Banco do Brasil S.A. (cod.017).
+
+MÁS INFORMACIÓN: 
+
+Para más información sobre la historia de los bancois en Chile visite el sitio web Cronología Bancaria desarrollado por CMF en https://cronologiabancaria.cmfchile.cl/sbifweb/servlet/CronologiaBancaria?indice=8.0
+
+

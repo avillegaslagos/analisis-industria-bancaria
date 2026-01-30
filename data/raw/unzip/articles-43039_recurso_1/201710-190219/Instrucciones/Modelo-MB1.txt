@@ -1,0 +1,231 @@
+Descriptores de cuentas usados en reporte MB1
+
+Periodo: Año 2017 - Mes: Octubre
+
+1000000	ACTIVOS                                                                                             
+
+1100000	EFECTIVO Y DEPOSITOS EN BANCOS                                                                      
+1100100	Efectivo                                                                                            
+1100200	Depósitos en el Banco Central de Chile                                                              
+1100300	Depósitos en bancos del país                                                                        
+1100400	Depósitos en el exterior                                                                            
+
+1130000	OPERACIONES CON LIQUIDACION EN CURSO                                                                
+1130100	Documentos a cargo de otros bancos (canje)                                                          
+1130200	Transferencias de fondos en curso                                                                   
+
+1150000	INSTRUMENTOS PARA NEGOCIACIÓN                                                                       
+1150100	Del Estado y Banco Central de Chile                                                                 
+1150200	Otros instrumentos emitidos en el país                                                              
+1150300	Instrumentos emitidos en el exterior                                                                
+1150400	Inversiones en Fondos Mutuos                                                                        
+
+1160000	CONTRATOS DE RETROCOMPRA Y PRÉSTAMOS DE VALORES                                                     
+1160100	Operaciones con bancos del país                                                                     
+1160200	Operaciones con otras entidades                                                                     
+
+1250000	CONTRATOS DE DERIVADOS FINANCIEROS                                                                  
+1250100	Contratos de negociación                                                                            
+1250200	Contratos para cobertura contable                                                                   
+
+1270000	ADEUDADO POR BANCOS                                                                                 
+1270100	Banco del país                                                                                      
+1270112	Préstamos interbancarios de liquidez                                                                
+1270113	Préstamos interbancarios comerciales                                                                
+1270116	Créditos comercio exterior exportaciones chilenas                                                   
+1270117	Créditos comercio exterior importaciones chilenas                                                   
+1270118	Créditos comercio exterior entre terceros países                                                    
+1270190	Provisiones para créditos con bancos del país                                                       
+1270200	Bancos del exterior                                                                                 
+1270202	Préstamos interbancarios de liquidez                                                                
+1270203	Préstamos interbancarios comerciales                                                                
+1270206	Créditos comercio exterior exportaciones chilenas                                                   
+1270207	Créditos comercio exterior importaciones chilenas                                                   
+1270208	Créditos comercio exterior entre terceros países                                                    
+1270290	Provisiones para créditos con bancos del exterior                                                   
+1270300	Banco Central de Chile                                                                              
+
+1300000	CRÉDITOS Y CUENTAS POR COBRAR A CLIENTES                                                            
+
+1302000	COLOCACIONES COMERCIALES                                                                            
+1302100	Préstamos comerciales                                                                               
+1302101	Préstamos en el país                                                                                
+1302102	Préstamos en el exterior                                                                            
+1302170	Préstamos con letras de crédito para fines generales                                                
+1302180	Préstamos con mutuos hipotecarios endosables                                                        
+1302200	Créditos de comercio exterior                                                                       
+1302201	Acreditivos negociados a plazo de exportaciones chilenas                                            
+1302202	Otros créditos para exportaciones chilenas                                                          
+1302241	Acreditivos negociados a plazo de importaciones chilenas                                            
+1302242	Otros créditos para importaciones chilenas                                                          
+1302281	Acreditivos negociados a plazo de operaciones entre terceros países                                 
+1302282	Otros créditos para operaciones entre terceros países                                               
+1302300	Deudores en cuentas corrientes                                                                      
+1302500	Operaciones de factoraje                                                                            
+1302600	Préstamos estudiantiles                                                                             
+1302601	Créditos para estudios superiores Ley N° 20.027                                                     
+1302602	Créditos con garantía CORFO                                                                         
+1302604	Otros créditos para estudios superiores                                                             
+1302800	Operaciones de leasing comercial                                                                    
+1302900	Otros créditos y cuentas por cobrar                                                                 
+
+1304000	COLOCACIONES PARA VIVIENDA                                                                          
+1304100	Préstamos con letras de crédito                                                                     
+1304101	Con letras de crédito para vivienda                                                                 
+1304102	Con letras de crédito para fines generales                                                          
+1304200	Préstamos con mutuos hipotecarios endosable                                                         
+1304400	Prestamos con mutuos financiados con bonos hipotecarios                                             
+1304500	Otros créditos con mutuos para vivienda                                                             
+1304600	Créditos provenientes de la ANAP                                                                    
+1304800	Operaciones de leasing para vivienda                                                                
+1304900	Otros créditos y cuentas por cobrar                                                                 
+
+1305000	COLOCACIONES DE CONSUMO                                                                             
+1305100	Créditos de consumo en cuotas                                                                       
+1305300	Deudores en cuentas corrientes                                                                      
+1305400	Deudores por tarjetas de crédito                                                                    
+1305800	Operaciones de leasing de consumo                                                                   
+1305900	Otros créditos y cuentas por cobrar                                                                 
+
+1309000	PROVISIONES CONSTITUIDAS                                                                            
+1309100	Provisiones colocaciones comerciales                                                                
+1309200	Provisiones colocaciones para vivienda                                                              
+1309300	Provisiones colocaciones de consumo                                                                 
+
+1350000	INSTRUMENTOS DE INVERSIÓN DISPONIBLES PARA LA VENTA                                                 
+1350100	Del Estado y Banco Central de Chile                                                                 
+1350200	Otros instrumentos emitidos en el país                                                              
+1350300	Instrumentos emitidos en el exterior                                                                
+
+1360000	INSTRUMENTOS DE INVERSIÓN HASTA EL VENCIMIENTO                                                      
+1360100	Del Estado y Banco Central de Chile                                                                 
+1360200	Otros instrumentos emitidos en el país                                                              
+1360300	Instrumentos emitidos en el exterior                                                                
+
+1400000	INVERSIONES EN SOCIEDADES                                                                           
+1400100	Inversiones a valor patrimonial                                                                     
+1400101	Sucursales en el exterior                                                                           
+1400102	Sociedades controladas                                                                              
+1400103	Sociedades con influencia significativa                                                             
+1400200	Acciones o derechos en otras sociedades                                                             
+
+1500000	INTANGIBLES                                                                                         
+1500100	Menor valor de inversiones (Goodwill)                                                               
+1500200	Otros activos intangibles                                                                           
+
+1600000	ACTIVO FIJO                                                                                         
+1600100	Edificios y terrenos                                                                                
+1600200	Otros activos fijos                                                                                 
+
+1700000	IMPUESTOS CORRIENTES                                                                                
+
+1750000	IMPUESTOS DIFERIDOS                                                                                 
+
+1800000	OTROS ACTIVOS                                                                                       
+1800100	Activos para leasing                                                                                
+1800200	Bienes recibidos en pago o adjudicados                                                              
+1800900	Otros activos                                                                                       
+
+2000000	PASIVOS                                                                                             
+
+2100000	DEPOSITOS Y OTRAS OBLIGACIONES A LA VISTA                                                           
+2100100	Cuentas corrientes                                                                                  
+2100109	Cuentas corrientes de otras personas jurídicas                                                      
+2100110	Cuentas corrientes de personas naturales                                                            
+2100200	Otros depósitos y cuentas a la vista                                                                
+2100300	Otras obligaciones a la vista                                                                       
+
+2130000	OPERACIONES CON LIQUIDACION EN CURSO                                                                
+
+2160000	CONTRATOS DE RETROCOMPRA Y PRÉSTAMOS DE VALORES                                                     
+2160100	Operaciones con bancos del país                                                                     
+2160200	Operaciones con otras entidades                                                                     
+
+2200000	DEPOSITOS Y OTRAS CAPTACIONES A PLAZO                                                               
+2200100	Depósitos a plazo                                                                                   
+2200200	Cuentas de ahorro a plazo                                                                           
+2200900	Otros saldos acreedores a plazo                                                                     
+
+2250000	CONTRATOS DE DERIVADOS FINANCIEROS                                                                  
+2250100	Contratos de negociación                                                                            
+2250200	Contratos para cobertura contable                                                                   
+
+2300000	OBLIGACIONES CON BANCOS                                                                             
+
+2301000	BANCOS DEL PAÍS                                                                                     
+2301001	Préstamos interbancarios                                                                            
+
+2302000	BANCOS DEL EXTERIOR                                                                                 
+2302100	Financiamientos de comercio exterior                                                                
+2302200	Préstamos y otras obligaciones                                                                      
+
+2303000	BANCO CENTRAL DE CHILE                                                                              
+2303100	Préstamos y otras obligaciones                                                                      
+2303900	Líneas de crédito reprogramación de deudas                                                          
+
+2400000	INSTRUMENTOS DE DEUDA EMITIDOS                                                                      
+
+2401000	LETRAS DE CREDITO                                                                                   
+
+2402000	BONOS                                                                                               
+2402100	Bonos corrientes                                                                                    
+2402200	Bonos subordinados                                                                                  
+2402300	Bonos hipotecarios                                                                                  
+
+2500000	OTRAS OBLIGACIONES FINANCIERAS                                                                      
+2500100	Obligaciones con el sector público                                                                  
+2500200	Otras obligaciones en el país                                                                       
+2500300	Obligaciones con el exterior                                                                        
+
+2600000	IMPUESTOS CORRIENTES                                                                                
+
+2650000	IMPUESTOS DIFERIDOS                                                                                 
+
+2700000	PROVISIONES                                                                                         
+2700100	Provisiones para beneficios y remuneraciones del personal                                           
+2700200	Provisión para dividendos mínimos                                                                   
+2700300	Provisiones por riesgo de créditos contingentes                                                     
+2700400	Provisiones por contingencias                                                                       
+2700401	Provisiones por riesgo país                                                                         
+2700402	Provisiones especiales para créditos al exterior                                                    
+2700411	Provisiones adicionales colocaciones comerciales                                                    
+2700412	Provisiones adicionales colocaciones para vivienda                                                  
+2700413	Provisiones adicionales colocaciones de consumo                                                     
+2700421	Ajuste a provisión mínima adeudado por bancos                                                       
+2700422	Ajuste a provisión mínima colocaciones comerciales                                                  
+2700423	Ajuste a provisión mínima créditos contingentes                                                     
+2700490	Otras provisiones por contingencias                                                                 
+
+2800000	OTROS PASIVOS                                                                                       
+
+3000000	PATRIMONIO                                                                                          
+
+3101000	CAPITAL                                                                                             
+
+3102000	RESERVAS                                                                                            
+
+3103000	CUENTAS DE VALORACIÓN                                                                               
+
+3104000	UTILIDADES RETENIDAS                                                                                
+3104100	Utilidades retenidas de ejercicios anteriores                                                       
+3104200	Utilidad (pérdida) del ejercicio                                                                    
+3104300	Provisión para dividendos mínimos                                                                   
+
+3200000	INTERES NO CONTROLADOR                                                                              
+
+
+5001000	PATRIMONIO DE LOS PROPIETARIOS                                                                      
+
+5002000	TOTAL PASIVO Y PATRIMONIO                                                                           
+
+5100000	TOTAL COLOCACIONES                                                                                  
+
+
+
+Nota:
+Más información sobre este archivo en Compendio de Normas Contables SBIF, Capítulo C-3
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=3.2&idCategoria=2144
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=C.D.A&idContenido=353
+
+

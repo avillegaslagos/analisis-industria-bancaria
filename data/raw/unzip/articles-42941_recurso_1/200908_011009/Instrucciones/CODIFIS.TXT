@@ -1,0 +1,48 @@
+CODIGOS DE INSTITUCIONES FINANCIERAS Y SUS NOMBRES
+
+Periodo: Año 2009 - Mes: Agosto
+
+I.	COD. Y NOMBRES DE INSTITUCIONES FINANCIERAS VIGENTES:
+
+COD. IFI	RAZON SOCIAL	BANCOS CONSIDERADOS EXTRANJEROS
+001	BANCO DE CHILE
+009	BANCO INTERNACIONAL
+012	BANCO DEL ESTADO DE CHILE
+014	SCOTIABANK SUD AMERICANO
+016	BANCO DE CREDITO E INVERSIONES
+017	BANCO DO BRASIL S.A.	*
+027	CORPBANCA
+028	BANCO BICE
+031	HSBC BANK (CHILE)	
+037	BANCO SANTANDER-CHILE	
+039	BANCO ITAU CHILE	
+041	JP MORGAN CHASE BANK N.A.	*
+043	BANCO DE LA NACION ARGENTINA	*
+045	THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.	*
+046	THE ROYAL BANK OF SCOTLAND (CHILE)	(***)
+049	BANCO SECURITY	
+051	BANCO FALABELLA
+052	DEUTSCHE BANK (CHILE)	
+053	BANCO RIPLEY
+054	RABOBANK CHILE
+055	BANCO MONEX
+056	BANCO PENTA
+057	BANCO PARIS
+058 	DnB NOR BANK ASA * (****)
+504	BBVA BANCO	
+507	BANCO DEL DESARROLLO
+900	BANCOS PRIVADOS
+970	BANCOS ESTABLECIDOS EN CHILE
+980	SUCURSALES DE BANCOS EXTRANJEROS
+999	TOTAL SISTEMA FINANCIERO
+
+
+NOTAS: 
+- Con el fin de reflejar más fielmente la estructura del sistema financiero, la SBIF utiliza para los efectos de la información que debe dar al público según las normas vigentes, la siguiente clasificación de las empresas bancarias: 
+a) Bancos establecidos en Chile,  b) Banco del Estado de Chile, c) Sucursales de bancos extranjeros y d) Sistema Financiero.
+- La suma presentada en los códigos 900 "Bancos Privados" y 970 "Bancos establecidos en Chile" excluye al Banco del Estado (código 012)
+No obstante, el código 999  "Total Sistema Financiero" incluye la totalidad de las instituciones.
+- El código 980 "Sucursales de bancos extranjeros" incluye los bancos considerados Sucursales de bancos extranjeros para fines estadísticos, marcados con * (asterisco).
+-El Código 014 - SCOTIABANK SUD AMERICANO consolida la información de ese banco y la del BANCO DEL DESARROLLO y sus filiales. P?or ello, las agrupaciones 900, 970 y 999 excluyen la información del código 507 - BANCO DEL DESARROLLO ya que ésta va incorporada en el código 014 - SCOTIABANK SUD AMERICANO.
+(***) A partir del mes de Junio de 2008 el Banco ABN Amro Bank (Chile) con código 046, pasó a denominarse The Royal Bank of Scotland (Chile).
+(****) A partir del mes de Enero de 2009 comienza a reportar información el Banco DnB NOR BANK ASA con código 058.

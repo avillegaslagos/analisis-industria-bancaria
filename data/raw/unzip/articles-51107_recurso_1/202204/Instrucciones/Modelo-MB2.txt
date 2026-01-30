@@ -1,0 +1,25 @@
+Descriptores de cuentas usados en reporte MB2
+
+Periodo: Año 2022 - Mes: Abril
+
+CUENTA	GLOSA
+143000000	     Adeudado por bancos
+143100100	          Banco del país
+143200100	          Bancos del exterior
+145000000	       Colocaciones comerciales
+146000000	       Colocaciones para vivienda
+148000000	       Colocaciones de consumo
+500000000	TOTAL COLOCACIONES 
+505000000	TOTAL COLOCACIONES A COSTO AMORTIZADO
+
+
+
+Notas:
+Más información sobre este archivo en Compendio de Normas Contables CMF Bancos, Capítulo C-3
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29911.html
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.cmfchile.cl/portal/principal/605/w3-propertyvalue-29915.html
+RAN Recopilación Actualizada de Normas de Bancos
+https://www.cmfchile.cl/portal/principal/613/w3-propertyvalue-29580.html
+
+

@@ -1,0 +1,111 @@
+Descriptores de cuentas usados en reporte MC1
+
+Periodo: Año 2019 - Mes: Enero
+
+8110000	CARTERA DETERIORADA (*)
+
+  8111000	Adeudado por bancos
+  8113000	Colocaciones comerciales                                                                            
+  8114000	Colocaciones para vivienda                                                                          
+  8115000	Colocaciones de consumo
+
+
+8130000	CASTIGOS DE CREDITOS                                                                                
+  8131000	Adeudado por bancos                                                                               
+  8133000	Colocaciones comerciales                                                                            
+  8134000	Colocaciones para vivienda                                                                          
+  8135000	Colocaciones de consumo                                                                             
+
+8140000	RECUPERACIONES DE CREDITOS CASTIGADOS                                                               
+  8141000	Adeudado por bancos                                                                                 
+  8143000	Colocaciones comerciales                                                                            
+  8144000	Colocaciones para vivienda                                                                          
+  8145000	Colocaciones de consumo                                                                             
+
+8310000	CREDITOS CONTINGENTES  (**) (***)                                                                      
+  8311000	Avales y fianzas                              
+  8312000	Cartas de crédito del exterior confirmadas                                                          
+  8314000	Cartas de créditos documentarias emitidas                                                           
+  8315000	Boletas de garantía                                                                                
+    8315100	Boletas de garantía en moneda chilena                                                                      
+    8315200	Boletas de garantía en moneda extranjera                                                                      
+	8316000	Cartas de garantía interbancarias                                                                   
+  8317000	Líneas de crédito con disponibilidad inmediata                                                      
+  8318000	Otros compromisos de crédito
+    8318100	Créditos para estudios superiores Ley Nº 20.027
+    8318900	Otros                                                                       
+  8319000	Otros créditos contingentes      
+                                                                     
+8510000 CARTERA NORMAL EVALUACION INDIVIDUAL  (****)
+ 
+  8511000	Adeudado por bancos
+  8513000	Colocaciones comerciales
+
+8520000	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL
+
+  8521000	Adeudado por bancos
+  8523000	Colocaciones comerciales
+  
+8530000 CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL
+
+  8531000	Adeudado por bancos
+  8533000	Colocaciones comerciales
+
+8540000 CARTERA NORMAL EVALUACION GRUPAL
+
+  8543000	Colocaciones comerciales
+  8544000	Colocaciones para vivienda
+  8545000 	Colocaciones de consumo
+
+8560000 CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL
+
+  8563000	Colocaciones comerciales
+  8564000	Colocaciones para vivienda
+  8565000	Colocaciones de consumo
+
+8610000 CARTERA NORMAL EVALUACION INDIVIDUAL CRÉDITOS CONTINGENTES
+
+8620000 CARTERA SUBESTANDAR EVALUACION INDIVIDUAL CRÉDITOS CONTINGENTES
+
+8630000 CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL CRÉDITOS CONTINGENTES
+
+8640000 CARTERA NORMAL EVALUACION GRUPAL CRÉDITOS CONTINGENTES
+
+8660000 CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL CRÉDITOS CONTINGENTES
+
+8700000	PERDIDA NETA POR EVENTOS DE RIESGO OPERACIONAL 
+
+  8710000	GASTOS DEL PERÍODO
+    8711000	Fraude interno
+    8712000	Fraude externo
+	8713000	Prácticas laborales y seguridad en el negocio
+	8714000	Clientes, productos y prácticas de negocio
+	8715000	Daños a activos físicos 
+	8716000	Interrupción del negocio y fallos en sistema
+	8717000	Ejecución, entrega y gestión de procesos
+	
+  8720000	RECUPERACIONES DE GASTOS EN EL PERÍODO
+    8721000	Fraude interno
+    8722000	Fraude externo
+    8723000	Prácticas laborales y seguridad en el negocio
+    8724000	Clientes, productos y prácticas de negocio
+    8725000	Daños a activos físicos
+	8726000	Interrupción del negocio y fallos en sistema
+	8727000	Ejecución, entrega y gestión de procesos
+
+Notas:
+
+Más información sobre este archivo en Compendio de Normas Contables CMF Bancos, Capítulo C-3
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=3.2&idCategoria=2144
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=C.D.A&idContenido=353
+
+*) A partir de enero de 2010, se incorporan las cuentas 8110000, 8111000, 8113000, 8114000, 8115000.
+
+**) A partir de marzo de 2010, se incorporan las cuentas 8318100, 8318900.
+
+***) A partir de enero de 2011, se incorporan las cuentas 8315100, 8315200.
+
+****) A partir de enero de 2012, se incorporan las cuentas 8510000, 8511000, 8513000, 8520000, 8521000, 8523000, 8530000, 8531000, 8533000, 8540000, 8543000, 8544000, 8545000, 8560000, 8563000, 8564000, 8565000, 8610000, 8620000, 8630000, 8640000, 8660000.
+
+*****) A partir de diciembre de 2018, se incorporan las cuentas 8700000, 8710000, 8711000, 8712000, 8713000, 8714000, 8715000, 8716000, 8717000, 8720000, 8721000, 8722000, 8723000, 8724000, 8725000, 8726000, 8727000.

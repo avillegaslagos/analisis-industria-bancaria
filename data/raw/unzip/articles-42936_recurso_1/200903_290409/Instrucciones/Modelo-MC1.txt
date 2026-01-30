@@ -1,0 +1,37 @@
+Descriptores de cuentas usados en reporte MC1
+
+Periodo: Año 2009 - Mes: Marzo
+
+8130000	CASTIGOS DE CREDITOS                                                                                
+  8131000	Adeudado por bancos                                                                                 
+  8133000	Colocaciones comerciales                                                                            
+  8134000	Colocaciones para vivienda                                                                          
+  8135000	Colocaciones de consumo                                                                             
+
+8140000	RECUPERACIONES DE CREDITOS CASTIGADOS                                                               
+  8141000	Adeudado por bancos                                                                                 
+  8143000	Colocaciones comerciales                                                                            
+  8144000	Colocaciones para vivienda                                                                          
+  8145000	Colocaciones de consumo                                                                             
+
+8310000	CREDITOS CONTINGENTES                                                                               
+  8311000	Avales y fianzas                                                                                    
+  8312000	Cartas de crédito del exterior confirmadas                                                          
+  8314000	Cartas de créditos documentarias emitidas                                                           
+  8315000	Boletas de garantía                                                                                 
+  8316000	Cartas de garantía interbancarias                                                                   
+  8317000	Líneas de crédito con disponibilidad inmediata                                                      
+  8318000	Otros compromisos de crédito.                                                                       
+  8319000	Otros créditos contingentes                                                                         
+
+
+
+
+
+Nota:
+Más información sobre este archivo en Compendio de Normas Contables SBIF, Capítulo C-3
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=3.2&idCategoria=2144
+Manual de Sistema de Información - Bancos, Sistema Contable
+http://www.sbif.cl/sbifweb/servlet/LeyNorma?indice=C.D.A&idContenido=353
+
+

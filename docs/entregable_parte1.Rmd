@@ -1,0 +1,104 @@
+---
+title: "Proyecto: Análisis de la Industria Bancaria Chilena con Datos CMF"
+author: "Angélica Villegas"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# 1. Descripción de la solución
+
+## 1.1 Problema que soluciona
+
+En la industria bancaria chilena, el análisis comparativo del desempeño financiero entre instituciones constituye un insumo fundamental para la toma de decisiones estratégicas. Sin embargo, en el área de gestión financiera donde se enmarca este proyecto, la información comparativa del banco respecto de sus competidores se entrega actualmente con un desfase superior a un mes.
+
+Este retraso se origina principalmente en procesos manuales asociados a la obtención de datos desde fuentes públicas, su limpieza, consolidación histórica y posterior análisis, lo que limita la disponibilidad oportuna de información relevante para la toma de decisiones.
+
+## 1.2 Necesidad de negocio
+
+La necesidad de negocio que aborda este proyecto es mejorar la oportunidad, eficiencia y consistencia del análisis financiero de la industria bancaria chilena. Reducir el tiempo requerido para procesar y analizar la información permitiría a la gerencia contar con indicadores comparables en plazos más acotados y con menor dependencia de procesos manuales.
+
+Disponer de información más oportuna permitiría monitorear de mejor manera el desempeño relativo del banco frente a la industria, apoyando decisiones estratégicas basadas en datos actualizados.
+
+## 1.3 Solución propuesta
+
+La solución propuesta consiste en desarrollar un prototipo analítico utilizando el lenguaje R, que permita automatizar el proceso de obtención, limpieza, transformación y análisis de información financiera pública proveniente de la Comisión para el Mercado Financiero (CMF).
+
+El proyecto se enfoca en la construcción de un flujo de datos reproducible y escalable, que permita generar indicadores financieros comparables entre instituciones de manera sistemática.
+
+## 1.4 Usuarios e impacto
+
+Los principales usuarios de la solución son analistas de gestión financiera, jefaturas y la gerencia financiera en su conjunto. El impacto esperado es una reducción significativa en los tiempos de elaboración de análisis, junto con una mejora en la calidad y consistencia de la información entregada.
+
+## 1.5 Periodicidad del desarrollo
+
+El prototipo está diseñado para ejecutarse con una periodicidad mensual, en concordancia con la frecuencia de publicación de información financiera por parte de la CMF.
+
+## 1.6 Alcance del proyecto
+
+### Considera
+- Análisis de información financiera de las colocaciones
+- Comparación entre un banco de referencia y una o dos instituciones de la competencia
+- Automatización de procesos de descarga, limpieza y consolidación de datos
+- Análisis descriptivo y visualizaciones básicas
+
+### No considera (en esta etapa)
+- Modelos predictivos avanzados
+- Despliegue en ambientes productivos
+- Integración con sistemas internos del banco
+
+# 2. Planificación del trabajo
+
+## 2.1 Descriptor del proyecto
+
+El proyecto se desarrolla bajo un enfoque incremental, priorizando la validación temprana de la solución mediante un prototipo acotado. La planificación considera las etapas iniciales del ciclo analítico, enfocándose en la recolección, limpieza y análisis descriptivo de los datos.
+
+## 2.2 Etapas del desarrollo
+
+### Recolección de datos
+Obtención automatizada de información financiera pública desde la CMF y almacenamiento estructurado de los datos.
+
+### Limpieza y transformación
+Validación de formatos, tratamiento de valores faltantes, estandarización de variables financieras y consolidación histórica.
+
+### Análisis descriptivo
+Construcción de indicadores financieros y comparación entre instituciones.
+
+### Visualización y documentación
+Generación de gráficos comparativos y documentación del proceso.
+
+# 3. Planificación temporal (Carta Gantt)
+
+```{r gantt, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+gantt <- tibble(
+  Actividad = c(
+    "Recolección de datos",
+    "Limpieza y transformación",
+    "Análisis descriptivo",
+    "Visualización y documentación"
+  ),
+  Inicio = as.Date(c("2026-01-17", "2026-01-19", "2026-01-22", "2026-01-24")),
+  Fin = as.Date(c("2026-01-19", "2026-01-22", "2026-01-24", "2026-01-28"))
+) %>%
+  mutate(
+    Actividad = factor(
+      Actividad,
+      levels = c(
+        "Recolección de datos",
+        "Limpieza y transformación",
+        "Análisis descriptivo",
+        "Visualización y documentación"
+      )
+    ),
+    Actividad = forcats::fct_rev(Actividad)
+  )
+
+ggplot(gantt, aes(y = Actividad)) +
+  geom_segment(aes(x = Inicio, xend = Fin, yend = Actividad), linewidth = 6) +
+  labs(
+    title = "Carta Gantt del Proyecto",
+    x = "Fecha",
+    y = "Actividad"
+  ) +
+  theme_minimal()

@@ -1,0 +1,409 @@
+2013	07	1000000	ACTIVOS                                                                                             
+2013	07	1100000	EFECTIVO Y DEPOSITOS EN BANCOS                                                                      
+2013	07	1100100	Efectivo                                                                                            
+2013	07	1100200	Depósitos en el Banco Central de Chile                                                              
+2013	07	1100300	Depósitos en bancos del país                                                                        
+2013	07	1100400	Depósitos en el exterior                                                                            
+2013	07	1130000	OPERACIONES CON LIQUIDACION EN CURSO                                                                
+2013	07	1130100	Documentos a cargo de otros bancos (canje)                                                          
+2013	07	1130200	Transferencias de fondos en curso                                                                   
+2013	07	1150000	INSTRUMENTOS PARA NEGOCIACIÓN                                                                       
+2013	07	1150100	Del Estado y Banco Central de Chile                                                                 
+2013	07	1150200	Otros instrumentos emitidos en el país                                                              
+2013	07	1150300	Instrumentos emitidos en el exterior                                                                
+2013	07	1150400	Inversiones en Fondos Mutuos                                                                        
+2013	07	1160000	CONTRATOS DE RETROCOMPRA Y PRÉSTAMOS DE VALORES                                                     
+2013	07	1160100	Operaciones con bancos del país                                                                     
+2013	07	1160200	Operaciones con otras entidades                                                                     
+2013	07	1250000	CONTRATOS DE DERIVADOS FINANCIEROS                                                                  
+2013	07	1250100	Contratos de negociación                                                                            
+2013	07	1250200	Contratos para cobertura contable                                                                   
+2013	07	1270000	ADEUDADO POR BANCOS                                                                                 
+2013	07	1270100	Banco del país                                                                                      
+2013	07	1270112	Préstamos interbancarios de liquidez                                                                
+2013	07	1270113	Préstamos interbancarios comerciales                                                                
+2013	07	1270116	Créditos comercio exterior exportaciones chilenas                                                   
+2013	07	1270117	Créditos comercio exterior importaciones chilenas                                                   
+2013	07	1270118	Créditos comercio exterior entre terceros países                                                    
+2013	07	1270190	Provisiones para créditos con bancos del país                                                       
+2013	07	1270200	Bancos del exterior                                                                                 
+2013	07	1270202	Préstamos interbancarios de liquidez                                                                
+2013	07	1270203	Préstamos interbancarios comerciales                                                                
+2013	07	1270206	Créditos comercio exterior exportaciones chilenas                                                   
+2013	07	1270207	Créditos comercio exterior importaciones chilenas                                                   
+2013	07	1270208	Créditos comercio exterior entre terceros países                                                    
+2013	07	1270290	Provisiones para créditos con bancos del exterior                                                   
+2013	07	1270300	Banco Central de Chile                                                                              
+2013	07	1300000	CRÉDITOS Y CUENTAS POR COBRAR A CLIENTES                                                            
+2013	07	1302000	COLOCACIONES COMERCIALES                                                                            
+2013	07	1302100	Préstamos comerciales                                                                               
+2013	07	1302101	Préstamos en el país                                                                                
+2013	07	1302102	Préstamos en el exterior                                                                            
+2013	07	1302170	Préstamos con letras de crédito para fines generales                                                
+2013	07	1302180	Préstamos con mutuos hipotecarios endosables                                                        
+2013	07	1302200	Créditos de comercio exterior                                                                       
+2013	07	1302201	Acreditivos negociados a plazo de exportaciones chilenas                                            
+2013	07	1302202	Otros créditos para exportaciones chilenas                                                          
+2013	07	1302241	Acreditivos negociados a plazo de importaciones chilenas                                            
+2013	07	1302242	Otros créditos para importaciones chilenas                                                          
+2013	07	1302281	Acreditivos negociados a plazo de operaciones entre terceros países                                 
+2013	07	1302282	Otros créditos para operaciones entre terceros países                                               
+2013	07	1302300	Deudores en cuentas corrientes                                                                      
+2013	07	1302500	Operaciones de factoraje                                                                            
+2013	07	1302800	Operaciones de leasing comercial                                                                    
+2013	07	1302900	Otros créditos y cuentas por cobrar                                                                 
+2013	07	1304000	COLOCACIONES PARA VIVIENDA                                                                          
+2013	07	1304100	Préstamos con letras de crédito                                                                     
+2013	07	1304101	Con letras de crédito para vivienda                                                                 
+2013	07	1304102	Con letras de crédito para fines generales                                                          
+2013	07	1304200	Préstamos con mutuos hipotecarios endosable                                                         
+2013	07	1304500	Otros créditos con mutuos para vivienda                                                             
+2013	07	1304600	Créditos provenientes de la ANAP                                                                    
+2013	07	1304800	Operaciones de leasing para vivienda                                                                
+2013	07	1304900	Otros créditos y cuentas por cobrar                                                                 
+2013	07	1305000	COLOCACIONES DE CONSUMO                                                                             
+2013	07	1305100	Créditos de consumo en cuotas                                                                       
+2013	07	1305300	Deudores en cuentas corrientes                                                                      
+2013	07	1305400	Deudores por tarjetas de crédito                                                                    
+2013	07	1305800	Operaciones de leasing de consumo                                                                   
+2013	07	1305900	Otros créditos y cuentas por cobrar                                                                 
+2013	07	1309000	PROVISIONES CONSTITUIDAS                                                                            
+2013	07	1309100	Provisiones colocaciones comerciales                                                                
+2013	07	1309200	Provisiones colocaciones para vivienda                                                              
+2013	07	1309300	Provisiones colocaciones de consumo                                                                 
+2013	07	1350000	INSTRUMENTOS DE INVERSIÓN DISPONIBLES PARA LA VENTA                                                 
+2013	07	1350100	Del Estado y Banco Central de Chile                                                                 
+2013	07	1350200	Otros instrumentos emitidos en el país                                                              
+2013	07	1350300	Instrumentos emitidos en el exterior                                                                
+2013	07	1360000	INSTRUMENTOS DE INVERSIÓN HASTA EL VENCIMIENTO                                                      
+2013	07	1360100	Del Estado y Banco Central de Chile                                                                 
+2013	07	1360200	Otros instrumentos emitidos en el país                                                              
+2013	07	1360300	Instrumentos emitidos en el exterior                                                                
+2013	07	1400000	INVERSIONES EN SOCIEDADES                                                                           
+2013	07	1400100	Inversiones a valor patrimonial                                                                     
+2013	07	1400101	Sucursales en el exterior                                                                           
+2013	07	1400102	Sociedades controladas                                                                              
+2013	07	1400103	Sociedades con influencia significativa                                                             
+2013	07	1400200	Acciones o derechos en otras sociedades                                                             
+2013	07	1500000	INTANGIBLES                                                                                         
+2013	07	1500100	Menor valor de inversiones (Goodwill)                                                               
+2013	07	1500200	Otros activos intangibles                                                                           
+2013	07	1600000	ACTIVO FIJO                                                                                         
+2013	07	1600100	Edificios y terrenos                                                                                
+2013	07	1600200	Otros activos fijos                                                                                 
+2013	07	1700000	IMPUESTOS CORRIENTES                                                                                
+2013	07	1750000	IMPUESTOS DIFERIDOS                                                                                 
+2013	07	1800000	OTROS ACTIVOS                                                                                       
+2013	07	1800100	Activos para leasing                                                                                
+2013	07	1800200	Bienes recibidos en pago o adjudicados                                                              
+2013	07	1800900	Otros activos                                                                                       
+2013	07	2000000	PASIVOS                                                                                             
+2013	07	2100000	DEPOSITOS Y OTRAS OBLIGACIONES A LA VISTA                                                           
+2013	07	2100100	Cuentas corrientes                                                                                  
+2013	07	2100109	Cuentas corrientes de otras personas jurídicas                                                      
+2013	07	2100110	Cuentas corrientes de personas naturales                                                            
+2013	07	2100200	Otros depósitos y cuentas a la vista                                                                
+2013	07	2100300	Otras obligaciones a la vista                                                                       
+2013	07	2130000	OPERACIONES CON LIQUIDACION EN CURSO                                                                
+2013	07	2160000	CONTRATOS DE RETROCOMPRA Y PRÉSTAMOS DE VALORES                                                     
+2013	07	2160100	Operaciones con bancos del país                                                                     
+2013	07	2160200	Operaciones con otras entidades                                                                     
+2013	07	2200000	DEPOSITOS Y OTRAS CAPTACIONES A PLAZO                                                               
+2013	07	2200100	Depósitos a plazo                                                                                   
+2013	07	2200200	Cuentas de ahorro a plazo                                                                           
+2013	07	2200900	Otros saldos acreedores a plazo                                                                     
+2013	07	2250000	CONTRATOS DE DERIVADOS FINANCIEROS                                                                  
+2013	07	2250100	Contratos de negociación                                                                            
+2013	07	2250200	Contratos para cobertura contable                                                                   
+2013	07	2300000	OBLIGACIONES CON BANCOS                                                                             
+2013	07	2301000	BANCOS DEL PAÍS                                                                                     
+2013	07	2301001	Préstamos interbancarios                                                                            
+2013	07	2302000	BANCOS DEL EXTERIOR                                                                                 
+2013	07	2302100	Financiamientos de comercio exterior                                                                
+2013	07	2302200	Préstamos y otras obligaciones                                                                      
+2013	07	2303000	BANCO CENTRAL DE CHILE                                                                              
+2013	07	2303100	Préstamos y otras obligaciones                                                                      
+2013	07	2303900	Líneas de crédito reprogramación de deudas                                                          
+2013	07	2400000	INSTRUMENTOS DE DEUDA EMITIDOS                                                                      
+2013	07	2401000	LETRAS DE CREDITO                                                                                   
+2013	07	2402000	BONOS                                                                                               
+2013	07	2402100	Bonos corrientes                                                                                    
+2013	07	2402200	Bonos subordinados                                                                                  
+2013	07	2500000	OTRAS OBLIGACIONES FINANCIERAS                                                                      
+2013	07	2500100	Obligaciones con el sector público                                                                  
+2013	07	2500200	Otras obligaciones en el país                                                                       
+2013	07	2500300	Obligaciones con el exterior                                                                        
+2013	07	2600000	IMPUESTOS CORRIENTES                                                                                
+2013	07	2650000	IMPUESTOS DIFERIDOS                                                                                 
+2013	07	2700000	PROVISIONES                                                                                         
+2013	07	2700100	Provisiones para beneficios y remuneraciones del personal                                           
+2013	07	2700200	Provisión para dividendos mínimos                                                                   
+2013	07	2700300	Provisiones por riesgo de créditos contingentes                                                     
+2013	07	2700400	Provisiones por contingencias                                                                       
+2013	07	2700401	Provisiones por riesgo país                                                                         
+2013	07	2700402	Provisiones especiales para créditos al exterior                                                    
+2013	07	2700411	Provisiones adicionales colocaciones comerciales                                                    
+2013	07	2700412	Provisiones adicionales colocaciones para vivienda                                                  
+2013	07	2700413	Provisiones adicionales colocaciones de consumo                                                     
+2013	07	2700421	Ajuste a provisión mínima adeudado por bancos                                                       
+2013	07	2700422	Ajuste a provisión mínima colocaciones comerciales                                                  
+2013	07	2700423	Ajuste a provisión mínima créditos contingentes                                                     
+2013	07	2700490	Otras provisiones por contingencias                                                                 
+2013	07	2800000	OTROS PASIVOS                                                                                       
+2013	07	3000000	PATRIMONIO                                                                                          
+2013	07	3101000	CAPITAL                                                                                             
+2013	07	3102000	RESERVAS                                                                                            
+2013	07	3103000	CUENTAS DE VALORACIÓN                                                                               
+2013	07	3104000	UTILIDADES RETENIDAS                                                                                
+2013	07	3104100	Utilidades retenidas de ejercicios anteriores                                                       
+2013	07	3104200	Utilidad (pérdida) del ejercicio                                                                    
+2013	07	3104300	Provisión para dividendos mínimos                                                                   
+2013	07	3200000	INTERES NO CONTROLADOR                                                                              
+2013	07	4100000	INGRESOS POR INTERESES Y REAJUSTES                                                                  
+2013	07	4100100	Contratos de retrocompra                                                                            
+2013	07	4100101	Intereses                                                                                           
+2013	07	4100151	Reajustes                                                                                           
+2013	07	4100200	Créditos otorgados a bancos                                                                         
+2013	07	4100201	Intereses                                                                                           
+2013	07	4100251	Reajustes                                                                                           
+2013	07	4100300	Colocaciones comerciales                                                                            
+2013	07	4100301	Intereses de préstamos comerciales                                                                  
+2013	07	4100309	Intereses de créditos de comercio exterior                                                          
+2013	07	4100310	Intereses de créditos en cuentas corrientes                                                         
+2013	07	4100320	Intereses de operaciones de factoraje                                                               
+2013	07	4100330	Intereses por leasing comercial                                                                     
+2013	07	4100340	Intereses de otros créditos y cuentas por cobrar                                                    
+2013	07	4100351	Reajustes de préstamos comerciales                                                                  
+2013	07	4100359	Reajustes de créditos de comercio exterior                                                          
+2013	07	4100360	Reajustes de créditos en cuentas corrientes                                                         
+2013	07	4100370	Reajustes de operaciones de factoraje                                                               
+2013	07	4100380	Reajustes por leasing comercial                                                                     
+2013	07	4100390	Reajustes de otros créditos y cuentas por cobrar                                                    
+2013	07	4100399	Comisiones por prepago de créditos comerciales                                                      
+2013	07	4100400	Colocaciones para vivienda                                                                          
+2013	07	4100401	Intereses de préstamos con letras de crédito                                                        
+2013	07	4100402	Comisiones de préstamos con letras de crédito                                                       
+2013	07	4100405	Intereses de préstamos con MHE                                                                      
+2013	07	4100407	Intereses de otros mutuos para vivienda                                                             
+2013	07	4100408	Intereses de créditos ANAP                                                                          
+2013	07	4100420	Intereses por leasing para vivienda                                                                 
+2013	07	4100430	Intereses de otros créditos para vivienda                                                           
+2013	07	4100451	Reajustes de préstamos con letras de crédito                                                        
+2013	07	4100455	Reajustes de préstamos con MHE                                                                      
+2013	07	4100457	Reajustes de otros mutuos para vivienda                                                             
+2013	07	4100458	Reajustes de créditos ANAP                                                                          
+2013	07	4100480	Reajustes por leasing para vivienda                                                                 
+2013	07	4100490	Reajustes de otros créditos para vivienda                                                           
+2013	07	4100499	Comisiones por prepago de créditos para vivienda                                                    
+2013	07	4100500	Colocaciones de consumo                                                                             
+2013	07	4100501	Intereses de créditos de consumo en cuotas                                                          
+2013	07	4100510	Intereses de créditos en cuentas corrientes                                                         
+2013	07	4100520	Intereses de créditos por tarjetas de crédito                                                       
+2013	07	4100530	Intereses por leasing de consumo                                                                    
+2013	07	4100540	Intereses de otros créditos de consumo                                                              
+2013	07	4100590	Reajustes colocaciones de consumo                                                                   
+2013	07	4100599	Comisiones por prepago de créditos de consumo                                                       
+2013	07	4100600	Instrumentos de inversión                                                                           
+2013	07	4100601	Intereses de inversiones disponibles para la venta                                                  
+2013	07	4100621	Intereses de inversiones hasta el vencimiento                                                       
+2013	07	4100651	Reajustes de inversiones disponibles para la venta                                                  
+2013	07	4100671	Reajustes de inversiones hasta el vencimiento                                                       
+2013	07	4100800	Otros ingresos por intereses o reajustes                                                            
+2013	07	4100801	Intereses por saldos en cuentas corrientes                                                          
+2013	07	4100804	Intereses operaciones overnight                                                                     
+2013	07	4100810	Otros intereses ganados                                                                             
+2013	07	4100850	Otros reajustes ganados                                                                             
+2013	07	4100900	Resultado de coberturas contables                                                                   
+2013	07	4150000	GASTOS POR INTERESES Y REAJUSTES                                                                    
+2013	07	4150100	Depósitos a la vista                                                                                
+2013	07	4150101	Intereses por cuentas corrientes                                                                    
+2013	07	4150102	Intereses por otros depósitos y cuentas a la vista                                                  
+2013	07	4150103	Intereses por otras obligaciones a la vista                                                         
+2013	07	4150151	Reajustes por obligaciones a la vista                                                               
+2013	07	4150200	Contratos de retrocompra                                                                            
+2013	07	4150201	Intereses                                                                                           
+2013	07	4150251	Reajustes                                                                                           
+2013	07	4150300	Depósitos y captaciones a plazo                                                                     
+2013	07	4150301	Intereses por depósitos a plazo                                                                     
+2013	07	4150302	Intereses por cuentas de ahorro a plazo                                                             
+2013	07	4150309	Intereses de otros saldos acreedores a plazo                                                        
+2013	07	4150351	Reajustes por depósitos a plazo                                                                     
+2013	07	4150352	Reajustes por cuentas de ahorro a plazo                                                             
+2013	07	4150359	Reajustes de otros saldos acreedores a plazo                                                        
+2013	07	4150400	Obligaciones con bancos                                                                             
+2013	07	4150401	Intereses                                                                                           
+2013	07	4150451	Reajustes                                                                                           
+2013	07	4150500	Instrumentos de deuda emitidos                                                                      
+2013	07	4150501	Intereses por letras de crédito                                                                     
+2013	07	4150511	Intereses por bonos corrientes                                                                      
+2013	07	4150521	Intereses por bonos subordinados                                                                    
+2013	07	4150551	Reajustes por letras de crédito                                                                     
+2013	07	4150561	Reajustes por bonos corrientes                                                                      
+2013	07	4150571	Reajustes por bonos subordinados                                                                    
+2013	07	4150600	Otras obligaciones financieras                                                                      
+2013	07	4150601	Intereses                                                                                           
+2013	07	4150651	Reajustes                                                                                           
+2013	07	4150800	Otros gastos por intereses o reajustes                                                              
+2013	07	4150801	Intereses                                                                                           
+2013	07	4150851	Reajustes                                                                                           
+2013	07	4150900	Resultado de coberturas contables                                                                   
+2013	07	4200000	INGRESOS POR COMISIONES                                                                             
+2013	07	4200100	Comisiones por líneas de crédito y sobregiros                                                       
+2013	07	4200200	Comisiones por avales y cartas de crédito                                                           
+2013	07	4200300	Comisiones por servicios de tarjetas                                                                
+2013	07	4200303	Tarjetas de cajeros automáticos                                                                     
+2013	07	4200304	Tarjetas de crédito-comisiones a titulares                                                          
+2013	07	4200305	Tarjetas de crédito-comisiones de establecimientos                                                  
+2013	07	4200306	Tarjetas de débito-comisiones de titulares                                                          
+2013	07	4200307	Tarjetas de débito-comisiones de establecimientos                                                   
+2013	07	4200309	Otras tarjetas                                                                                      
+2013	07	4200400	Comisiones por administración de cuentas                                                            
+2013	07	4200500	Comisiones por cobranzas, recaudaciones y pagos                                                     
+2013	07	4200600	Comisiones por intermediación y manejo de valores                                                   
+2013	07	4200700	Comisiones por inversiones en fondos mutuos u otros                                                 
+2013	07	4200800	Remuneraciones por comercialización de seguros                                                      
+2013	07	4200900	Otras comisiones ganadas                                                                            
+2013	07	4250000	GASTOS POR COMISIONES                                                                               
+2013	07	4250100	Remuneraciones por operación de tarjetas                                                            
+2013	07	4250101	Comisiones por operación de tarjetas de crédito                                                     
+2013	07	4250102	Comisiones por operación de tarjetas de débito y cajeros                                            
+2013	07	4250190	Otras                                                                                               
+2013	07	4250200	Comisiones por operación con valores                                                                
+2013	07	4250300	Otras comisiones                                                                                    
+2013	07	4300000	UTILIDAD NETA DE OPERACIONES FINANCIERAS                                                            
+2013	07	4300100	Instrumentos financieros para negociación                                                           
+2013	07	4300101	Intereses y reajustes                                                                               
+2013	07	4300102	Ajuste a valor razonable                                                                            
+2013	07	4300103	Utilidad por venta                                                                                  
+2013	07	4300104	Pérdida por venta                                                                                   
+2013	07	4300190	Resultado inversiones en Fondos Mutuos                                                              
+2013	07	4300200	Derivados de negociación                                                                            
+2013	07	4300300	Venta de instrumentos disponibles para la venta                                                     
+2013	07	4300400	Venta de cartera de créditos                                                                        
+2013	07	4300500	Resultado neto de otras operaciones                                                                 
+2013	07	4350000	UTILIDAD (PÉRDIDA) DE CAMBIO NETA                                                                   
+2013	07	4350100	Resultado neto de cambio monedas extranjeras                                                        
+2013	07	4350200	Resultados neto por reajustes por tipo de cambio                                                    
+2013	07	4350900	Resultado de coberturas contables                                                                   
+2013	07	4400000	OTROS INGRESOS OPERACIONALES                                                                        
+2013	07	4400100	Ingresos por bienes recibidos en pago                                                               
+2013	07	4400200	Liberación de provisiones por contingencias                                                         
+2013	07	4400300	Otros ingresos                                                                                      
+2013	07	4500000	PROVISIONES POR RIESGO DE CREDITO                                                                   
+2013	07	4500100	Provisiones para créditos y cuentas por cobrar                                                      
+2013	07	4500101	Provisiones colocaciones comerciales                                                                
+2013	07	4500111	Provisiones colocaciones para vivienda                                                              
+2013	07	4500112	Provisiones colocaciones de consumo                                                                 
+2013	07	4500190	Provisiones para créditos otorgados a bancos                                                        
+2013	07	4500200	Provisiones para créditos contingentes                                                              
+2013	07	4500700	Provisiones adicionales                                                                             
+2013	07	4500701	Provisiones adicionales colocaciones comerciales                                                    
+2013	07	4500702	Provisiones adicionales colocaciones para vivienda                                                  
+2013	07	4500703	Provisiones adicionales colocaciones de consumo                                                     
+2013	07	4500800	Ajuste a provisión mínima cartera normal                                                            
+2013	07	4500801	Ajuste a provisión mínima adeudado por bancos                                                       
+2013	07	4500802	Ajuste a provisión mínima colocaciones comerciales                                                  
+2013	07	4500803	Ajuste a provisión mínima créditos contingentes                                                     
+2013	07	4500900	Recuperación de créditos castigados                                                                 
+2013	07	4500901	Recuperación de créditos comerciales castigados                                                     
+2013	07	4500911	Recuperación de créditos para vivienda castigados                                                   
+2013	07	4500921	Recuperación de créditos de consumo castigados                                                      
+2013	07	4500931	Recuperación de otros créditos castigados                                                           
+2013	07	4600000	REMUNERACIONES Y GASTOS DEL PERSONAL                                                                
+2013	07	4610000	GASTOS DE ADMINISTRACIÓN                                                                            
+2013	07	4610100	Gastos generales de administración                                                                  
+2013	07	4610200	Servicios subcontratados                                                                            
+2013	07	4610300	Gastos del Directorio                                                                               
+2013	07	4610400	Publicidad y propaganda                                                                             
+2013	07	4610500	Impuestos, contribuciones y aportes                                                                 
+2013	07	4620000	DEPRECIACIONES Y AMORTIZACIONES                                                                     
+2013	07	4630000	DETERIOROS                                                                                          
+2013	07	4650000	OTROS GASTOS OPERACIONALES                                                                          
+2013	07	4650100	Provisiones y gastos por bienes recibidos en pago                                                   
+2013	07	4650200	Provisiones por contingencias                                                                       
+2013	07	4650201	Provisiones por riesgo país                                                                         
+2013	07	4650211	Provisiones especiales para créditos al exterior                                                    
+2013	07	4650290	Otras provisiones por contingencias                                                                 
+2013	07	4650900	Otros gastos                                                                                        
+2013	07	4700000	RESULTADO POR INVERSIONES EN SOCIEDADES                                                             
+2013	07	4700100	Utilidades por inversiones en sociedades                                                            
+2013	07	4700101	Sucursales en el exterior                                                                           
+2013	07	4700102	Sociedades controladas                                                                              
+2013	07	4700103	Sociedades con influencia significativa                                                             
+2013	07	4700110	Percibido por acciones y derechos en otras sociedades                                               
+2013	07	4700200	Pérdidas por inversiones en sociedades                                                              
+2013	07	4700201	Sucursales en el exterior                                                                           
+2013	07	4700202	Sociedades controladas                                                                              
+2013	07	4700203	Sociedades con influencia significativa                                                             
+2013	07	4700210	Ajustes por deterioro de inversiones en sociedades                                                  
+2013	07	4800000	IMPUESTO A LA RENTA                                                                                 
+2013	07	4800001	Provisión impuesto a la renta                                                                       
+2013	07	4850000	RESULTADO DE OPERACIONES DESCONTINUADAS                                                             
+2013	07	4900000	INTERES NO CONTROLADOR                                                                              
+2013	07	5001000	PATRIMONIO DE LOS PROPIETARIOS                                                                      
+2013	07	5002000	TOTAL PASIVO Y PATRIMONIO                                                                           
+2013	07	5003000	INGRESO NETO POR INTERESES Y REAJUSTES                                                              
+2013	07	5004000	INGRESO NETO POR COMISIONES                                                                         
+2013	07	5005000	TOTAL INGRESOS OPERACIONALES                                                                        
+2013	07	5006000	INGRESO OPERACIONAL NETO                                                                            
+2013	07	5007000	RESULTADO OPERACIONAL                                                                               
+2013	07	5008000	RESULTADO ANTES DE IMPUESTO A LA RENTA                                                              
+2013	07	5009000	RESULTADO DE OPERACIONES CONTINUAS                                                                  
+2013	07	5010000	UTILIDAD (PERDIDA) CONSOLIDADA DEL EJERCICIO                                                        
+2013	07	5020000	RESULTADO DE LOS PROPIETARIOS                                                                       
+2013	07	5100000	TOTAL COLOCACIONES                                                                                  
+2013	07	8110000	CARTERA DETERIORADA                                                                                 
+2013	07	8111000	Adeudado por bancos                                                                                 
+2013	07	8113000	Colocaciones comerciales                                                                            
+2013	07	8114000	Colocaciones para vivienda                                                                          
+2013	07	8115000	Colocaciones de consumo                                                                             
+2013	07	8130000	CASTIGOS DE CREDITOS                                                                                
+2013	07	8131000	Adeudado por bancos                                                                                 
+2013	07	8133000	Colocaciones comerciales                                                                            
+2013	07	8134000	Colocaciones para vivienda                                                                          
+2013	07	8135000	Colocaciones de consumo                                                                             
+2013	07	8140000	RECUPERACIONES DE CREDITOS CASTIGADOS                                                               
+2013	07	8141000	Adeudado por bancos                                                                                 
+2013	07	8143000	Colocaciones comerciales                                                                            
+2013	07	8144000	Colocaciones para vivienda                                                                          
+2013	07	8145000	Colocaciones de consumo                                                                             
+2013	07	8310000	CREDITOS CONTINGENTES                                                                               
+2013	07	8311000	Avales y fianzas                                                                                    
+2013	07	8312000	Cartas de crédito del exterior confirmadas                                                          
+2013	07	8314000	Cartas de créditos documentarias emitidas                                                           
+2013	07	8315000	Boletas de garantía                                                                                 
+2013	07	8315100	Boletas de garantía en moneda chilena.                                                              
+2013	07	8315200	Boletas de garantía en moneda extranjera.                                                           
+2013	07	8316000	Cartas de garantía interbancarias                                                                   
+2013	07	8317000	Líneas de crédito con disponibilidad inmediata                                                      
+2013	07	8318000	Otros compromisos de crédito                                                                        
+2013	07	8318100	Créditos para estudios superiores Ley N° 20.027.                                                    
+2013	07	8318900	Otros.                                                                                              
+2013	07	8319000	Otros créditos contingentes                                                                         
+2013	07	8510000	CARTERA NORMAL EVALUACION INDIVIDUAL                                                                
+2013	07	8511000	Adeudado por bancos                                                                                 
+2013	07	8513000	Colocaciones comerciales                                                                            
+2013	07	8520000	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL                                                           
+2013	07	8521000	Adeudado por bancos                                                                                 
+2013	07	8523000	Colocaciones comerciales                                                                            
+2013	07	8530000	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL                                                     
+2013	07	8531000	Adeudado por bancos                                                                                 
+2013	07	8533000	Colocaciones comerciales                                                                            
+2013	07	8540000	CARTERA NORMAL EVALUACION GRUPAL                                                                    
+2013	07	8543000	Colocaciones comerciales                                                                            
+2013	07	8544000	Colocaciones para vivienda                                                                          
+2013	07	8545000	Colocaciones de consumo                                                                             
+2013	07	8560000	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL                                                         
+2013	07	8563000	Colocaciones comerciales                                                                            
+2013	07	8564000	Colocaciones para vivienda                                                                          
+2013	07	8565000	Colocaciones de consumo                                                                             
+2013	07	8610000	CARTERA NORMAL EVALUACION INDIVIDUAL                                                                
+2013	07	8620000	CARTERA SUBESTANDAR EVALUACION INDIVIDUAL                                                           
+2013	07	8630000	CARTERA EN INCUMPLIMIENTO EVALUACION INDIVIDUAL                                                     
+2013	07	8640000	CARTERA NORMAL EVALUACION GRUPAL                                                                    
+2013	07	8660000	CARTERA EN INCUMPLIMIENTO EVALUACION GRUPAL                                                         
+2013	07	9910000	CARTERA CON MOROSIDAD DE 90 DIAS O MÁS.                                                             
+2013	07	9911000	Adeudado por bancos                                                                                 
+2013	07	9913000	Colocaciones comerciales                                                                            
+2013	07	9914000	Colocaciones para vivienda                                                                          
+2013	07	9915000	Colocaciones de consumo                                                                             
