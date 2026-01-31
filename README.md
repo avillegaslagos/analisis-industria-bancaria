@@ -25,33 +25,10 @@ En la segunda etapa del proyecto se desarrolla el Producto Mínimo Viable (MVP),
 
 ---
 
-# El resultado de esta etapa corresponde al archivo:
+## El resultado de esta etapa corresponde al archivo:
 
 data/processed/b1_historico.csv
 
----
-
-## Estructura del repositorio
-
-analisis-industria-bancaria/
-│
-├── scripts/ 
-│ ├── 01_descargar_zip.R
-│ ├── 02_descomprimir_zip.R
-│ ├── 03_extraer_b1.R
-│ └── 04_consolidar_b1_historico.R
-│
-├── data/
-│ ├── raw/                # Datos crudos CMF (TXT B1)
-│ └── processed/          # Dataset consolidado
-│ └── b1_historico.csv    # 
-│
-├── docs/ # Documentación del proyecto
-│ ├── entrega_1.pdf
-│ ├── entrega_2_mvp.Rmd
-│ └── entrega_2_mvp.pdf
-│
-└── README.md
 
 ---
 
