@@ -29,7 +29,6 @@ En la segunda etapa del proyecto se desarrolla el Producto Mínimo Viable (MVP),
 
 data/processed/b1_historico.csv
 
-
 ---
 
 ## Próximos pasos (Entrega 3)

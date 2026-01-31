@@ -1,6 +1,6 @@
 # ==========================================================
 # 04_consolidar_b1_historico.R
-# Consolida histórico B1 desde archivos CMF reales
+# Consolida histórico B1 desde archivos CMF
 # ==========================================================
 
 library(dplyr)
@@ -8,26 +8,14 @@ library(readr)
 library(stringr)
 
 # ----------------------------------------------------------
-# Rutas 
+# Rutas
 # ----------------------------------------------------------
-ruta_b1 <- "data/raw/b1"
+ruta_b1     <- "data/raw/b1"
 ruta_output <- "data/processed"
 
 dir.create(ruta_output, recursive = TRUE, showWarnings = FALSE)
 
 archivo_salida <- file.path(ruta_output, "b1_historico.csv")
-
-# ----------------------------------------------------------
-# Parámetros de negocio
-# ----------------------------------------------------------
-bancos_objetivo <- c("001", "012", "037")
-
-ifrs_objetivo <- c(
-  "500000000",  # Total colocaciones
-  "148000000",  # Consumo
-  "146000000",  # Vivienda
-  "145000000"   # Comercial
-)
 
 # ----------------------------------------------------------
 # Listar archivos B1
@@ -42,7 +30,7 @@ cat("Archivos B1 encontrados:", length(archivos_b1), "\n")
 stopifnot(length(archivos_b1) > 0)
 
 # ----------------------------------------------------------
-# Función lectura B1 (ROBUSTA REAL)
+# Función lectura B1
 # ----------------------------------------------------------
 leer_b1 <- function(path) {
   
@@ -51,11 +39,10 @@ leer_b1 <- function(path) {
   periodo_yyyymm <- substr(nombre, 3, 8)
   banco_codigo   <- substr(nombre, 9, 11)
   
-  if (!banco_codigo %in% bancos_objetivo) return(NULL)
-  
+  # Leer archivo B1 (estructura real CMF)
   df_raw <- read_table(
     path,
-    skip = 1,  # salta línea "037 BANCO SANTANDER-CHILE"
+    skip = 1,  # Salta encabezado tipo "037 BANCO SANTANDER-CHILE"
     col_names = c("ifrs", "clp", "uf", "mx", "total"),
     col_types = cols(.default = col_character())
   )
@@ -65,10 +52,10 @@ leer_b1 <- function(path) {
       banco_codigo = banco_codigo,
       periodo = as.Date(paste0(periodo_yyyymm, "01"), "%Y%m%d"),
       
-      clp   = parse_number(clp, locale = locale(decimal_mark = ",")),
-      uf    = parse_number(uf,  locale = locale(decimal_mark = ",")),
-      mx    = parse_number(mx,  locale = locale(decimal_mark = ",")),
-      total = parse_number(total, locale = locale(decimal_mark = ","))
+      clp = parse_number(clp, locale = locale(decimal_mark = ",")),
+      uf  = parse_number(uf,  locale = locale(decimal_mark = ",")),
+      mx  = parse_number(mx,  locale = locale(decimal_mark = ",")),
+      mx2 = parse_number(total, locale = locale(decimal_mark = ","))
     ) %>%
     select(
       banco_codigo,
@@ -77,7 +64,7 @@ leer_b1 <- function(path) {
       clp,
       uf,
       mx,
-      total
+      mx2
     )
 }
 
@@ -91,7 +78,7 @@ cat("Filas nuevas procesadas:", nrow(df_nuevo), "\n")
 stopifnot(nrow(df_nuevo) > 0)
 
 # ----------------------------------------------------------
-# Guardado incremental CONSISTENTE
+# Guardado incremental consistente
 # ----------------------------------------------------------
 if (file.exists(archivo_salida)) {
   
@@ -104,7 +91,7 @@ if (file.exists(archivo_salida)) {
       clp          = col_double(),
       uf           = col_double(),
       mx           = col_double(),
-      total        = col_double()
+      mx2          = col_double()
     )
   )
   
