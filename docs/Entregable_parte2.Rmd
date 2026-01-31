@@ -15,7 +15,8 @@ Este retraso limita la disponibilidad oportuna de información comparativa, difi
 
 El Producto Mínimo Viable (MVP) de este proyecto corresponde a un sistema automatizado desarrollado en R que permite descargar, validar y consolidar información histórica de colocaciones bancarias publicada por la Comisión para el Mercado Financiero (CMF).
 
-La solución genera un dataset estructurado y actualizado, listo para ser utilizado en análisis comparativos de la industria bancaria y como insumo base para la construcción de dashboards financieros y reportes de gestión.
+La solución genera un dataset estructurado y actualizado, listo para ser utilizado en análisis comparativos de la industria bancaria y como insumo base para la construcción de dashboards financieros y reportes de gestión, los cuales serán desarrollados en etapas posteriores del proyecto.
+
 
 ## 2.1 Obtención de datos (Collect data)
 
@@ -57,7 +58,7 @@ El dataset presenta, entre otras, las siguientes variables:
 - Periodo de información (frecuencia mensual).
 - Valor de colocaciones.
 
-Este archivo constituye la fuente base para análisis posteriores y para la construcción de visualizaciones y dashboards financieros.
+Este archivo constituye la fuente base para análisis posteriores y para la construcción de visualizaciones, indicadores y dashboards financieros, los cuales se abordarán en la siguiente etapa del proyecto.
 
 # 6. Repositorio del proyecto
 
@@ -67,4 +68,12 @@ El código fuente del proyecto, junto con la documentación y los scripts de pro
 https://github.com/avillegaslagos/analisis-industria-bancaria
 
 El uso de control de versiones permite asegurar trazabilidad, reproducibilidad y escalabilidad de la solución desarrollada.
+
+# 7. Alcance de la etapa actual (Entrega 2)
+
+En esta segunda etapa del proyecto se desarrolla el Producto Mínimo Viable (MVP), enfocado en la automatización del proceso de descarga, limpieza y consolidación de información financiera desde la Comisión para el Mercado Financiero (CMF).
+
+El resultado de esta etapa corresponde a la construcción de un dataset histórico validado y reproducible, que servirá como insumo base para la generación de indicadores financieros, análisis descriptivo y visualizaciones, los cuales serán abordados en la siguiente fase del proyecto.
+
+De esta forma, la solución desarrollada en la Entrega 2 se posiciona como la base técnica y metodológica sobre la cual se implementarán las funcionalidades analíticas y de visualización comprometidas en el alcance general del proyecto.
 
